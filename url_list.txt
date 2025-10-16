@@ -1,0 +1,2 @@
+https://github.com/MoriwakiYusuke/sbom-python-test.git
+https://github.com/MoriwakiYusuke/sbom-go-test.git

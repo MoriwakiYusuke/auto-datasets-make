@@ -14,3 +14,6 @@ dist/
 
 # Notebook checkpoint files
 .ipynb_checkpoints
+
+# クローン後のリポジトリを除く
+cloned_repositories/
