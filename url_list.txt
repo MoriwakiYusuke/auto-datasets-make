@@ -1,2 +1,4 @@
 https://github.com/MoriwakiYusuke/sbom-python-test.git
 https://github.com/MoriwakiYusuke/sbom-go-test.git
+https://github.com/TheAlgorithms/Python.git
+https://github.com/Python-World/python-mini-projects.git
