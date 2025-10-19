@@ -5,7 +5,9 @@
     "created": "2025-10-19T13:06:02Z",
     "creators": [
       "Organization: Python-World",
-      "Tool: Microsoft.SBOMTool-4.1.1"
+      "Tool: Microsoft.SBOMTool-4.1.1",
+      "Tool: protobom-v0.0.0-20251017101805-28c6776db0cf+dirty",
+      "Tool: GitHub.com-Dependency-Graph"
     ]
   },
   "name": "python-mini-projects e0cfd4b0fe5e0bb4d443daba594e83332d5fb720",
@@ -39,7 +41,7 @@
       "SPDXID": "SPDXRef-Package-88DB96AF3775E0B6720B0AB3C7079FFB471E0E8730B878A3A60EBC7D256D65E2",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "3.9.8",
@@ -75,7 +77,7 @@
       "SPDXID": "SPDXRef-Package-B01E9BF421D977AB31FE7826FFCEEC0BD241A0EA85B2E4058B8568E5605690ED",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "2.10",
@@ -111,9 +113,9 @@
       "SPDXID": "SPDXRef-Package-86BF416136D3517AAB146993237175C79F1D81C2ED850318B360C6AFE12709CA",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2001-2006 Gregory P. Ward., Copyright 2002-2006 Python Software Foundation., copyright 2014 Pallets, Copyright 2014 Pallets",
       "versionInfo": "7.1.2",
       "externalRefs": [
         {
@@ -129,7 +131,7 @@
       "SPDXID": "SPDXRef-Package-54DC01240AAE0C53E9DDDB504CBAAA4AAF92C7A5D4628C301F156BC659ACA476",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "3.2.2",
@@ -183,9 +185,9 @@
       "SPDXID": "SPDXRef-Package-DC5520FC2C12EC2A614B69514AF98FB69498401E29CC3F46D69743D185AD9B4F",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "copyright (c) 2012 by Kenneth Reitz., copyright (c) 2017 by Kenneth Reitz., Copyright 2019 Kenneth Reitz",
       "versionInfo": "2.24.0",
       "externalRefs": [
         {
@@ -203,7 +205,7 @@
       "filesAnalyzed": false,
       "licenseConcluded": "NOASSERTION",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 2012, copyright 2007, Google Corporation.Droid Sans MonoRegularAscender",
       "versionInfo": "1.8.0",
       "externalRefs": [
         {
@@ -219,9 +221,9 @@
       "SPDXID": "SPDXRef-Package-24BE012940C60762D5C1E6461E6A20E20FA99A7517F6DDCDFBADCCD8749F7356",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2018 - 2020 a href https://github.com/facelessuser, Copyright (c) 2018 - 2020 Isaac Muse <isaacmuse@gmail.com>, Copyright (c) 2018 Isaac Muse, Copyright (c) 2018 Isaac Muse <isaacmuse@gmail.com>",
       "versionInfo": "2.0.1",
       "externalRefs": [
         {
@@ -237,9 +239,9 @@
       "SPDXID": "SPDXRef-Package-A20139A25A4C21941784E86DABFDDCF85CF0FA26C841C552EB29EBD4E1214B49",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2003-2019 Paul T. McGuire, Copyright (c) 2003, Paul McGuire, Copyright (c) 2003,2016, Paul McGuire, Copyright (c) 2003,2019 Paul McGuire, Copyright (c) 2004-2011 Paul T. McGuire, Copyright (c) 2004-2016, Paul McGuire, Copyright (c) 2004, 2006 Paul McGuire, Copyright (c) 2004, Paul McGuire, Copyright (c) 2006 Tim Cera timcera@earthlink.net, Copyright (c) 2006-2016, Paul McGuire, Copyright (c) 2006, 2016, Paul McGuire, Copyright (c) 2006, Estrate, the Netherlands, Copyright (c) 2006, Paul McGuire, Copyright (c) 2006,2016 Paul McGuire, Copyright (c) 2009 Zarko Zivanov, Copyright (c) 2016, Paul McGuire, Copyright (c) 2018 Paul T. McGuire, Copyright 1989 by Carnegie Mellon University, Copyright 2002-2018, Paul McGuire, Copyright 2003-2009 by Paul McGuire, Copyright 2003, 2019 by Paul McGuire, Copyright 2004-2010, Copyright 2004-2016, by Paul McGuire, Copyright 2004, by Alberto Santini http://www.albertosantini.it/chess, Copyright 2004, Paul McGuire, Copyright 2005-2006, Paul McGuire, Copyright 2006, by Paul McGuire, copyright 2006, Paul McGuire, Copyright 2006, Paul McGuire, Copyright 2007 by Paul McGuire, Copyright 2007-2011, by Paul McGuire, Copyright 2008 Chris Lambrou, Copyright 2008, by Paul McGuire, Copyright 2008, Paul McGuire, Copyright 2009, 2011 Paul McGuire, Copyright 2010, 2019 by Paul McGuire, Copyright 2010, Paul McGuire, Copyright 2010,2019 Paul McGuire, Copyright 2011, Paul McGuire, Copyright 2011,2015 Paul T. McGuire, Copyright 2012, Paul T. McGuire, Copyright 2015, Paul McGuire, Copyright 2016, Paul McGuire, Copyright 2018, Paul McGuire, copyright 2018, Paul T. McGuire, Copyright 2019, Paul McGuire, Copyright copy 2003-2013 Paul McGuire, Copyright Ellis & Grant, Inc. 2005, Copyright Paul McGuire, 2019, Copyright Petri Savolainen <firstname.lastname@iki.fi>, Copyright, 2006, by Paul McGuire, Copyright, 2007 - Paul McGuire, Copyright, 2010, Paul McGuire, Copyright, 2012 - Paul McGuire",
       "versionInfo": "2.4.7",
       "externalRefs": [
         {
@@ -255,9 +257,9 @@
       "SPDXID": "SPDXRef-Package-A183932F7E4B44857B606256094A3955FB32D761DCDF5CD9ED4263FE16EA2F6D",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2007 Cybozu Labs, Inc., Copyright (c) 2012 Google Inc., Copyright 2018 Software Freedom Conservancy (SFC)",
       "versionInfo": "3.141.0",
       "externalRefs": [
         {
@@ -273,9 +275,9 @@
       "SPDXID": "SPDXRef-Package-371B862CDE1980E7D92926592AA8D95D5074A0E5BC85517B065F7A9C1B8E7C70",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT-CMU",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Tavmjung Bah, Copyright (c) 1987 Adobe Systems, Inc., Copyright (c) 1987-1994 The Regents of the University of California, Copyright (c) 1987-1994 The Regents of the University of California., copyright (c) 1991-1995, Thomas G. Lane, copyright (c) 1991-1995, Thomas G. Lane., Copyright (c) 1993-1996 Lucent Technologies, Copyright (c) 1993-1996 Lucent Technologies., Copyright (c) 1994-1998 Sun Microsystems, Inc., Copyright (c) 1995 by Fredrik Lundh, Copyright (c) 1995 by Fredrik Lundh., Copyright (c) 1995-1996 by Fredrik Lundh, Copyright (c) 1995-1996 by Fredrik Lundh., Copyright (c) 1995-1997 by Fredrik Lundh, Copyright (c) 1995-1997 by Fredrik Lundh., Copyright (c) 1995-2001 by Fredrik Lundh, Copyright (c) 1995-2001 by Fredrik Lundh., Copyright (c) 1995-2001 by Secret Labs AB, Copyright (c) 1995-2002 by Fredrik Lundh, Copyright (c) 1995-2002 by Fredrik Lundh., Copyright (c) 1995-2003 by Fredrik Lundh, Copyright (c) 1995-2003 by Fredrik Lundh., Copyright (c) 1995-2004 by Fredrik Lundh, Copyright (c) 1995-2004 by Fredrik Lundh., Copyright (c) 1995-2005 by Fredrik Lundh, Copyright (c) 1995-2006 by Fredrik Lundh, Copyright (c) 1995-2009 by Fredrik Lundh, Copyright (c) 1995-2009 by Fredrik Lundh., Copyright (c) 1995-2011 by Fredrik Lundh, Copyright (c) 1995-96 by Fredrik Lundh, Copyright (c) 1995-96 by Fredrik Lundh., Copyright (c) 1996 by Fredrik Lundh, Copyright (c) 1996 by Fredrik Lundh., Copyright (c) 1996-1997 by Fredrik Lundh, Copyright (c) 1996-1997 by Fredrik Lundh., Copyright (c) 1996-2000 by Fredrik Lundh, Copyright (c) 1996-2000 Fredrik Lundh, Copyright (c) 1996-2003 by Fredrik Lundh, Copyright (c) 1996-2004 by Fredrik Lundh, Copyright (c) 1996-2004 by Fredrik Lundh., Copyright (c) 1996-2006 by Fredrik Lundh, Copyright (c) 1997 by Fredrik Lundh, Copyright (c) 1997 by Fredrik Lundh., Copyright (c) 1997 by Secret Labs AB., Copyright (c) 1997-1998 by Fredrik Lundh, Copyright (c) 1997-1998 by Secret Labs AB, Copyright (c) 1997-1999 by Secret Labs AB, Copyright (c) 1997-2000 by Secret Labs AB, Copyright (c) 1997-2001 by Secret Labs AB., Copyright (c) 1997-2002 by Secret Labs AB., Copyright (c) 1997-2003 by Fredrik Lundh, Copyright (c) 1997-2003 by Fredrik Lundh., Copyright (c) 1997-2003 by Secret Labs AB., Copyright (c) 1997-2004 by Secret Labs AB., Copyright (c) 1997-2005 by Fredrik Lundh, Copyright (c) 1997-2005 by Secret Labs AB., Copyright (c) 1997-2006 by Secret Labs AB., Copyright (c) 1997-2007 Adobe Systems, Inc., Copyright (c) 1997-2009 by Secret Labs AB., Copyright (c) 1997-2011 by Secret Labs AB, Copyright (c) 1997-98 by Secret Labs AB., Copyright (c) 1997-99 by Secret Labs AB., Copyright (c) 1998 by Secret Labs AB, Copyright (c) 1998 by Toby J Sargeant, Copyright (c) 1998 Hewlett-Packard Company, Copyright (c) 1998-2000 by Scriptics Corporation, Copyright (c) 1998-2000 by Scriptics Corporation., Copyright (c) 1998-2000 Secret Labs AB, Copyright (c) 1998-2001 Marti Maria, Copyright (c) 1998-2003 by Fredrik Lundh, Copyright (c) 1998-2003 by Secret Labs AB., Copyright (c) 1998-2004 by Secret Labs AB., Copyright (c) 1998-2005 by Secret Labs AB, Copyright (c) 1998-2007 by Secret Labs AB, Copyright (c) 1999 by Secret Labs AB., Copyright (c) 1999-2005 by Secret Labs AB, Copyright (c) 2000-2003 by Fredrik Lundh, Copyright (c) 2000-2006 Adobe Systems, Inc., Copyright (c) 2001-2002 by Fredrik Lundh, Copyright (c) 2001-2002 by Secret Labs AB, Copyright (c) 2001-2004 by Fredrik Lundh, Copyright (c) 2001-2004 by Secret Labs AB, Copyright (c) 2002 by Fredrik Lundh, Copyright (c) 2002 by Kevin B. Kenny, Copyright (c) 2002 by Kevin B. Kenny., Copyright (c) 2002 by Secret Labs AB, Copyright (c) 2002-2003 Kevin Cazabon, Copyright (c) 2002-2003 Kevin Cazabon kevin@cazabon.com http://www.cazabon.com, Copyright (c) 2002-2004 by Fredrik Lundh, Copyright (c) 2002-2004 by Secret Labs AB, Copyright (c) 2003 by Bitstream, Inc., Copyright (c) 2003 by Fredrik Lundh, Copyright (c) 2003 by Fredrik Lundh., Copyright (c) 2003 by Secret Labs AB, Copyright (c) 2003-2005 by Fredrik Lundh, Copyright (c) 2003-2005 by Secret Labs AB, Copyright (c) 2004 by Bob Ippolito, Copyright (c) 2004 by Bob Ippolito., Copyright (c) 2004 by Fredrik Lundh, Copyright (c) 2004 by Fredrik Lundh., Copyright (c) 2004 by Health Research Inc., Copyright (c) 2004 by Secret Labs, Copyright (c) 2004 by Secret Labs AB., Copyright (c) 2004 by Secret Labs., Copyright (c) 2004 by William Baxter, Copyright (c) 2004 by William Baxter., Copyright (c) 2004, Andrey Kiselev <dron@ak4719.spb.edu>, Copyright (c) 2005 by Fredrik Lundh, Copyright (c) 2006 by Fredrik Lundh, Copyright (c) 2006 by Fredrik Lundh., Copyright (c) 2006 by Secret Labs AB., Copyright (c) 2006 by Tavmjong Bah, Copyright (c) 2006 by Tavmjong Bah., Copyright (c) 2008 by Karsten Hiddemann, Copyright (c) 2008 by Karsten Hiddemann., Copyright (c) 2009 by Fredrik Lundh, Copyright (c) 2009 Fredrik Lundh, Copyright (c) 2010 Oliver Tonnhofer <olt@bogosoft.com>, Copyright (c) 2010-2020 by Alex Clark and contributors, Copyright (c) 2012 by Brian Crowell, Copyright (c) 2013 by Eric Soroos, Copyright (c) 2013 Eric Soroos, Copyright (c) 2014 Alastair Houghton, Copyright (c) 2014 by Alastair Houghton, Copyright (c) 2014 by Alastair Houghton., Copyright (c) 2014 by Coriolis Systems Limited, Copyright (c) 2014 Coriolis Systems Limited, Copyright (c) 2014 Dov Grobgeld <dov.grobgeld@gmail.com>, Copyright (c) 2015 Information Technology, Copyright (c) 2016 by Mickael Bonfill, Copyright (c) 2016 by Mickael Bonfill., Copyright (c) 2016 Khaled Hosny <khaledhosny@eglug.org>, Copyright (c) 2016 Marcin Kurczewski <rr-@sakuya.pl>, Copyright (c) 2018 Dimitar Toshkov Zhekov, Copyright (c) Eric Soroos 2016, Copyright (c) Eric Soroos 2016., Copyright (c) Eric Soroos 2017, Copyright (c) Eric Soroos 2017., Copyright (c) Fredrik Lundh 1994, Copyright (c) Fredrik Lundh 1994., Copyright (c) Fredrik Lundh 1995, Copyright (c) Fredrik Lundh 1995-1997, Copyright (c) Fredrik Lundh 1995-1997., Copyright (c) Fredrik Lundh 1995-2003, Copyright (c) Fredrik Lundh 1995-2003., Copyright (c) Fredrik Lundh 1995-96, Copyright (c) Fredrik Lundh 1995-96., Copyright (c) Fredrik Lundh 1995-97, Copyright (c) Fredrik Lundh 1995-97., Copyright (c) Fredrik Lundh 1995., Copyright (c) Fredrik Lundh 1996, Copyright (c) Fredrik Lundh 1996-2001, Copyright (c) Fredrik Lundh 1996-2001., Copyright (c) Fredrik Lundh 1996-2003, Copyright (c) Fredrik Lundh 1996-2003., Copyright (c) Fredrik Lundh 1996-97, Copyright (c) Fredrik Lundh 1996-97., Copyright (c) Fredrik Lundh 1996., Copyright (c) Fredrik Lundh 1997, Copyright (c) Fredrik Lundh 1997-2004, Copyright (c) Fredrik Lundh 1997-2004., Copyright (c) Fredrik Lundh 1997., Copyright (c) Fredrik Lundh 1999, Copyright (c) Fredrik Lundh 1999., Copyright (c) Fredrik Lundh 2009, Copyright (c) Fredrik Lundh 2009., Copyright (c) Mickael Bonfill 2017, Copyright (c) Mickael Bonfill 2017., Copyright (c) Secret Labs AB 1997, Copyright (c) Secret Labs AB 1997-2001, Copyright (c) Secret Labs AB 1997-2001., Copyright (c) Secret Labs AB 1997-2002, Copyright (c) Secret Labs AB 1997-2002., Copyright (c) Secret Labs AB 1997-2003, Copyright (c) Secret Labs AB 1997-2003., Copyright (c) Secret Labs AB 1997-2004, Copyright (c) Secret Labs AB 1997-2004., Copyright (c) Secret Labs AB 1997-2005, Copyright (c) Secret Labs AB 1997-2005., Copyright (c) Secret Labs AB 1997-98, Copyright (c) Secret Labs AB 1997-98., Copyright (c) Secret Labs AB 1997-99, Copyright (c) Secret Labs AB 1997-99., Copyright (c) Secret Labs AB 1997., Copyright (c) Secret Labs AB 1998, Copyright (c) Secret Labs AB 1999, Copyright (c) Secret Labs AB 1999., Copyright (c) Secret Labs AB 2002, Copyright (c) Secret Labs AB 2002-2004, Copyright (c) Secret Labs AB 2002-2004., Copyright (c) Secret Labs AB 2002., Copyright (c) Secret Labs AB 2008, Copyright (c) Secret Labs AB 2008., Copyright 1984, 1987 Adobe Systems, Inc., Copyright 1987-2001 Adobe Systems Incorporated, Copyright 1987-2001 Adobe Systems Incorporated., Copyright 1987-2004 Adobe Systems Incorporated, Copyright 1987-2004 Adobe Systems Incorporated., Copyright 1987-2006 Adobe Systems Incorporated, Copyright 1987-2006 Adobe Systems Incorporated., copyright 1995-2011 Fredrik Lundh, copyright 1995-2011 Fredrik Lundh, 2010-2020 Alex Clark and Contributors, Copyright 1997-2006 Adobe Systems Incorporated, Copyright 1997-2006 Adobe Systems Incorporated., Copyright 2002, 2003, 2005, 2008, 2009, 2010, 2012 GNU Freefont contributors, Copyright 2002, 2003, 2005, 2008, 2009, 2010, 2012 GNU Freefont contributors., Copyright 2002, 2003, 2005, 2008, 2009, 2010, 2012 GNU Freefont contributors. FreeMono FreeMono, copyright 2003 kevin_cazabon@hotmail.com kevin@cazabon.com, Copyright 2007 International Color Consortium, Copyright 2014 Google Inc., Copyright 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/).Noto Sans JP RegularRegular1.004 GOOG NotoSansJP-Regular ADOBEVersion, Copyright 2016 Adobe (http://www.adobe.com/).Adobe Variable Font PrototypeRegular1.004 ADBO AdobeVFPrototype-Default ADOBEVersion, Copyright 2016 Google Inc., Copyright 2018 by Jack Halten Fahnestock, Copyright 2018 by Jack Halten Fahnestock., Copyright International Color Consortium, 2009, Copyright, DateTime, ResolutionUnit, Software, XResolution and YResolution, copyrighted by the Regents of the University of California, Sun Microsystems, Inc., Scriptics Corporation, Fonts are (c) Bitstream, Portions Copyright 1988 Digital Equipment Corp., Portions Copyright 1988 Digital Equipment Corporation, Portions copyright 1997, 2009, 2011 American Mathematical Society <http://www.ams.org>, Portions copyright 2015, Khaled Hosny",
       "versionInfo": "7.2.0",
       "externalRefs": [
         {
@@ -291,9 +293,9 @@
       "SPDXID": "SPDXRef-Package-7EE9605009CD2F89A469569A7D772ADDB7973123114D89567B1F0D8649EA9BA1",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>, Copyright (c) 2012-2014 - Tomi Pievilainen <tomi.pievilainen@iki.fi>, Copyright (c) 2014-2016 - Yaron de Leeuw <me@jarondl.net>, Copyright (c) 2015- - dateutil contributors, Copyright (c) 2015- - Paul Ganssle <paul@ganssle.io>, Copyright 2017, Copyright 2017- dateutil contributors, Copyright 2017- Paul Ganssle <paul@ganssle.io>, copyright 2019, copyright 2019, dateutil",
       "versionInfo": "2.8.1",
       "externalRefs": [
         {
@@ -309,9 +311,9 @@
       "SPDXID": "SPDXRef-Package-E030124E26287E6172E9F33ADCE11E771683BA3A5A8C0C7A19F33049EEB17EE0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2004-2017 Leonard Richardson, Copyright (c) 2004-2019 Leonard Richardson, Copyright (c) 2006-2013 James Graham and other contributors, Copyright (c) 2018 Isaac Muse, copyright u'2004-2015, Leonard Richardson, copyright u'2012, Leonard Richardson",
       "versionInfo": "4.9.1",
       "externalRefs": [
         {
@@ -327,9 +329,9 @@
       "SPDXID": "SPDXRef-Package-ACCF4EA76607D513E0CFBC26E1C6BC649C3DA442A3ECDFBBF0EAB25E41B47DD7",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2008-2019 Andrey Petrov and contributors, Copyright (c) 2010-2019 Benjamin Peterson, Copyright (c) 2012 Senko Rasic <senko.rasic@dobarkod.hr>, Copyright (c) 2015-2016 Will Bond <will@wbond.net>, Copyright 2015 Google Inc.",
       "versionInfo": "1.25.10",
       "externalRefs": [
         {
@@ -363,9 +365,9 @@
       "SPDXID": "SPDXRef-Package-52F48272EA42CDE102C31E15E368B2984F15D059F9E9CC67B472A48589C9963E",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "LGPL-2.1-or-later",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) - (r)e $?\" aPS$?\"$?\" http://www.newsru.com/world/03jan2006/knifer.html, (c) -|n!Adeg\"dege|P\"AEA'+-o|VSSUY (c) U, (c) ,!C2001|~ao!mx, (c) ,(r)1/2oA A-'O http://www.acnnewswire.net/Article.Asp?lang, (c) ,oua 1/2o+-o KM http://pm2.ww.to, (c) ,oua http://jungti1234.netcci.net, (c) ,oua http://sosa0sa.com, (c) ,oua'O http://archmond.mizc.com/tt, (c) ,SSCI'A http://kysky.com, (c) !a http://furusatonoeki.cutegirl.jp/main/archives/001177.html, (c) !C/ http://www.aozora.gr.jp/cards/000160/card3344.html' AEEEUAU3/4aI|oiAi !C/ http://www.aozora.gr.jp/cards/000160/card3342.html' $?I$?i$?I$?iE$?AAE$?IPAdegU !C/ http://www.aozora.gr.jp/cards/000160/card3345.html' oPSAI$?D$?E$?*Eu1cE1/4AA !C/ http://www.aozora.gr.jp/cards/000160/card3347.html' Ai thI11O3o !C/ http://www.aozora.gr.jp/cards/000160/card3346.html' AEC'$? UE-IA'+- !E$?!,o3 <$?u$?i$??!PS!O http://www.aozora.gr.jp/cards/000160/card3343.html'>, (c) !C/ http://www.aozora.gr.jp/cards/001166/card43723.html, (c) !E http://blog.livedoor.jp/facilitators, (c) !E http://www.pinkupa.com/cgi-bin/weblog/archives/000612.php, (c) !eI (c) FE, (c) !PS ODE$?uAECPS!Google 1OuODgooglesucks.com, (c) !x!C/!O http://www.aozora.gr.jp/cards/000160/card3344.html' AEEEUAU3/4aI|oiAi !x!C/!O http://www.aozora.gr.jp/cards/000160/card3342.html' $?I$?i$?I$?iE$?AAE$?IPAdegU !x!C/!O http://www.aozora.gr.jp/cards/000160/card3345.html' oPSAI$?D$?E$?*Eu1cE1/4AA !x!C/!O http://www.aozora.gr.jp/cards/000160/card3347.html' Ai thI11O3o !x!C/!O http://www.aozora.gr.jp/cards/000160/card3346.html, (c) !x!O http://www.aozora.gr.jp/cards/000050/card1174.html, (c) ?A$?I1/4Pedegi$?I EAI,oEaY iY $?Y o http://www.aivy.co.jp/BLOG_TEST/kobakoba/archives/003047.html, (c) ?idegE http://klutzy.x-y.net, (c) . AI, (c) . authors@template-toolkit.ru http://forum.template-toolkit.ru/view_topic/topic_id-44.html, (c) . Y, (c) \"aae \" (r)aY aa(r)C/ea http://money.rin.ru/content/news/?id, (c) \"aae http://money.rin.ru/content/news/?id, (c) (c) A, (c) (c) AA+-C/IAtBGCg http://www.1affliate.com, (c) (c) AA+-C/IAtBGCgxI j AaaAAEIieUu1/2B http://www.1affilaite.com, (c) (c) AAEE, (c) (c) O1981|~Y H!iuUA !j, (c) (r)IE bvAbvAi'u'I, (c) *-deg!Ao ?PoAI degOAOA CO, (c) *-deg!Ao http://jowchung.oolim.net/index.php?pl, (c) *C/AEd http://cosoft.org.cn/projects/webpm, (c) *F!ASSUI (c) IY, (c) *I1/4OCAAE(r)deg! http://research.microsoft.com/barc/mediapresence/MyLifeBits.aspx, (c) +-,degO AIu?Ca http://deholexp.mizc.com/wp, (c) |U* (c) H, (c) $?\"SS (c) Y, (c) $?A$?a$?A$?$?$?O OP!$?e$?*$?-$?E$?A$?AE$?$??$?E x$?$?$?Th$?1$?!$?$?$? $?!$?C$?*$?c$?|! (c) PS2Y, (c) $?A3/4a$?2$?e http://club.h14m.org/kenji/diary/?200512b, (c) $?AE http://mimizun.com:81/blog/archives/000314.html, (c) $?C/\"|(r)a a(r)aa! \"a-(r) iSSaY aY ?? http://forum.template-toolkit.ru/view_topic/topic_id-114.html?rss, (c) $?cAAAzEnPaEC/I (c) HAASS, (c) $?IIo E PEa!U1993.2., (c) 1/21... REBOOTED http://andore.com/money, (c) 1/2A'U http://chisato.info/blog/index.php?pl, (c) 1/2oDDOth2OIO br a http://www.softsea.net/cat/3.htm IuI31$?3/4ss /a a http://www.softsea.net/cat/305.htm IuI31UAi /a a http://www.softsea.net/cat/30514.htm, (c) 1/4<<PE!PSEc1uPaO>>D (c) PO2, (c) 13/4!O http://www.aozora.gr.jp/cards/000275/card45513.html, (c) 13/4!O http://www.aozora.gr.jp/cards/000275/card45514.html, (c) 13/4!O http://www.aozora.gr.jp/cards/000275/card4715.html, (c) 1n2n?Th1/2n'U$?E$?A$?$?$?AE !C/ http://www.aozora.gr.jp/cards/001166/card43728.html' ?Th1/2n'UE!3U2degIA !C/ http://www.aozora.gr.jp/cards/001166/card43729.html, (c) 1o,deg AI 1/2AdegPSAo A degE,(r)degUAo,, 1/2AAU,, CN'U,e 1 Ao AndegIdegO CO, (c) 1OOUWikiuAIoA?PS!xOE http://ccca.nctu.edu.tw/~hlb/tavi/WiKi, (c) 1Uua$?B src http://www.beginnersrack.com/mt/images/20050429_soba.jpg, (c) 2$?PS$?H1D!BAEuo$?HAvao!y1/4E$?O|ae!deg!z$? (c) Y, (c) 2004 - 2005, Efendi, (c) 2E$?I OP! !E!C/AIEO21$?!PS+-oiEE!E http://www.aozora.gr.jp/cards/000020/card44722.html, (c) 2uA http://10e.org/mt/archives/200512/280410.php http://10e.org/samcimg3/nekonekoneko.jpg, (c) 3/4ss CN'U... http://kina.egloos.com/655614, (c) 3IeU1nB src http://www.beginnersrack.com/mt/images/20050716_kisuke03.jpg, (c) 3OCi IEo1P3AEo*- !x!O http://www.aozora.gr.jp/cards/000042/card42258.html, (c) 3U!A http://furusatonoeki.cutegirl.jp/main/archives/001182.html, (c) A <$?!PS2oiEE!E http://www.aozora.gr.jp/cards/000157/card45237.html'>, (c) A |ae http://www.ebao.us/portal/showcontent.asp?INDEX, (c) A $?IPS3PS2oiEE$?!,o3 $?u$?i$??$?3$?E$?E$?E$?e!EdegiI/$?I http://www.aozora.gr.jp/index_pages/person157.html, (c) a http://konkurs.susu.ru, (c) a http://www.amefoot.net/archives/2005/05/13_000876.html, (c) a http://www.greek.ru/ru/news/news_detail.php?ID, (c) A IUnUi'Eu AIEuEIAuAEC/A*aeEB src http://www.beginnersrack.com/mt/images/20050811_sumi1.jpg, (c) a? http://andore.com/inami/mtarchives/003381.html, (c) a\"C/Y aa\"aY a http://susu.ac.ru, (c) a(r)$?Y aa http://money.rin.ru/content/news/?id, (c) A<<$?!PS2oiEE!E http://www.aozora.gr.jp/cards/000157/card45397.html'> oa$?EE3!EAEaAAEOAIdegAIo!E !C/ http://www.aozora.gr.jp/cards/000157/card45396.html'>, (c) A<<$?I!C/!O http://www.aozora.gr.jp/cards/000157/card43482.html'> AUAC!1!EPS+-!E !x!O http://www.aozora.gr.jp/cards/000157/card43483.html'> AUAC!1!EPS2!E !x!O http://www.aozora.gr.jp/cards/000157/card43488.html' EUOO$?I i?A$?o x$?O !x!O http://www.aozora.gr.jp/cards/000157/card43489.html' I!,AdegiSS !x!O http://www.aozora.gr.jp/cards/000157/card43505.html, (c) A<<$?I!C/PS,oiEE!E http://www.aozora.gr.jp/cards/000157/card45238.html'> 3AE?I?'uUAEa$?IEeuU !C/ http://www.aozora.gr.jp/cards/000157/card45379.html'> uOuiPoI? !C/ http://www.aozora.gr.jp/cards/000157/card45474.html' u'?'Eou'? !E1/4E1!E !C/ http://www.aozora.gr.jp/cards/000157/card45239.html, (c) A$?AE+-eEnA*aAu http://px.a8.net/svt/ejp?a8mat, (c) A1/2 http://www.cycle-yoshida.com/trek/nike/shoes/mtb/5kato3_page.htm, (c) A3AIei (c), (c) aa\" (c) PS, (c) aA\"AE (c) 1AE, (c) aa(r) (c) Y, (c) aA* (c) B, (c) aA* (c) H, (c) aA* (c) I, (c) AaAAYeUAi (c), (c) AAACiE (c), (c) Aad (c), (c) AAe (c), (c) AAeAE WEd, (c) aAua$? (c) B, (c) aAua$? (c) HH, (c) AAw http://affiliate-school.com/products/letter.html target, (c) Ac?I $?E$?I!C/ http://iriz.hanazono.ac.jp/frame/k_room_f1.html, (c) Ae \"u !C/ http://www.aozora.gr.jp/cards/000157/card45240.html' 1/4c$?I$?A$?E$?a !C/ http://www.aozora.gr.jp/cards/000157/card45242.html' ?'u!I-EN$?oIA$?o !C/ http://www.aozora.gr.jp/cards/000157/card45243.html' 3/43|$?ED$?1$?e'NCdeg !C/ http://www.aozora.gr.jp/cards/000157/card45475.html, (c) ae O!o!SS http://www.greek.ru/ru/news/news_detail.php?ID, (c) ae ol li a http://www.tipilp.susu.ac.ru, (c) Ae,A !x!C/Y EY $?Y e!O http://www.aozora.gr.jp/cards/000009/card45340.html, (c) AE!PS br a http://www.softsea.net/cat/3.htm IuI31$?3/4ss /a a http://www.softsea.net/cat/306.htm, (c) AEAAIAo AaAI, (c) aEaIAua$? (c) EH, (c) AEC/lIU, (c) A, (c) AeHa (c), (c) AEI1/2A* (c) B, (c) AEnT~I..... http://andore.com/money/archives/003302.html, (c) agA1/2 (c) I, (c) Ai1c,|uae1/2e$?IBLOG2oAa http://artifact-jp.com/mt/archives/000472.html, (c) AIc (c), (c) Am (c), (c) Ao ,oCN'U Ao COdegauE, (c) ao A$?lI!nMidnight's Children!U1981, (c) AO,c u?E3 ?eA ue*AAO degIAI'U. +-x*A3/4ss CO, (c) ApbAE (c), (c) assAAaaE AoI~AEEeUu1/2B http://www.moon-light.ne.jp/weblog/archives/2005/12/post_133.html http://www.moon-light.ne.jp/weblog/archives/2005/12/post_133.html, (c) AU Ass CN, (c) Au IUAEnCIeAEai, (c) AU., (c) AU*-CAE (c) E, (c) AU+-a 1/4?i?! ?APodeg! oA3/4ss CO, (c) aueEC/a http://tamuyou.haun.org/mt/archives/2005/12/post_377.html, (c) aueU1naAE (c) E, (c) aueU1nB 2006-01-02, (c) aueU1nEB 2006-01-03, (c) authors@template-toolkit.ru http://forum.template-toolkit.ru/view_topic/topic_id-93.html Template Toolkit, (c) authors@template-toolkit.ru http://forum.template-toolkit.ru/view_topic/topic_id-99.html Template Toolkit, (c) AUueAI PEdegdegAo, (c) AUueAo AI, (c) AUueAo AoY *I PEdegdegAo ?EA AOAo, (c) AUueAo PEdegdegAo, (c) B http://sasuga.biz/pages/index.php?refid, (c) B OEo1/2, L-IEzIaAUCUe Ch bvEm, (c) B Pool Game, (c) BaAAE (c), (c) BJoel on SoftwareICgEaA, (c) Bv, (c) BvA, (c) c AgI(r)|I135.4A242.9Au1/2B http://www.moon-light.ne.jp/weblog/archives/2006/01/2005_2.html http://www.moon-light.ne.jp/weblog/archives/2006/01/2005_2.html, (c) c http://itpro.nikkeibp.co.jp/free/NT/NEWS/20050225/1, (c) c http://www.topre.co.jp/products/comp/key_list.html, (c) c'iAAeIIlPEI (c) B, (c) c\"euAPOaocuAA(r)!B src http://www.beginnersrack.com/mt/images/20050716_seapirafu03.jpg, (c) c@ http://www.businessnetwork.co.jp/HTM/i-4.html' http://www.businessnetwork.co.jp/HTM/i-4.html, (c) c@ http://www.teizouteiki.jp/contact.html' http://www.teizouteiki.jp/contact.html, (c) C*P\"Y !C http://willythecop.blogspot.com, (c) C/ 1996, (c) C/ 2006, (c) C/ 2006 PS(r)$?a, (c) C/AE'PeBOExI http://px.a8.net/svt/ejp?a8mat, (c) C/Y aa(r) Y a $?C/(r)Y -(r)PS\"!e\"a http://www.newsru.com/world/03jan2006/heli.html, (c) c1N2aossuA (c) E, (c) cA Cga*aoeTCgEPUeIiA1/2u http://tanoshi.chance.com/reg_tanoshi.php?I, (c) Ca http://blog.bd-lab.com/blog/archives/000130.html Ao3 +-Y?aAI Au3a, (c) Ca!ae,N Yxaae!iC, !o! O! eCa!,Oe http://money.rin.ru/content/news/?id, (c) CaA AE'A, *13/4ioIA degCA(r)?A degI ?U?! CO, (c) CaA CO, (c) cAa$?@3B,E33/43o (c) O, (c) CaAU Audegi, (c) cao http://www.daihung.com/blog/?p, (c) cC$?1/4 SRC http://inkase.net/if/docomo.html, (c) cC$?1/4I http://sasuga.biz/pages/index.php?refid, (c) cC$?1/4o < http://www.cycle-surf.com/?ref 11'> SRC http://inkase.net/images/traffic/cycle.gif, (c) cC$?1/4o http://www.motionlink.jp/clk.php?pt, (c) CD Land, (c) cEEEEE http://tamuyou.haun.org/mt/archives/2005/12/post_379.html, (c) CIAEdeg MSAC Classified, (c) cIpibx http://www.mag2.com/m/0000103697.htm, (c) CO, (c) Copyright 2005, Sharks.co.il, (c) CSSUn (c), (c) d$?SSP!'N13!OAy2yao+-D1/2m (c) MY, (c) DA!a!aE<<ECAaAeEoAiIauAA(r)EuuA!PS IOEuAEPS!ACO1/2EIuAxOIa>>1oUOEAU http://www.blogcn.com/User14/xyl5400/blog/26093815.html, (c) Dau (c), (c) deg!uE+-i? http://jely.pe.kr/archives/2004/10/20041021_000236.html, (c) degAAE (c) E, (c) degi3/4uI*PS!u<<ECe|2>>NUe$?!PS!P http://www.blogchina.com/new/display/57469.html, (c) degO!A*iuM!O (c) MY, (c) e 'a!AdegN P 'aY AP!oE1iY PTAp*u! Hong Kong People's Alliance, (c) e e!nPortnoy's Complaint!U1969, (c) e http://webryblog.biglobe.ne.jp/2/d/2d5396c6b9.html, (c) e http://webryblog.biglobe.ne.jp/7/5/75575704c2.html, (c) e\" (c) SS, (c) e\"|O\"eOO\" OconAE DiOO\" *o| O*\" http://music.peeps.ru, (c) e(r)*PW1L$?@$?d|WdegN P (c) MY Y, (c) e+-AEaA eIAua$? (c) B, (c) e+-AEaA U*B\" http://www.monsterhunter.us/beastof7chutes/creatureOriginal-message.jpg, (c) e+-AEaoe (c) AEB, (c) E<<*1/2I>>+-\",ae http://www.coverer.com/archives/000830.shtml, (c) Eac Aaef, (c) EAE$?a$?AE,'$?1/2P H http://www.coolloud.org.tw/news/database/interface/detailstander.asp?ID, (c) eAEAu http://fudemame-guide.com/fude15/faq/fmF15106.html, (c) EAiE (c), (c) Eao (c), (c) Eao3B (c), (c) eaOOc, a\"o\"O http://money.rin.ru/content/news/?id, (c) eaY (c) Y, (c) EDiETCgDi Hiro, (c) Ee (c), (c) eE-uAISEI (c) E, (c) EeAoq (c), (c) Eee ESS1/23eAeIAua$? (c) B, (c) Eeg (c), (c) Eep, (c), (c) eEue1/2 http://px.a8.net/svt/ejp?a8mat, (c) EH http://tamuyou.haun.org/mt/archives/2006/01/post_383.html, (c) EHEnAE (c), (c) eIAua$? (c) H, (c) EmeEBu (c), (c) En (c), (c) ESSO!A (c) ESSOY, (c) eU*B src http://clickablewords.com/archives/img/yomo_051020.jpg, (c) EuL2a (c), (c) EvAEod (c), (c) EY Ij, (c) FlAE (c), (c) g(r)R'Nn?o$?F!I!v!A (c) OY, (c) H U3, (c) H@ a?enALb'Aag|U*B uri http://www.sixapart.com/movabletype/' Movable Type, (c) HAAId (c), (c) HAAIIGGEIAEi (c), (c) HOoeI (c), (c) Hp X, (c) HTML-$?(r)aa!Y a http://forum.template-toolkit.ru/view_topic/topic_id-88.html?rss, (c) http://andore.com/money/archives/003398.html, (c) http://azoz.org/archives/200512031633.php alt 05120301.jpg src http://azoz.org/archives/pic/05120301.jpg, (c) http://blog.mlmaster.com/?p, (c) http://ch.kitaguni.tv/u/8280, (c) http://contents-factory.com/blog/archives/200511301334.php, (c) http://flickr.com, (c) http://forum.template-toolkit.ru/view_topic/topic_id-115.html?rss, (c) http://furusatonoeki.cutegirl.jp/main/archives/001172.html, (c) http://kapranoff.ru/archives/003650.html, (c) http://nanana.moo.jp/archives/000922.html Y ThY, (c) http://susu.ac.ru/gerb2.gif, (c) http://www.acnnewswire.net/Article.Asp?lang, (c) http://www.bphrs.net/mesi/archives/2005/04/post_110.html, (c) http://www.bphrs.net/mesi/archives/2005/07/post_116.html, (c) http://www.newsru.com/crime/03jan2006/germanz.html, (c) http://www.newsru.com/crime/03jan2006/minsk.html, (c) http://www.pinkupa.com/cgi-bin/weblog/archives/000611.php, (c) http://www.pinkupa.com/cgi-bin/weblog/archives/000616.php, (c) HxA (c), (c) HxAE (c), (c) I\"IauAWi http://www.cnblog.org/blog/archives/2004_08_22_cnblog_archive.html, (c) I3 3QPAZP-'PSY Xao, (c) I3 Y, (c) IA3!C*U!O|31/2i!C http://www.upsaid.com/isis/index.php?action, (c) IAE~(r)uY ~?aAD1qPx http://www.coolloud.org.tw/news/database/interface/detailstander.asp?ID, (c) IAno (c), (c) IAOAiPS!O ODEyAaEu iOU?-uAED1/2o*OeuAACAEa!P http://blogbus.com/blogbus/blog/diary.php?diaryid, (c) ID1UA1/2 http://www.cnblog.org/blog/archives/2004_08_22_cnblog_archive.html, (c) Ierd (c), (c) iO http://10e.org/mt/archives/200512/280341.php http://anime.livedoor.com/theater/2.html, (c) IoA3/4!E !C/ http://www.aozora.gr.jp/cards/001154/card44333.html, (c) jao C!K!nThe Prime of Miss Jean Brodie!U1961, (c) L FWaIoaXs J, (c) l+-u\"u3o|W http://www.ebao.us/portal/showcontent.asp?INDEX, (c) l$?F2A$?GO!G\"AE!M|W|rY s!m http://blog.yam.com/youandme/' \"S|3|W|rao\"k$?kY D\"$? !n |y!O2A$?@O!G\"AE!m http://pingfandegushi.blogspot.com, (c) lEEe (c) AE, (c) Lionhard Technologies 2003, (c) Lionhardt Technologies 2003, www.lionhardt.com/bb Wed, 04 Jan, (c) lPi$?JotAAdege!A1962|~otY Xao!iau, (c) M http://www.literature.org/authors/carroll-lewis/' Lewis Carroll, (c) M-u (c), (c) M1960~1980|~Y Nao|e!voq|+-|W2ae/$?PS$?FAo Y!AY y e|3SSo$?W!K3/4d\"u|U, (c) M2 Y, (c) MdAAae (c), (c) mp3A'IyIyPS!*C/IO!PEc1uODO Ii!* 12 'i http://cappuccinos.3322.org/wp-commentsrss2.php?p, (c) MY LIao, (c) n(r)a (c) M, (c) N3/4-CAZNV GvdaIuAeAC/e http://ore-1gpy.cocolog-nifty.com, (c) nEJW (c) EHI, (c) NOPhAE (c), (c) nPEE|U (c) T, (c) o (c) P, (c) o a http://www.pots.com.tw, (c) o aSS1I http://www.coolloud.org.tw/news/database/interface/detailstander.asp?ID, (c) o, (c) MY, (c) O'1N!3/4N21O I?uiaCAia http://www.opentle.org/modules.php?op, (c) o*R+-!!B$?H (c) EY, (c) O| http://www.acnnewswire.net/Article.Asp?lang, (c) O|p|o O3y!H /p p a http://photos1.blogger.com/blogger/2953/388/1600/all.jpg, (c) o$?@$?e$?@$?e$?W$?E$?Q(r)EA |ae http://www.ebao.us/portal/showcontent.asp?INDEX, (c) O$?E2n$?A$?AE$?$?Th$?*$?? http://akaname.main.jp/mt/archives/000127.html, (c) o1/4!Y http://artifact-jp.com, (c) o1998|~07$?eP!?iY X$?FY Y !o$?@|E$?j^$?a$?p !!C3oY /+-AE|W(r)N3ae$?@$?1/2Y, (c) O3 Y, (c) o3oY /ICASHao$?oSSta Y iY H\"PS a http://www.wretch.cc/blog/iamryan, (c) Oa,o*thInuAIoO3/4EC http://www.messagecast.net, (c) OA!PEyI IA -O3/4!*dPS?AEuuAIoO*IaPSo http://mag.udn.com/mag/dc/make_rss.jsp' http://mag.udn.com/mag/dc/make_rss.jsp, (c) OA1au$?yaoSSU u!nEr redete mit dem Vieh, den Vogeln und den Fischen King Solomon's Ring ^AP King Solomon's, (c) OAAnPaE I, (c) OaD (c), (c) OdegAE (c), (c) OeI'uO o1/2th1yEEIauAPS!Oa2AECIOEuO,IyO,IAuA!PS zh rdf:resource http://b2evolution.net/?v, (c) OPiaa (c), (c) Oq (c), (c) oSS http://music.peeps.ru/news/s/2003/03/12/1366.html, (c) oW3Ooo' W3Ooo http://www.coolloud.org.tw, (c) OY H2, (c) OY HAySSU, (c) pAh (c) ASSU, (c) Pao (c), (c) PaOOOON-APSE1/2!PS br a http://www.softsea.net/cat/3.htm IuI31$?3/4ss /a a http://www.softsea.net/cat/304.htm deg2E<<*A>>$? /a a http://www.softsea.net/cat/30407.htm, (c) PaOOxa2EEi1/4thIOOEOOA!PS br a http://www.softsea.net/cat/3.htm IuI31$?3/4ss /a a http://www.softsea.net/cat/309.htm 1/4OIY DYID /a a http://www.softsea.net/cat/30912.htm, (c) PS CUP3O?\"OssuAOOuUO 'IOUEO+-3/4IiEUE1OAATMIocuAE\"Au http://www.acnnewswire.net/Article.Asp?lang, (c) PS!+-iIO3oE !PS br a http://www.softsea.net/cat/3.htm IuI31$?3/4ss /a a http://www.softsea.net/cat/303.htm IuI3OoC? /a a http://www.softsea.net/cat/30390.htm, (c) PSC/ a$?\"\" http://www.aviaport.ru/news/2006/01/02/99276.html, (c) PSoOD http://wiki.planetoid.info/index.php/WikiWiki' WikiWiki IoA?oI http://wiki.planetoid.info/index.php/WikiWatchList, (c) Pssn (c), (c) Qa-EOdwuBu (c), (c) R1B!n!@The Nature and Destiny of Man, (c) RIcY (c), (c) sY (c) OY, (c) Take IT, (c) u (c) OY, (c) u (c) OY H, (c) u 1/2NY Y oY ?!1/4 http://www.ycf.nanet.co.jp/~dre/cgi-bin/diary/archives/000422.html, (c) u http://www.coolloud.org.tw/news/database/interface/detailstander.asp?ID, (c) U. John, (c) u(r)EP!!A3/4aO$?$?AI|x'o (c) M, (c) u1AoCI degIAI AIdegPSAC ,A*AI+-auu CO degIAI'U., (c) u2oAuIa http://club.h14m.org/kenji/diary/?200512b, (c) ua CCAU cA* http://xenix.egloos.com/1213811, (c) uA\"AE (c) R, (c) uA1OOUGoogleOA -uADAIC http://www.coverer.com/archives/000832.shtml, (c) uAA!EINuE1/2AD+-i http://www.w3cn.org/article/tips/2005/116.html, (c) uAe (c) PY, (c) uIEC/ (c) EHI, (c) Uu (c), (c) uu?i 1/41o 2003, (c) uu?i 1/41o 2003A Intel, (c) uu?i 2003A, (c) uu?i XP*I AE/,aCO http://jowchung.oolim.net/index.php?pl, (c) uUAae47nu R haUa 3eUu1/2B http://www.moon-light.ne.jp/weblog/archives/2006/01/47_1.html http://www.moon-light.ne.jp/weblog/archives/2006/01/47_1.html, (c) v+-D1IAe|b (c) T, (c) w'Au AASSQY, (c) w+-uoTh1/4OY I!C http://www.coolloud.org.tw/news/database/interface/detailstander.asp?ID, (c) xi'ouA+-PS $?,uEuEuEuE... br a http://www.softsea.net/cat/3.htm IuI31$?3/4ss /a a http://www.softsea.net/cat/303.htm IuI3OoC? /a a http://www.softsea.net/cat/30305.htm, (c) Y $?Y a ae\"\" http://money.rin.ru/content/news/?id, (c) ZuMao (c), (c), 1998 br, AdegeP dege!o (c) Ao, CIAth ?uA,PoA (c), CN1o o,? (c) AOdegi, Copyright (c) 1991, 1999 Free Software Foundation, Inc., Copyright (c) 1998 the Initial Developer, Copyright (c) 2001 the Initial Developer, Copyright (c) 2004-2005, Copyright (c) 2005 AmbitUSA Inc., Copyright (c) 2005 Carshops, Copyright (c) 2005 the Initial Developer, Copyright (c) 2005, accessoriesbrand u BLOOMj, Copyright (c) 2005, ambits, Copyright (c) 2005, b-admin, Copyright (c) 2005, beaut, Copyright (c) 2005, CigarMinds Kft. 2006, Copyright (c) 2005, dogsinn, Copyright (c) 2005, E, Copyright (c) 2005, kabunavi, Copyright (c) 2005, majo, Copyright (c) 2005, seicha, Copyright (c) 2005, shusaku, Copyright (c) 2005, takako, Copyright (c) 2005, takato, Copyright (c) 2005, usukage, Copyright (c) 2005, wasshari, Copyright (c) 2006 Herczeg Jozsef Tamas Wed, Copyright (c) 2006, AND0, Copyright (c) 2006, Grebeweb, Copyright (c) 2006, overQ, Copyright (c) 2006, y-moto, Copyright 1999-2004, Slavei Karadjov slaff@linux-bg.org support@linux-bg.org, Copyright 2001, Nikolay Hristov, Copyright 2003-2005 A Muvelodes Haza - Sarospatak http://www.sarospatak.hu/muvhaz/ Sarospataki, Copyright 2003-2006, sHaMaLt shamalt@shamalt.tk, Copyright 2003, Greenline, Kazan, Russia Wed, Copyright 2004 Mon, Copyright 2004 Sun, Copyright 2005, Copyright 2005 Dow Jones & Company, Inc., Copyright 2005 rdf:resource http://blog.empas.com, Copyright 2005 Thu, Copyright 2005 Tue, Copyright 2005 url http://wordpress.org, Copyright 2005 Wed, Copyright 2005, ACN Newswire corp@asiacorpnet.com tim.mckinnon@asiacorpnet.com, Copyright 2006 Mon, Copyright 2006, C IAOOAIDINEEC - D. AEAIAOEAACO OEA A.A. webmaster@naftemporiki.gr Wed, 4 Jan, copyright 2015, Mark Pilgrim, Dan Blanchard, Ian Cordasco, copyright BBCHungarian.com, copyright rules http://www.bbc.co.uk/go/wsy/pub/rss/1.0/-/hungarian/learningenglish/witn/2005/05/050527_google.shtml, copyrighted by the Free Software Foundation, Ee (c) EAEvAACAEe, Hx wCnE$?iaeU* (c) Hx, IPueTVcd (c) (c), O-o (c) I3, Oa (c) (c), OOaacOAEc. (c) Oc, SINFLAIae (c) (c), SSea aaaae\" (c) Perl, UAEIOa (c) (c), UnionPayPS (c) Ie3EATMIo1ODOeuAC (c)",
       "versionInfo": "3.0.4",
       "externalRefs": [
         {
@@ -381,9 +383,9 @@
       "SPDXID": "SPDXRef-Package-AE8E74562C547F7BBAA0BBC3937614D3219A9E07C274C1B4C521C03A5DA39508",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2001 by Andrei Alexandrescu, Copyright (c) 2001. Addison-Wesley, Copyright (c) 2013-2017, Nucleic Development Team, Copyright (c) 2013-2019, Nucleic Development Team, Copyright (c) 2013-2020, Nucleic Development Team, Copyright (c) 2013, Nucleic Development Team, Copyright (c) 2014-2018, Nucleic Development Team, Copyright 2000, 2004, 2005Adobe Systems Incorporated, copyright 2018-2020, Nucleic team",
       "versionInfo": "1.2.0",
       "externalRefs": [
         {
@@ -417,9 +419,9 @@
       "SPDXID": "SPDXRef-Package-DBB3C1FCB2B07019F5CDD94E6E3FE448570E48CE228ED32EB8E329694FEACD8E",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson, copyright u'2010-2020, Benjamin Peterson",
       "versionInfo": "1.15.0",
       "externalRefs": [
         {
@@ -435,9 +437,9 @@
       "SPDXID": "SPDXRef-Package-8C0B4462A7EAC1CA35D7346B1FECFEB19815E3624D01D741F64891B47A6D33DD",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 1999 Entrust.net Limited, (c) 1999 Entrust.net Limited Label Entrust.net Premium 2048 Secure Server CA Serial, (c) 1999 VeriSign, Inc., (c) 2006 Entrust, Inc., (c) 2006 Entrust, Inc. Label Entrust Root Certification, (c) 2006 thawte, Inc., (c) 2006 VeriSign, Inc., (c) 2007 GeoTrust Inc., (c) 2007 thawte, Inc., (c) 2007 VeriSign, Inc., (c) 2008 GeoTrust Inc., (c) 2008 thawte, Inc., (c) 2008 VeriSign, Inc., (c) 2009 Entrust, Inc. - for, (c) 2012 Entrust, Inc. - for, (c) Copyright https://www.sphinx-doc.org/', Copyright (c) 2005/OISTE Foundation, Copyright (c) 2005/OISTE Foundation Endorsed Label OISTE WISeKey Global Root, Copyright (c) 2012 Mitch Garnaat http://garnaat.org, Copyright (c) 2012-2013 Mitch Garnaat http://garnaat.org, Copyright (c) 2013 Amazon.com, Inc., Copyright 2008-2011 Andrey Petrov and contributors, copyright 2012 Kenneth Reitz., Copyright 2012-2013 Amazon.com, Inc., Copyright 2012-2014 Amazon.com, Inc., Copyright 2012-2015 Amazon.com, Inc., Copyright 2012-2016 Amazon.com, Inc., Copyright 2012-2017 Amazon.com, Inc., Copyright 2013 Amazon.com, Inc., Copyright 2013 Kenneth Reitz, Copyright 2014 Amazon.com, Inc., Copyright 2015 Amazon.com, Inc., Copyright 2016 Amazon.com, Inc., Copyright 2017 Amazon.com, Inc., Copyright 2018 Amazon.com, Inc., Copyright 2019 Amazon.com, Inc., copyright u'2013, Mitch Garnaat",
       "versionInfo": "1.23.4",
       "externalRefs": [
         {
@@ -471,9 +473,9 @@
       "SPDXID": "SPDXRef-Package-FD8AD8A2D8E0FF277A704F0FABFEA6586C2F2729AF5CBBE178188D0603F129AB",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MPL-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 1999 Entrust.net Limited, (c) 1999 Entrust.net Limited Label Entrust.net Premium 2048 Secure Server CA Serial, (c) 2006 Entrust, Inc., (c) 2006 Entrust, Inc. Label Entrust Root Certification, (c) 2006 thawte, Inc., (c) 2006 VeriSign, Inc., (c) 2007 GeoTrust Inc., (c) 2007 thawte, Inc., (c) 2007 VeriSign, Inc., (c) 2008 GeoTrust Inc., (c) 2008 thawte, Inc., (c) 2008 VeriSign, Inc., (c) 2009 Entrust, Inc. - for, (c) 2012 Entrust, Inc. - for, (c) 2015 Entrust, Inc. - for, Copyright (c) 2005/OISTE Foundation, Copyright (c) 2005/OISTE Foundation Endorsed, Copyright (c) 2005/OISTE Foundation Endorsed Label OISTE WISeKey Global Root",
       "versionInfo": "2020.6.20",
       "externalRefs": [
         {
@@ -489,9 +491,9 @@
       "SPDXID": "SPDXRef-Package-8AFA0AE63C6EC8DF1A99C92EBB6C971651AB0A7B583D2DF6550E31FE2E05DAC3",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2006-2008, Mathieu Fenniak, Copyright (c) 2006, Mathieu Fenniak, copyright (c) 2007, Ashish Kulkarni <kulkarni.ashish@gmail.com>, Copyright (c) 2007, Ashish Kulkarni <kulkarni.ashish@gmail.com>, copyright (c) 2014, Steve Witham <switham_github@mac-guyver.com>, Copyright (c) 2014, Steve Witham <switham_github@mac-guyver.com>",
       "versionInfo": "1.26.0",
       "externalRefs": [
         {
@@ -525,9 +527,9 @@
       "SPDXID": "SPDXRef-Package-6FC8739260D8A193257D4E941AE8345E3A58707CA4EB08927AACF1F70903A506",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2013 Jonathan Goldsmith",
       "versionInfo": "1.4.0",
       "externalRefs": [
         {
@@ -561,9 +563,9 @@
       "SPDXID": "SPDXRef-Package-E369927C4CE919E049030907FD2D9C6D742A4D82BF9CD184DB777247BE186CF0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Covert Chebyshev, (c) Multiply a Chebyshev, (c) Multiply a Hermite, (c) Multiply a Laguerre, (c) Multiply a Legendre, (c), False, False, False, True, (c), False, False, True, False, (c), True, True, False, False, Copyright (c) 1992-2013 The University of Tennessee and The University of Tennessee Research Foundation, Copyright (c) 1993 by Sun Microsystems, Inc., Copyright (c) 1995, 1996, 1997 Jim Hugunin, hugunin@mit.edu, Copyright (c) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura, Copyright (c) 2000-2013 The University of California Berkeley, Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 Python Software Foundation, Copyright (c) 2003-2005, Jean-Sebastien Roy (js@jeannot.org), Copyright (c) 2004-2018 Max-Planck-Society author Martin Reinecke, Copyright (c) 2005-2015, NumPy Developers, Copyright (c) 2005-2017, NumPy Developers, Copyright (c) 2005-2020, NumPy Developers, Copyright (c) 2005, NumPy Developers, Copyright (c) 2006-2013 The University of Colorado Denver, Copyright (c) 2006, University of Georgia and Pierre G.F. Gerard-Marchant, Copyright (c) 2007, 2011 David Schultz <das@FreeBSD.ORG>, Copyright (c) 2008 Ian Bicking and Contributors, Copyright (c) 2008 Stefan van der Walt <stefan@mentat.za.net> , Pauli Virtanen <pav@iki.fi>, Copyright (c) 2009-2019 Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and other contributors, Copyright (c) 2010 by Mark Wiebe (mwwiebe@gmail.com) The University of British Columbia, Copyright (c) 2010-2011 by Mark Wiebe (mwwiebe@gmail.com) The University of British Columbia, Copyright (c) 2011 by Enthought, Inc., Copyright (c) 2011 by Mark Wiebe (mwwiebe@gmail.com) The University of British Columbia, Copyright (c) 2011 Enthought, Inc, Copyright (c) 2011 Kevin Dunn, Surya K, Pauli Virtanen, the Sphinx team, Copyright (c) 2012 Stephen Montgomery-Smith <stephen@FreeBSD.ORG>, Copyright (c) 2014 Ryan Juckett, Copyright (c) 2015 Melissa E. O'Neill, Copyright (c) 2015 Pauli Virtanen, Copyright (c) 2018 Melissa E. O'Neill, Copyright (c) 2019 Kevin Sheppard, Copyright (c) 2019 NumPy Developers, Copyright 1999 - 2011 Pearu Peterson, Copyright 1999 2011 Pearu Peterson, Copyright 1999-2004 Pearu Peterson, Copyright 1999, 2000, 2001 Regents of the University of California, Copyright 1999,2000 Pearu Peterson, Copyright 2000 Pearu Peterson, Copyright 2001-2005 Pearu Peterson, Copyright 2002 Pearu Peterson, Copyright 2006, Dean Edwards, Copyright 2007-2011 by the Sphinx team, Copyright 2007-2017 by the Sphinx team, Copyright 2007-2018 by the Sphinx team, copyright 2008-2020, The SciPy community, copyright 2010 David Wolever <david@wolever.net>, Copyright 2010-2012, D. E. Shaw Research, Copyright 2011 by Enthought, Inc, Copyright 2012 Twitter, Inc, Copyright 2014 Melissa O'Neill <oneill@pcg-random.org>, Copyright 2014 PSF., Copyright 2015 Robert Kern <robert.kern@gmail.com>, Copyright Absoft Corporation, Copyright Absoft Corporation 1994-1998 mV2 Cray Research, Inc. 1994-1996 CF90, Copyright Absoft Corporation 1994-2002 Absoft Pro FORTRAN, copyright e (c), copyright u'2013, Surya Kasturi and Pauli Virtanen, copyright u'2017-2018, NumPy Developers, copyright u'2017, numpydoc",
       "versionInfo": "1.19.1",
       "externalRefs": [
         {
@@ -579,9 +581,9 @@
       "SPDXID": "SPDXRef-Package-31ECA72475C56A6B18C53A513A25E7891552845B422FC400769F60588D607219",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "PSF-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 2010-2013 by tyPoland Lukasz Dziedzic (http://www.typoland.com/), (c) Frank Siegert 1996, (c) Tavmjong Bah, (c) Tavmjung Bah, 1Copyright (c) 2001-2010 by the STI Pub Companies, b'Copyright xa9 2017 No, coprod 97, coproduct Comment Ascending 98, 99, 100, copyright '2002 - 2012 John Hunter, Darren Dale, Eric Firing, Michael Droettboom, Copyright (c) 1985, 1987, 1988 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1988, 1989 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1988, 1989, 1997 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1988, 1991 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1990 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1990, 1991 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1990, 1993, 1997 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1990, 1997 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1991 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1992 Adobe Systems Incorporated., Copyright (c) 1987-1994 The Regents of the University of California., Copyright (c) 1989, 1990, 1991 Adobe Systems Incorporated., Copyright (c) 1989, 1990, 1991, 1992, 1993, 1997 Adobe Systems Incorporated., Copyright (c) 1989, 1990, 1991, 1993, 1997 Adobe Systems Incorporated., Copyright (c) 1989, 1990, 1991, Adobe Systems Incorporated., Copyright (c) 1989, 1991 Adobe Systems Incorporated., Copyright (c) 1993-1996 Lucent Technologies., Copyright (c) 1993-2015 C.B. Barber., Copyright (c) 1993-2015 The Geometry Center., Copyright (c) 1994-1998 Sun Microsystems, Inc., Copyright (c) 1994, 1995, Basil K. Malyshev., Copyright (c) 1994, Basil K. Malyshev., Copyright (c) 1996. The Regents of the University of California., Copyright (c) 1997 American Mathematical Society., Copyright (c) 1997, 2009 American Mathematical Society, Copyright (c) 1997, 2009, American Mathematical Society (http://www.ams.org)., Copyright (c) 1998-2000 by Scriptics Corporation., Copyright (c) 2001-2004 by Fredrik Lundh, Copyright (c) 2001-2005 by the STI Pub Companies, Copyright (c) 2001-2010 by the STI Pub Companies, Copyright (c) 2002 by Kevin B. Kenny., Copyright (c) 2002 Cynthia Brewer, Mark Harrower, and The Pennsylvania State University., Copyright (c) 2002 Hansruedi Baer, Copyright (c) 2002-2005 Maxim Shemanarev, Copyright (c) 2002-2005 Maxim Shemanarev (http://www.antigrain.com), Copyright (c) 2002-2009 John D. Hunter, Copyright (c) 2002-2011 John D. Hunter, Copyright (c) 2003 by Bitstream, Inc., Copyright (c) 2003 Hansruedi Baer, Copyright (c) 2003-2004 Andrew Straw, Jeremy O'Donoghue and others, Copyright (c) 2005 Tony Juricic (tonygeek@yahoo.com), Copyright (c) 2006 by Tavmjong Bah., Copyright (c) 2007-2008, Copyright (c) 2009 John Horigan (http://www.antigrain.com), Copyright (c) 2009 Pierre Raybaut, Copyright (c) 2010 Doug Hellmann., Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic, Copyright (c) 2010, Bartosz Telenczuk, Copyright (c) 2011 Ethan Schoonover, Copyright (c) 2012- Matplotlib Development Team, Copyright (c) 2012-2013 Matplotlib Development Team, Copyright (c) Jeremy O'Donoghue & John Hunter, 2003-4., Copyright <http://www.ams.org>, Copyright 1995, Trinity College Computing Center., Copyright 2004 John Gill and John Hunter, Copyright 2010-2012, Google Inc., copyright 2014, Matplotlib developers, Copyright The Matplotlib development team, Copyright xa9 2017 No one. FontBBox, copyrighted by the Regents of the University of California, Sun Microsystems, Inc., Scriptics Corporation, ECopyright (c) 2003 by Bitstream, Inc., FCopyright (c) 2003 by Bitstream, Inc., Fonts are (c) Bitstream, hCopyright (c) 2003 by Bitstream, Inc., LCopyright (c) 2001-2010 by the STI Pub Companies, PCopyright (c) 2010-2013 by tyPoland Lukasz Dziedzic, Portions copyright (c) 1990 by Elsevier, Inc., Portions copyright (c) 1998-2003 by MicroPress, Inc., Qhull, Copyright (c) 1993-2015, X11R4 release, copyright M.I.T.",
       "versionInfo": "3.3.1",
       "externalRefs": [
         {
@@ -615,9 +617,9 @@
       "SPDXID": "SPDXRef-Package-96AF63C3AC76E44FA3B388EDC817C4C4E3CA09A2820F31F134A593128305EBB6",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "copyright (c) 2012 by Kenneth Reitz, copyright (c) 2012 by Kenneth Reitz., copyright (c) 2017 by Kenneth Reitz, copyright (c) 2017 by Kenneth Reitz., Copyright 2019 Kenneth Reitz, Copyright 2020 Kenneth Reitz",
       "versionInfo": "2.23.0",
       "externalRefs": [
         {
@@ -633,9 +635,9 @@
       "SPDXID": "SPDXRef-Package-3A09545FC3AC51BB8E0CE96ECBB84EFAECC1D333493306AB2430B3DA8CF9D683",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2013 Lucas Ou-Yang, Copyright 2014, Lucas Ou-Yang",
       "versionInfo": "0.1.0.7",
       "externalRefs": [
         {
@@ -651,9 +653,9 @@
       "SPDXID": "SPDXRef-Package-1EAEA6C3143610E0C4DDD8D1E7FB4D449C8F7301715FDDB52E2CEFF51F284DC2",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2015, matplotlib project, copyright 2015, Matplotlib Developers",
       "versionInfo": "0.10.0",
       "externalRefs": [
         {
@@ -669,9 +671,9 @@
       "SPDXID": "SPDXRef-Package-DF475DF77CB1D267746E7B0A0B9D1FB766690EEB2CA65392ECF5FD2D2F1ED72A",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2013-2017 Amazon.com, Inc., Copyright 2014 Amazon.com, Inc., Copyright 2015 Amazon.com, Inc., Copyright 2016 Amazon.com, Inc.",
       "versionInfo": "1.20.4",
       "externalRefs": [
         {
@@ -705,9 +707,9 @@
       "SPDXID": "SPDXRef-Package-1ED38385AE9AC9C171C5C8F7C2B997F38A8272BA5ADB5065689F0B959BB8ED6A",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>, Copyright (c) 2012-2014 - Tomi Pievilainen <tomi.pievilainen@iki.fi>, Copyright (c) 2014-2016 - Yaron de Leeuw <me@jarondl.net>, Copyright (c) 2015- - dateutil contributors, Copyright (c) 2015- - Paul Ganssle <paul@ganssle.io>, Copyright 2017- dateutil contributors, Copyright 2017- Paul Ganssle <paul@ganssle.io>, copyright 2019, dateutil",
       "versionInfo": "2.8.2",
       "externalRefs": [
         {
@@ -723,9 +725,9 @@
       "SPDXID": "SPDXRef-Package-FFAC7E1B257FA391B76208AC37820BA8DBB2851E6E4F2E6624869EDFF587E7D0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "PSF-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011 Python Software Foundation, copyright u'2011, Nick Coghlan",
       "versionInfo": "0.6.0",
       "externalRefs": [
         {
@@ -759,7 +761,7 @@
       "SPDXID": "SPDXRef-Package-E4B2928C2FEB2FF224BE8602A04A6006E4F9B9D656F8EE983E72C2B3DA4F20CC",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "GPL-3.0-or-later",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "0.4.0",
@@ -795,7 +797,7 @@
       "SPDXID": "SPDXRef-Package-DB231ABDD020811CDF7F7D7C78F4830533FB115763806DCE2960CC871A50294B",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "LGPL-2.1-only",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "3.8.3",
@@ -849,9 +851,9 @@
       "SPDXID": "SPDXRef-Package-DD105A4A67CC7635401987266A9F45CEDAE20EF81429541B6C90F15CE41514DE",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2008-2010 FURUHASHI Sadayuki, Copyright (c) 2008-2011 INADA Naoki <songofacandy@gmail.com>, Copyright (c) 2009 Naoki INADA",
       "versionInfo": "0.6.2",
       "externalRefs": [
         {
@@ -867,7 +869,7 @@
       "SPDXID": "SPDXRef-Package-91D18DF08FE5663F2F87CA16855F9B23BB32E62BCCEBE8C18AC8F2D57FF07716",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Unlicense",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "3.2",
@@ -903,9 +905,9 @@
       "SPDXID": "SPDXRef-Package-EE7849153FE21B2DA633B63360ACBBFA9EBDEC8443E06083C6CD52724AA1F4B4",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010-2015, Copyright (c) 2010-2015 openpyxl",
       "versionInfo": "1.1.0",
       "externalRefs": [
         {
@@ -921,9 +923,9 @@
       "SPDXID": "SPDXRef-Package-74EBCC91D62287FEFC43E1981FD03149381C624C8DB3F2B030DC7CEDA51B038E",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2018 chakki",
       "versionInfo": "0.2.2",
       "externalRefs": [
         {
@@ -939,9 +941,9 @@
       "SPDXID": "SPDXRef-Package-9E175D778AFA3B1C3B2396A1895E458B4B25E773105F9954B97DF44CBC0B73ED",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010 Luis Gomes <luismsgomes@gmail.com>",
       "versionInfo": "0.8.1",
       "externalRefs": [
         {
@@ -975,9 +977,9 @@
       "SPDXID": "SPDXRef-Package-0047D86E103FE0E3A1D3A12030A0A27F118B9A2FC04D01C70222CC441F7028E5",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2005-2010 ActiveState Software Inc., Copyright (c) 2010 ActiveState Software Inc., Copyright (c) 2013 Eddy Petrisor",
       "versionInfo": "1.4.3",
       "externalRefs": [
         {
@@ -993,7 +995,7 @@
       "SPDXID": "SPDXRef-Package-DDBF6C1D30166763C270025E1765200D4AEC85969B665414A9FAF7F9EC613E53",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "GPL-3.0-or-later",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "1.0.1",
@@ -1029,9 +1031,9 @@
       "SPDXID": "SPDXRef-Package-B57F23522B78F03DC57ADD37554C389326D692C3DE5CE3072395860A6FC8669F",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2012 by Simon Sapin",
       "versionInfo": "0.5.1",
       "externalRefs": [
         {
@@ -1047,9 +1049,9 @@
       "SPDXID": "SPDXRef-Package-25378CBAA5B993DD5440CAEF628C8DA9DC0E5905FB2B6D9F3A299EA2FD0D0ED5",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson, copyright u'2010-2020, Benjamin Peterson",
       "versionInfo": "1.16.0",
       "externalRefs": [
         {
@@ -1083,9 +1085,9 @@
       "SPDXID": "SPDXRef-Package-5B036A5C6CE5727EC31FFD19B3FAC6399D9E9FFB0DDE349039B98BB1FD1CC9F9",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT-CMU",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Tavmjung Bah, Copyright (c) 1987 Adobe Systems, Inc., Copyright (c) 1987-1994 The Regents of the University of California, Copyright (c) 1987-1994 The Regents of the University of California., copyright (c) 1991-1995, Thomas G. Lane, copyright (c) 1991-1995, Thomas G. Lane., Copyright (c) 1993-1996 Lucent Technologies, Copyright (c) 1993-1996 Lucent Technologies., Copyright (c) 1994-1998 Sun Microsystems, Inc., Copyright (c) 1995 by Fredrik Lundh, Copyright (c) 1995 by Fredrik Lundh., Copyright (c) 1995-1996 by Fredrik Lundh, Copyright (c) 1995-1996 by Fredrik Lundh., Copyright (c) 1995-1997 by Fredrik Lundh, Copyright (c) 1995-1997 by Fredrik Lundh., Copyright (c) 1995-2001 by Fredrik Lundh, Copyright (c) 1995-2001 by Fredrik Lundh., Copyright (c) 1995-2001 by Secret Labs AB, Copyright (c) 1995-2002 by Fredrik Lundh, Copyright (c) 1995-2002 by Fredrik Lundh., Copyright (c) 1995-2003 by Fredrik Lundh, Copyright (c) 1995-2003 by Fredrik Lundh., Copyright (c) 1995-2004 by Fredrik Lundh, Copyright (c) 1995-2004 by Fredrik Lundh., Copyright (c) 1995-2005 by Fredrik Lundh, Copyright (c) 1995-2006 by Fredrik Lundh, Copyright (c) 1995-2009 by Fredrik Lundh, Copyright (c) 1995-2009 by Fredrik Lundh., Copyright (c) 1995-2011 by Fredrik Lundh, Copyright (c) 1995-96 by Fredrik Lundh, Copyright (c) 1995-96 by Fredrik Lundh., Copyright (c) 1996 by Fredrik Lundh, Copyright (c) 1996 by Fredrik Lundh., Copyright (c) 1996-1997 by Fredrik Lundh, Copyright (c) 1996-1997 by Fredrik Lundh., Copyright (c) 1996-2000 by Fredrik Lundh, Copyright (c) 1996-2000 Fredrik Lundh, Copyright (c) 1996-2003 by Fredrik Lundh, Copyright (c) 1996-2004 by Fredrik Lundh, Copyright (c) 1996-2004 by Fredrik Lundh., Copyright (c) 1996-2006 by Fredrik Lundh, Copyright (c) 1997 by Fredrik Lundh, Copyright (c) 1997 by Fredrik Lundh., Copyright (c) 1997 by Secret Labs AB., Copyright (c) 1997-1998 by Fredrik Lundh, Copyright (c) 1997-1998 by Secret Labs AB, Copyright (c) 1997-1999 by Secret Labs AB, Copyright (c) 1997-2000 by Secret Labs AB, Copyright (c) 1997-2001 by Secret Labs AB., Copyright (c) 1997-2002 by Secret Labs AB., Copyright (c) 1997-2003 by Fredrik Lundh, Copyright (c) 1997-2003 by Fredrik Lundh., Copyright (c) 1997-2003 by Secret Labs AB., Copyright (c) 1997-2004 by Secret Labs AB., Copyright (c) 1997-2005 by Fredrik Lundh, Copyright (c) 1997-2005 by Secret Labs AB., Copyright (c) 1997-2006 by Secret Labs AB., Copyright (c) 1997-2007 Adobe Systems, Inc., Copyright (c) 1997-2009 by Secret Labs AB., Copyright (c) 1997-2011 by Secret Labs AB, Copyright (c) 1997-98 by Secret Labs AB., Copyright (c) 1997-99 by Secret Labs AB., Copyright (c) 1998 by Secret Labs AB, Copyright (c) 1998 by Toby J Sargeant, Copyright (c) 1998 Hewlett-Packard Company, Copyright (c) 1998-2000 by Scriptics Corporation, Copyright (c) 1998-2000 by Scriptics Corporation., Copyright (c) 1998-2000 Secret Labs AB, Copyright (c) 1998-2001 Marti Maria, Copyright (c) 1998-2003 by Fredrik Lundh, Copyright (c) 1998-2003 by Secret Labs AB., Copyright (c) 1998-2004 by Secret Labs AB., Copyright (c) 1998-2005 by Secret Labs AB, Copyright (c) 1998-2007 by Secret Labs AB, Copyright (c) 1999 by Secret Labs AB., Copyright (c) 1999-2005 by Secret Labs AB, Copyright (c) 2000-2003 by Fredrik Lundh, Copyright (c) 2000-2006 Adobe Systems, Inc., Copyright (c) 2001-2002 by Fredrik Lundh, Copyright (c) 2001-2002 by Secret Labs AB, Copyright (c) 2001-2004 by Fredrik Lundh, Copyright (c) 2001-2004 by Secret Labs AB, Copyright (c) 2002 by Fredrik Lundh, Copyright (c) 2002 by Kevin B. Kenny, Copyright (c) 2002 by Kevin B. Kenny., Copyright (c) 2002 by Secret Labs AB, Copyright (c) 2002-2003 Kevin Cazabon, Copyright (c) 2002-2003 Kevin Cazabon kevin@cazabon.com http://www.cazabon.com, Copyright (c) 2002-2004 by Fredrik Lundh, Copyright (c) 2002-2004 by Secret Labs AB, Copyright (c) 2002-2017, and GNU, Copyright (c) 2003 by Bitstream, Inc., Copyright (c) 2003 by Fredrik Lundh, Copyright (c) 2003 by Fredrik Lundh., Copyright (c) 2003 by Secret Labs AB, Copyright (c) 2003-2005 by Fredrik Lundh, Copyright (c) 2003-2005 by Secret Labs AB, Copyright (c) 2004 by Bob Ippolito, Copyright (c) 2004 by Bob Ippolito., Copyright (c) 2004 by Fredrik Lundh, Copyright (c) 2004 by Fredrik Lundh., Copyright (c) 2004 by Health Research Inc., Copyright (c) 2004 by Secret Labs, Copyright (c) 2004 by Secret Labs AB., Copyright (c) 2004 by Secret Labs., Copyright (c) 2004 by William Baxter, Copyright (c) 2004 by William Baxter., Copyright (c) 2005 by Fredrik Lundh, Copyright (c) 2006 by Fredrik Lundh, Copyright (c) 2006 by Fredrik Lundh., Copyright (c) 2006 by Secret Labs AB., Copyright (c) 2006 by Tavmjong Bah, Copyright (c) 2006 by Tavmjong Bah., Copyright (c) 2008 by Karsten Hiddemann, Copyright (c) 2008 by Karsten Hiddemann., Copyright (c) 2009 by Fredrik Lundh, Copyright (c) 2009 Fredrik Lundh, Copyright (c) 2010 Oliver Tonnhofer <olt@bogosoft.com>, Copyright (c) 2010-2021 by Alex Clark and contributors, Copyright (c) 2011 Google, Inc., Copyright (c) 2012 by Brian Crowell, Copyright (c) 2013 by Eric Soroos, Copyright (c) 2013 Eric Soroos, Copyright (c) 2014 Alastair Houghton, Copyright (c) 2014 by Alastair Houghton, Copyright (c) 2014 by Alastair Houghton., Copyright (c) 2014 by Coriolis Systems Limited, Copyright (c) 2014 Coriolis Systems Limited, Copyright (c) 2014 Dov Grobgeld <dov.grobgeld@gmail.com>, Copyright (c) 2015 Information Technology, Copyright (c) 2016 by Mickael Bonfill, Copyright (c) 2016 by Mickael Bonfill., Copyright (c) 2016 Khaled Hosny <khaledhosny@eglug.org>, Copyright (c) 2016 Marcin Kurczewski <rr-@sakuya.pl>, Copyright (c) 2018 Dimitar Toshkov Zhekov, Copyright (c) 2018 Google LLC, Copyright (c) 2018 Roel Nieskens, https://pixelambacht.nl, Copyright (c) 2020 by Pan Jing, Copyright (c) 2020 Free Software Foundation, Inc., Copyright (c) Eric Soroos 2016, Copyright (c) Eric Soroos 2016., Copyright (c) Eric Soroos 2017, Copyright (c) Eric Soroos 2017., Copyright (c) Fredrik Lundh 1994, Copyright (c) Fredrik Lundh 1994., Copyright (c) Fredrik Lundh 1995, Copyright (c) Fredrik Lundh 1995-1997, Copyright (c) Fredrik Lundh 1995-1997., Copyright (c) Fredrik Lundh 1995-2003, Copyright (c) Fredrik Lundh 1995-2003., Copyright (c) Fredrik Lundh 1995-96, Copyright (c) Fredrik Lundh 1995-96., Copyright (c) Fredrik Lundh 1995-97, Copyright (c) Fredrik Lundh 1995-97., Copyright (c) Fredrik Lundh 1995., Copyright (c) Fredrik Lundh 1996, Copyright (c) Fredrik Lundh 1996-2001, Copyright (c) Fredrik Lundh 1996-2001., Copyright (c) Fredrik Lundh 1996-2003, Copyright (c) Fredrik Lundh 1996-2003., Copyright (c) Fredrik Lundh 1996-97, Copyright (c) Fredrik Lundh 1996-97., Copyright (c) Fredrik Lundh 1996., Copyright (c) Fredrik Lundh 1997, Copyright (c) Fredrik Lundh 1997-2004, Copyright (c) Fredrik Lundh 1997-2004., Copyright (c) Fredrik Lundh 1997., Copyright (c) Fredrik Lundh 1999, Copyright (c) Fredrik Lundh 1999., Copyright (c) Fredrik Lundh 2009, Copyright (c) Fredrik Lundh 2009., Copyright (c) Mickael Bonfill 2017, Copyright (c) Mickael Bonfill 2017., Copyright (c) Secret Labs AB 1997, Copyright (c) Secret Labs AB 1997-2001, Copyright (c) Secret Labs AB 1997-2001., Copyright (c) Secret Labs AB 1997-2002, Copyright (c) Secret Labs AB 1997-2002., Copyright (c) Secret Labs AB 1997-2003, Copyright (c) Secret Labs AB 1997-2003., Copyright (c) Secret Labs AB 1997-2004, Copyright (c) Secret Labs AB 1997-2004., Copyright (c) Secret Labs AB 1997-2005, Copyright (c) Secret Labs AB 1997-2005., Copyright (c) Secret Labs AB 1997-98, Copyright (c) Secret Labs AB 1997-98., Copyright (c) Secret Labs AB 1997-99, Copyright (c) Secret Labs AB 1997-99., Copyright (c) Secret Labs AB 1997., Copyright (c) Secret Labs AB 1998, Copyright (c) Secret Labs AB 1999, Copyright (c) Secret Labs AB 1999., Copyright (c) Secret Labs AB 2002, Copyright (c) Secret Labs AB 2002-2004, Copyright (c) Secret Labs AB 2002-2004., Copyright (c) Secret Labs AB 2002., Copyright (c) Secret Labs AB 2008, Copyright (c) Secret Labs AB 2008., Copyright 1984, 1987 Adobe Systems, Inc., Copyright 1987-2001 Adobe Systems Incorporated, Copyright 1987-2001 Adobe Systems Incorporated., Copyright 1987-2004 Adobe Systems Incorporated, Copyright 1987-2004 Adobe Systems Incorporated., Copyright 1987-2006 Adobe Systems Incorporated, Copyright 1987-2006 Adobe Systems Incorporated., copyright 1995-2011 Fredrik Lundh, copyright 1995-2011 Fredrik Lundh, 2010-2021 Alex Clark and Contributors, Copyright 1997-2006 Adobe Systems Incorporated, Copyright 1997-2006 Adobe Systems Incorporated., Copyright 2002, 2003, 2005, 2008, 2009, 2010, 2012 GNU Freefont contributors, Copyright 2002, 2003, 2005, 2008, 2009, 2010, 2012 GNU Freefont contributors., Copyright 2002, 2003, 2005, 2008, 2009, 2010, 2012 GNU Freefont contributors. FreeMono FreeMono, copyright 2003 kevin_cazabon@hotmail.com kevin@cazabon.com, Copyright 2007 International Color Consortium, Copyright 2008 The Bungee Project, copyright 2010-2011, Google Corporation.Open Sans Condensed, copyright 2010-2011, Google Corporation.Open Sans Condensed LightItalic1.10 1ASC OpenSansCondensed-LightItalicOpen Sans Condensed Light ItalicVersion, Copyright 2013 Google Inc.Noto Color EmojiRegularVersion, Copyright 2014 Google Inc., Copyright 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/).Noto Sans JP RegularRegular1.004 GOOG NotoSansJP-Regular ADOBEVersion, Copyright 2016 Adobe (http://www.adobe.com/).Adobe Variable Font PrototypeRegular1.004 ADBO AdobeVFPrototype-Default ADOBEVersion, Copyright 2016 Google Inc., Copyright 2018 by Jack Halten Fahnestock, Copyright 2018 by Jack Halten Fahnestock., Copyright 2020 Google LLC, Copyright International Color Consortium, 2009, Copyright, DateTime, ResolutionUnit, Software, XResolution and YResolution, copyrighted by the Regents of the University of California, Sun Microsystems, Inc., Scriptics Corporation, Fonts are (c) Bitstream, nCopyright 2015 Google Inc., Portions Copyright 1988 Digital Equipment Corp., Portions Copyright 1988 Digital Equipment Corporation, Portions copyright 1997, 2009, 2011 American Mathematical Society <http://www.ams.org>, Portions copyright 2015, Khaled Hosny",
       "versionInfo": "8.4.0",
       "externalRefs": [
         {
@@ -1101,9 +1103,9 @@
       "SPDXID": "SPDXRef-Package-31C0458337F0C67244359AB61484933D12446C7674A14B1F0AF13E6AF2B34374",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2003-2019 Stuart Bishop <stuart@stuartbishop.net>",
       "versionInfo": "2021.3",
       "externalRefs": [
         {
@@ -1119,7 +1121,7 @@
       "SPDXID": "SPDXRef-Package-3F39B8CB06A47AA79888B0F9A0597C7CBBC29BD02B92EA572858F9994C685F2A",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "1.21.4",
@@ -1137,9 +1139,9 @@
       "SPDXID": "SPDXRef-Package-82785D793E6C7DBCE7192F7084BFE978197C43A3EEBBD24888769F03DE675BF8",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2015,2016 Nir Cohen, Copyright 2015,2016,2017 Nir Cohen, copyright u'2015,2016, Nir Cohen, Andreas Maier",
       "versionInfo": "1.4.0",
       "externalRefs": [
         {
@@ -1155,9 +1157,9 @@
       "SPDXID": "SPDXRef-Package-E6B93B3F2DA4B0100A4B547A577BBE23D5836D64B3B19AC4275C226985792C2C",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) OY H-aaoY, Copyright (c) 2006-2013 James Graham and other contributors, Copyright (c) 2006-2013 James Graham, Geoffrey Sneddon, and other contributors",
       "versionInfo": "1.0.1",
       "externalRefs": [
         {
@@ -1191,9 +1193,9 @@
       "SPDXID": "SPDXRef-Package-8560F9EEDF7C0BA09F826DF0E1D641CA3B0EA07FC3804DCDC7F8809843361D00",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 1999-2005, Marc-Andre Lemburg, Copyright (c) 2001-2007 NLTK Project, Copyright (c) 2001-2013 NLTK Project, Copyright (c) 2001-2015 NLTK Project, Copyright (c) 2001-2016 NLTK Project, Copyright (c) 2001-2020 NLTK Proejct Algorithm Kazem Taghva, Rania Elkhoury, and Jeffrey Coombs (2005), Copyright (c) 2001-2020 NLTK Project, Copyright (c) 2001-2020 NLTK Project Algorithm Kiss & Strunk (2006), Copyright (c) 2001-2020 NLTK Project URL <http://nltk.org/>, Copyright (c) 2001-2020 NLTK Project URL <http://nltk.org>, Copyright (c) 2005-2007 Oregon Graduate Institute, Copyright (c) 2012 NLTK Project, Copyright 1998 Carnegie Mellon University, Copyright 2002 by Grzegorz Kondrak, Copyright 2013 Matthew Honnibal NLTK, Copyright 2015 The NLTK Project, Copyright Michele Simionato",
       "versionInfo": "3.5",
       "externalRefs": [
         {
@@ -1209,9 +1211,9 @@
       "SPDXID": "SPDXRef-Package-9618ADFB29D6A27F0D5AFBA0967C33E1312610190279B97F7559076500522F1D",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Casper da Costa-Luis casperdcl (https://github.com/casperdcl), (c) Casper da Costa-Luis casperdcl (https://github.com/casperdcl)., (c) Noam Yorav-Raphael, (c) Noam Yorav-Raphael, original author, Copyright (c) 2013, Copyright (c) 2013 noamraph",
       "versionInfo": "4.50.0",
       "externalRefs": [
         {
@@ -1227,9 +1229,9 @@
       "SPDXID": "SPDXRef-Package-B18014C445BB178ED7AA883CE56F5572EE5972C43E627786FDC4A101FBEED3DA",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MPL-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 1999 Entrust.net Limited, (c) 1999 Entrust.net Limited Label Entrust.net Premium 2048 Secure Server CA Serial, (c) 1999 VeriSign, Inc., (c) 2006 Entrust, Inc., (c) 2006 Entrust, Inc. Label Entrust Root Certification, (c) 2006 thawte, Inc., (c) 2006 VeriSign, Inc., (c) 2007 GeoTrust Inc., (c) 2007 thawte, Inc., (c) 2007 VeriSign, Inc., (c) 2008 GeoTrust Inc., (c) 2008 thawte, Inc., (c) 2008 VeriSign, Inc., (c) 2009 Entrust, Inc. - for, (c) 2012 Entrust, Inc. - for, (c) 2015 Entrust, Inc. - for, Copyright (c) 2005/OISTE Foundation, Copyright (c) 2005/OISTE Foundation Endorsed Label OISTE WISeKey Global Root",
       "versionInfo": "2019.11.28",
       "externalRefs": [
         {
@@ -1245,9 +1247,9 @@
       "SPDXID": "SPDXRef-Package-58B0E282E5D238C26B340CE48970A2FE030110BF24D38CD657ED89D09B0097DB",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2008-2020 Andrey Petrov and contributors, Copyright (c) 2010-2020 Benjamin Peterson, Copyright (c) 2012 Senko Rasic <senko.rasic@dobarkod.hr>, Copyright (c) 2015-2016 Will Bond <will@wbond.net>, Copyright 2015 Google Inc.",
       "versionInfo": "1.26.5",
       "externalRefs": [
         {
@@ -1263,9 +1265,9 @@
       "SPDXID": "SPDXRef-Package-177F0AD5A2F697500C76FAB675F74903D37AADD7BF85D54140B8B845C5F60BA7",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2003-2019 Paul T. McGuire, Copyright (c) 2003, Paul McGuire, Copyright (c) 2003,2016, Paul McGuire, Copyright (c) 2003,2019 Paul McGuire, Copyright (c) 2004-2011 Paul T. McGuire., Copyright (c) 2004-2016, Paul McGuire, Copyright (c) 2004, 2006 Paul McGuire, Copyright (c) 2004, Paul McGuire, Copyright (c) 2006 Tim Cera timcera@earthlink.net, Copyright (c) 2006-2016, Paul McGuire, Copyright (c) 2006, 2016, Paul McGuire, Copyright (c) 2006, Estrate, the Netherlands, Copyright (c) 2006, Paul McGuire, Copyright (c) 2006,2016 Paul McGuire, Copyright (c) 2009 Zarko Zivanov, Copyright (c) 2016, Paul McGuire, Copyright (c) 2018 Paul T. McGuire, Copyright 1989 by Carnegie Mellon University, Copyright 2002-2018, Paul McGuire, Copyright 2003-2009 by Paul McGuire, Copyright 2003, 2019 by Paul McGuire, Copyright 2004-2010, Copyright 2004-2016, by Paul McGuire, Copyright 2004, by Alberto Santini http://www.albertosantini.it/chess, Copyright 2004, Paul McGuire, Copyright 2005-2006, Paul McGuire, Copyright 2006, by Paul McGuire, copyright 2006, Paul McGuire, Copyright 2006, Paul McGuire, Copyright 2007 by Paul McGuire, Copyright 2007-2011, by Paul McGuire, Copyright 2008 Chris Lambrou., Copyright 2008, by Paul McGuire, Copyright 2008, Paul McGuire, Copyright 2009, 2011 Paul McGuire, Copyright 2010, 2019 by Paul McGuire, Copyright 2010, Paul McGuire, Copyright 2010,2019 Paul McGuire, Copyright 2011, Paul McGuire, Copyright 2011,2015 Paul T. McGuire, Copyright 2012, Paul T. McGuire, Copyright 2015, Paul McGuire, Copyright 2016, Paul McGuire, Copyright 2018, Paul McGuire, copyright 2018, Paul T. McGuire, Copyright 2019, Paul McGuire, Copyright copy 2003-2013 Paul McGuire., Copyright Ellis & Grant, Inc. 2005, Copyright Paul McGuire, 2019, Copyright Petri Savolainen <firstname.lastname@iki.fi>, Copyright, 2006, by Paul McGuire, Copyright, 2007 - Paul McGuire, Copyright, 2010, Paul McGuire, Copyright, 2012 - Paul McGuire",
       "versionInfo": "2.4.6",
       "externalRefs": [
         {
@@ -1281,7 +1283,7 @@
       "SPDXID": "SPDXRef-Package-728C74075D32B2558148F60BCC8D9BF9650269A4F174FB466906982787FA05A1",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "2.3.0",
@@ -1299,9 +1301,9 @@
       "SPDXID": "SPDXRef-Package-B2442E0C5AB383B006C465E1E70EE2465EF8B724E02059E143EB74B3E38A250E",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2008-2016, Copyright (c) 2017 Thomas Kluyver, Copyright 2012 Facebook",
       "versionInfo": "0.8.2",
       "externalRefs": [
         {
@@ -1335,9 +1337,9 @@
       "SPDXID": "SPDXRef-Package-1CE1240E9C8936261D8C65BB22CD8ED2D93DD5FFBDE3C8B7D3ADC9307F3E6335",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010-2020 Benjamin Peterson, copyright u'2010-2020, Benjamin Peterson",
       "versionInfo": "1.14.0",
       "externalRefs": [
         {
@@ -1353,9 +1355,9 @@
       "SPDXID": "SPDXRef-Package-A7B1AA899221FDA97ED52B312DBEBD25177D1EA4F1E8A13D7C819DF6FE105659",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Appender Copyright (c) 2009, Copyright (c) 1988-1993 The Regents of the University of California, Copyright (c) 1988-1993 The Regents of the University of California., Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, The Netherlands, Copyright (c) 1993,2004 Sun Microsystems, Copyright (c) 1994 David Burren, Copyright (c) 1994 David Burren., Copyright (c) 1994 Sun Microsystems, Inc., Copyright (c) 1995-2001 Corporation for National Research Initiatives, Copyright (c) 2001-2008 Ville Laurikari, Copyright (c) 2001, 2002 Enthought, Inc., Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 Python Software Foundation, Copyright (c) 2002 Michael Ringgaard, Copyright (c) 2002 Michael Ringgaard., Copyright (c) 2003-2009 Bruce D. Evans, Copyright (c) 2003-2009 Steven G. Kargl, Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>, Copyright (c) 2003-2011 David Schultz, Copyright (c) 2003-2012 SciPy Developers, Copyright (c) 2003-2012 SciPy Developers., Copyright (c) 2005-2011, NumPy Developers, Copyright (c) 2005-2011, NumPy Developers., Copyright (c) 2005-2014 Rich Felker, Copyright (c) 2006 Alexander Chemeris, Copyright (c) 2006-2008 Alexander Chemeris, Copyright (c) 2007 Nick Galbreath, Copyright (c) 2007 Nick Galbreath nickg at modp dot com, Copyright (c) 2008 Stephen L. Moshier, Copyright (c) 2008 The Android Open Source Project, Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team, Copyright (c) 2008, 2009, 2011 by Attractive Chaos <attractor@live.co.uk>, Copyright (c) 2009', join, Copyright (c) 2010-2012 Archipel Asset Management AB., Copyright (c) 2010, Albert Sweigart, Copyright (c) 2011 by Enthought, Inc., Copyright (c) 2011 Szabolcs Nagy, Copyright (c) 2011 Valentin Ochs, Copyright (c) 2011-2013, ESN Social Software AB and Jonas Tarnstrom, Copyright (c) 2011-2021, Open source contributors, Copyright (c) 2012 Google Inc., Copyright (c) 2012-2014 - Tomi Pievilainen <tomi.pievilainen@iki.fi>, Copyright (c) 2012, Lambda Foundry, Inc., Copyright (c) 2014-2016 - Yaron de Leeuw <me@jarondl.net>, Copyright (c) 2015 Jared Hobbs, Copyright (c) 2015- - dateutil contributors, Copyright (c) 2015- - Paul Ganssle <paul@ganssle.io>, Copyright (c) 2016, PyData Development Team, Copyright (c) 2017 - dateutil contributors, Copyright (c) 2017 Anthony Sottile, Copyright (c) 2019 Hadley Wickham RStudio and Evan Miller, Copyright (c) 2020, PyData Development Team, Copyright (c) Donald Stufft and individual contributors, Copyright (c) Donald Stufft and individual contributors., Copyright 2014-2019, Copyright 2014-2019, xarray, Copyright 2017, Copyright 2017- dateutil contributors, Copyright 2017- Paul Ganssle <paul@ganssle.io>, copyright f'2008- datetime.now .year, the pandas development team, copyright f'2008- datetime.now().year, the pandas development team",
       "versionInfo": "1.3.4",
       "externalRefs": [
         {
@@ -1371,9 +1373,9 @@
       "SPDXID": "SPDXRef-Package-869E5143F0B905223DED4F349399E43E722A2A7CEAC0B9D54E622704A07B8578",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2013 Ray, Copyright 2013-2014 Ray",
       "versionInfo": "1.3.3",
       "externalRefs": [
         {
@@ -1389,9 +1391,9 @@
       "SPDXID": "SPDXRef-Package-A867BA01177AA31F055EB157E228E13E0FCA9D8E661AF649FEFAD26580870877",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "copyright (c) 2012 by Kenneth Reitz, copyright (c) 2017 by Kenneth Reitz, Copyright 2018 Kenneth Reitz, Copyright 2019 Kenneth Reitz",
       "versionInfo": "2.22.0",
       "externalRefs": [
         {
@@ -1407,9 +1409,9 @@
       "SPDXID": "SPDXRef-Package-3BE2CCC00D0E116D466A9A448311C7AA38EA198F2601FC308FD99FAB988387AF",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010 openpyxl, Copyright (c) 2010-2021 openpyxl, Copyright (c) 2010-2021 openpyxl from openpyxl.descriptors.serialisable import, copyright openpyxl 2010-2015, copyright openpyxl 2010-2018",
       "versionInfo": "3.0.9",
       "externalRefs": [
         {
@@ -1425,9 +1427,9 @@
       "SPDXID": "SPDXRef-Package-82CBD696BB8A43274EB09511204124FF440FC83913D57EAD9393C2538CE610D5",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "(Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause) OR (Apache-2.0 AND BSD-2-Clause)",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) Donald Stufft and individual contributors, Copyright (c) Donald Stufft and individual contributors., Copyright 2014-2019 s",
       "versionInfo": "20.3",
       "externalRefs": [
         {
@@ -1443,7 +1445,7 @@
       "SPDXID": "SPDXRef-Package-B6D19504C1125B9A6C633E0C1E20E67F91697A664493FA8C1F8ED8C7F0795AE1",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Python-2.0.1",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "0.3.0",
@@ -1461,9 +1463,9 @@
       "SPDXID": "SPDXRef-Package-CF552E8AB83E6FF01EF468BC77D3DE0F4A12AD8C3CC3EE92C454669DCB194415",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "ISC",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2012 Giorgos Verigakis <verigak@gmail.com>",
       "versionInfo": "1.5",
       "externalRefs": [
         {
@@ -1479,9 +1481,9 @@
       "SPDXID": "SPDXRef-Package-F4A4ECAD70D0F8CA2EB839027C5E93687350A3A9D86E7405FBB199AD4BD226CB",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT-CMU",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Tavmjung Bah, Copyright (c) 1987 Adobe Systems, Inc., Copyright (c) 1987-1994 The Regents of the University of California, copyright (c) 1991-1995, Thomas G. Lane, Copyright (c) 1993-1996 Lucent Technologies, Copyright (c) 1994-1998 Sun Microsystems, Inc., Copyright (c) 1995 by Fredrik Lundh, Copyright (c) 1995-1996 by Fredrik Lundh, Copyright (c) 1995-1997 by Fredrik Lundh, Copyright (c) 1995-2001 by Fredrik Lundh, Copyright (c) 1995-2001 by Secret Labs AB, Copyright (c) 1995-2002 by Fredrik Lundh, Copyright (c) 1995-2003 by Fredrik Lundh, Copyright (c) 1995-2004 by Fredrik Lundh, Copyright (c) 1995-2005 by Fredrik Lundh, Copyright (c) 1995-2006 by Fredrik Lundh, Copyright (c) 1995-2009 by Fredrik Lundh, Copyright (c) 1995-2011 by Fredrik Lundh, Copyright (c) 1995-96 by Fredrik Lundh, Copyright (c) 1996 by Fredrik Lundh, Copyright (c) 1996-1997 by Fredrik Lundh, Copyright (c) 1996-2000 by Fredrik Lundh, Copyright (c) 1996-2000 Fredrik Lundh, Copyright (c) 1996-2003 by Fredrik Lundh, Copyright (c) 1996-2004 by Fredrik Lundh, Copyright (c) 1996-2006 by Fredrik Lundh, Copyright (c) 1997 by Fredrik Lundh, Copyright (c) 1997 by Secret Labs AB., Copyright (c) 1997-1998 by Fredrik Lundh, Copyright (c) 1997-1998 by Secret Labs AB, Copyright (c) 1997-1999 by Secret Labs AB, Copyright (c) 1997-2000 by Secret Labs AB, Copyright (c) 1997-2001 by Secret Labs AB., Copyright (c) 1997-2002 by Secret Labs AB., Copyright (c) 1997-2003 by Fredrik Lundh, Copyright (c) 1997-2003 by Secret Labs AB., Copyright (c) 1997-2004 by Secret Labs AB., Copyright (c) 1997-2005 by Fredrik Lundh, Copyright (c) 1997-2005 by Secret Labs AB., Copyright (c) 1997-2006 by Secret Labs AB., Copyright (c) 1997-2007 Adobe Systems, Inc., Copyright (c) 1997-2009 by Secret Labs AB., Copyright (c) 1997-2011 by Secret Labs AB, Copyright (c) 1997-98 by Secret Labs AB., Copyright (c) 1997-99 by Secret Labs AB., Copyright (c) 1998 by Secret Labs AB, Copyright (c) 1998 by Toby J Sargeant, Copyright (c) 1998-2000 by Scriptics Corporation, Copyright (c) 1998-2000 Secret Labs AB, Copyright (c) 1998-2001 Marti Maria, Copyright (c) 1998-2003 by Fredrik Lundh, Copyright (c) 1998-2003 by Secret Labs AB., Copyright (c) 1998-2004 by Secret Labs AB., Copyright (c) 1998-2005 by Secret Labs AB, Copyright (c) 1998-2007 by Secret Labs AB, Copyright (c) 1999 by Secret Labs AB., Copyright (c) 1999-2005 by Secret Labs AB, Copyright (c) 2000-2003 by Fredrik Lundh, Copyright (c) 2000-2006 Adobe Systems, Inc., Copyright (c) 2001-2002 by Fredrik Lundh, Copyright (c) 2001-2002 by Secret Labs AB, Copyright (c) 2001-2004 by Fredrik Lundh, Copyright (c) 2001-2004 by Secret Labs AB, Copyright (c) 2002 by Fredrik Lundh, Copyright (c) 2002 by Kevin B. Kenny, Copyright (c) 2002 by Secret Labs AB, Copyright (c) 2002-2003 Kevin Cazabon, Copyright (c) 2002-2003 Kevin Cazabon kevin@cazabon.com http://www.cazabon.com, Copyright (c) 2002-2004 by Fredrik Lundh, Copyright (c) 2002-2004 by Secret Labs AB, Copyright (c) 2002-2017, and GNU, Copyright (c) 2003 by Bitstream, Inc., Copyright (c) 2003 by Fredrik Lundh, Copyright (c) 2003 by Secret Labs AB, Copyright (c) 2003-2005 by Fredrik Lundh, Copyright (c) 2003-2005 by Secret Labs AB, Copyright (c) 2004 by Bob Ippolito, Copyright (c) 2004 by Fredrik Lundh, Copyright (c) 2004 by Health Research Inc., Copyright (c) 2004 by Secret Labs, Copyright (c) 2004 by Secret Labs AB., Copyright (c) 2004 by William Baxter, Copyright (c) 2005 by Fredrik Lundh, Copyright (c) 2006 by Fredrik Lundh, Copyright (c) 2006 by Secret Labs AB., Copyright (c) 2006 by Tavmjong Bah, Copyright (c) 2008 by Karsten Hiddemann, Copyright (c) 2009 by Fredrik Lundh, Copyright (c) 2009 Fredrik Lundh, Copyright (c) 2010 Oliver Tonnhofer <olt@bogosoft.com>, Copyright (c) 2010-2021 by Alex Clark and contributors, Copyright (c) 2011 Google, Inc., Copyright (c) 2012 by Brian Crowell, Copyright (c) 2013 by Eric Soroos, Copyright (c) 2013 Eric Soroos, Copyright (c) 2014 Alastair Houghton, Copyright (c) 2014 by Alastair Houghton, Copyright (c) 2014 by Coriolis Systems Limited, Copyright (c) 2014 Coriolis Systems Limited, Copyright (c) 2014 Dov Grobgeld <dov.grobgeld@gmail.com>, Copyright (c) 2015 Information Technology, Copyright (c) 2016 by Mickael Bonfill, Copyright (c) 2016 Khaled Hosny <khaledhosny@eglug.org>, Copyright (c) 2016 Marcin Kurczewski <rr-@sakuya.pl>, Copyright (c) 2018 Dimitar Toshkov Zhekov, Copyright (c) 2018 Google LLC, Copyright (c) 2018 Roel Nieskens, https://pixelambacht.nl, Copyright (c) 2020 by Pan Jing, Copyright (c) 2020 Free Software Foundation, Inc., Copyright (c) Eric Soroos 2016, Copyright (c) Eric Soroos 2017, Copyright (c) Fredrik Lundh 1994, Copyright (c) Fredrik Lundh 1995, Copyright (c) Fredrik Lundh 1995-1997, Copyright (c) Fredrik Lundh 1995-2003, Copyright (c) Fredrik Lundh 1995-96, Copyright (c) Fredrik Lundh 1995-97, Copyright (c) Fredrik Lundh 1996, Copyright (c) Fredrik Lundh 1996-2001, Copyright (c) Fredrik Lundh 1996-2003, Copyright (c) Fredrik Lundh 1996-97, Copyright (c) Fredrik Lundh 1997, Copyright (c) Fredrik Lundh 1997-2004, Copyright (c) Fredrik Lundh 1999, Copyright (c) Fredrik Lundh 2009, Copyright (c) Mickael Bonfill 2017, Copyright (c) Secret Labs AB 1997, Copyright (c) Secret Labs AB 1997-2001, Copyright (c) Secret Labs AB 1997-2002, Copyright (c) Secret Labs AB 1997-2003, Copyright (c) Secret Labs AB 1997-2004, Copyright (c) Secret Labs AB 1997-2005, Copyright (c) Secret Labs AB 1997-98, Copyright (c) Secret Labs AB 1997-99, Copyright (c) Secret Labs AB 1998, Copyright (c) Secret Labs AB 1999, Copyright (c) Secret Labs AB 2002, Copyright (c) Secret Labs AB 2002-2004, Copyright (c) Secret Labs AB 2008, Copyright 1984, 1987 Adobe Systems, Inc., Copyright 1987-2001 Adobe Systems Incorporated, Copyright 1987-2004 Adobe Systems Incorporated, Copyright 1987-2006 Adobe Systems Incorporated, copyright 1995-2011 Fredrik Lundh, 2010-2021 Alex Clark and Contributors, Copyright 1997-2006 Adobe Systems Incorporated, Copyright 2002, 2003, 2005, 2008, 2009, 2010, 2012 GNU Freefont contributors, Copyright 2002, 2003, 2005, 2008, 2009, 2010, 2012 GNU Freefont contributors. FreeMono FreeMono, copyright 2003 kevin_cazabon@hotmail.com kevin@cazabon.com, Copyright 2007 International Color Consortium, Copyright 2008 The Bungee Project, copyright 2010-2011, Google Corporation.Open Sans Condensed LightItalic1.10 1ASC OpenSansCondensed-LightItalicOpen Sans Condensed Light ItalicVersion, Copyright 2013 Google Inc.Noto Color EmojiRegularVersion, Copyright 2014 Google Inc., Copyright 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/).Noto Sans JP RegularRegular1.004 GOOG NotoSansJP-Regular ADOBEVersion, Copyright 2016 Adobe (http://www.adobe.com/).Adobe Variable Font PrototypeRegular1.004 ADBO AdobeVFPrototype-Default ADOBEVersion, Copyright 2016 Google Inc., Copyright 2018 by Jack Halten Fahnestock, Copyright 2020 Google LLC, Copyright International Color Consortium, 2009, copyrighted by the Regents of the University of California, Sun Microsystems, Inc., Scriptics Corporation, Portions Copyright 1988 Digital Equipment Corp., Portions Copyright 1988 Digital Equipment Corporation, Portions copyright 1997, 2009, 2011 American Mathematical Society <http://www.ams.org>, Portions copyright 2015, Khaled Hosny",
       "versionInfo": "8.3.2",
       "externalRefs": [
         {
@@ -1497,9 +1499,9 @@
       "SPDXID": "SPDXRef-Package-A1F42FF8B8AEC1536A5749D45BFC1CE7CFA0CD84C1FA45E3B341C0973246889F",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) ET. Where, (c) self.assertEqual http://ns1, Copyright (c) 1989, 1991 Free Software Foundation, Inc., Copyright (c) 1999-2003 by Fredrik Lundh, Copyright (c) 1999-2003 by Secret Labs AB, Copyright (c) 1999-2004 by Fredrik Lundh, Copyright (c) 1999-2009 by Fredrik Lundh, Copyright (c) 2000-2008 Rick Jelliffe and Academia Sinica Computing Center, Copyright (c) 2000,2001 Rick Jelliffe and Academia Sinica Computing Center, Copyright (c) 2001, 2006 Rick Jelliffe and Academia Sinica Computing Center, Copyright (c) 2003 Shuttleworth Foundation, Copyright (c) 2003-2004 by Fredrik Lundh., Copyright (c) 2003-2009 by Fredrik Lundh., Copyright (c) 2004 Ian Bicking., Copyright (c) 2004 Infrae., Copyright (c) 2004-2010 Rick Jellife, Copyright (c) 2008 Rick Jelliffe, Copyright (c) ISO/IEC 2015, Copyright (c) Zope Corporation (tm) and Contributors., Copyright 2006-2009 by the Pygments team, copyright Ian Bicking, copyright International Organization, copyright Rick Jelliffe and Academia Sinica Computing Center, copyright Shuttleworth Foundation., copyrighted by the Free Software Foundation",
       "versionInfo": "4.6.3",
       "externalRefs": [
         {
@@ -1515,7 +1517,7 @@
       "SPDXID": "SPDXRef-Package-F3E55E180646C375A168786CED96E33A0877099094DDED77173E54DE5029A743",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "0.1.21",
@@ -1533,9 +1535,9 @@
       "SPDXID": "SPDXRef-Package-9331CE395649272C65968675195B05563B7FAF2564C054F6DC664B94C12C4FD3",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010 Jonathan Hartley, Copyright Jonathan Hartley & Arnon Yaari, 2013, Copyright Jonathan Hartley & Arnon Yaari, 2013., Copyright Jonathan Hartley 2013, Copyright Jonathan Hartley 2013.",
       "versionInfo": "0.4.3",
       "externalRefs": [
         {
@@ -1587,9 +1589,9 @@
       "SPDXID": "SPDXRef-Package-6B3A872B206B64E089327E58867976B12A1FA8927E5671750E3FCA3097134251",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 1991-2014 Unicode, Inc., Copyright (c) 2001-2014 Python Software Foundation, Copyright (c) 2013-2018, Kim Davies",
       "versionInfo": "2.8",
       "externalRefs": [
         {
@@ -1605,9 +1607,9 @@
       "SPDXID": "SPDXRef-Package-DA385CD20BEB68A6930A77B127084D58135C9FFD4063EC5792472803E4C02D5F",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2015 Eric Larson",
       "versionInfo": "0.12.6",
       "externalRefs": [
         {
@@ -1623,9 +1625,9 @@
       "SPDXID": "SPDXRef-Package-36CED723A570BF60F2E81958A7AB7CED7C1B05870803CA782DDBC9F45CE1A922",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2004-2017 Leonard Richardson, Copyright (c) 2004-2019 Leonard Richardson, Copyright (c) 2006-2013 James Graham and other contributors, Copyright (c) 2018 Isaac Muse, copyright u'2004-2015, Leonard Richardson, copyright u'2012, Leonard Richardson",
       "versionInfo": "4.9.2",
       "externalRefs": [
         {
@@ -1641,9 +1643,9 @@
       "SPDXID": "SPDXRef-Package-FEA537687A02A9B0D32C4CAC588578D9CC7D932E6B240C20706AABDB5A0F7C93",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright Jason R. Coombs",
       "versionInfo": "5.0.2",
       "externalRefs": [
         {
@@ -1695,9 +1697,9 @@
       "SPDXID": "SPDXRef-Package-F30C3B7D1050C496ACC7CC6AC9588FFD37348CA4EFC841B4A5EDEE2AA76B4AC9",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2009-2014 Luke Maurits <luke@maurits.id.au>, Copyright (c) 2009-2014, Luke Maurits <luke@maurits.id.au>",
       "versionInfo": "2.4.0",
       "externalRefs": [
         {
@@ -1713,9 +1715,9 @@
       "SPDXID": "SPDXRef-Package-8574403458A37CECB8415BC676A2D91A0FAF29AB798DD2154C5C38DE44F15CD0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2007 Google Inc., Copyright 2008 Google Inc.",
       "versionInfo": "2.2.0",
       "externalRefs": [
         {
@@ -1731,9 +1733,9 @@
       "SPDXID": "SPDXRef-Package-9B4FD94D37A215AF96793AB39D57E644B1D65BB69A4DBB94E3C3329D971C4305",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2007 Skip Montanaro, Copyright (c) 2007 Skip Montanaro., Copyright (c) 2008-2009 Ben Finney <ben+python@benfinney.id.au>, Copyright (c) 2013 Hewlett-Packard Development Company, L.P., copyright 2008, Skip Montanaro",
       "versionInfo": "0.12.2",
       "externalRefs": [
         {
@@ -1749,9 +1751,9 @@
       "SPDXID": "SPDXRef-Package-F7991EE939E44476D4D2E498BB091739802467ABD0CFF075212FE00601AC6A62",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright 2017-2019 Jason R. Coombs, Barry Warsaw",
       "versionInfo": "4.8.1",
       "externalRefs": [
         {
@@ -1767,9 +1769,9 @@
       "SPDXID": "SPDXRef-Package-C8BA1CC0F27A37EB32F1E52E52529648E35F9AF4F07196834B8B5719B5F60044",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2014-2015, Taehoon Kim and Kevin Wurster",
       "versionInfo": "0.6.0",
       "externalRefs": [
         {
@@ -1785,7 +1787,7 @@
       "SPDXID": "SPDXRef-Package-6E0160CC179F510BC2291A72D178494E99624E8AC369DBCCF96ABF5F9CDFED95",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "1.9.0",
@@ -1803,7 +1805,7 @@
       "SPDXID": "SPDXRef-Package-2C892BC1223ECEB06D333422FA1FAA6CAB333CA6F08C21D466F814CD4A9C363C",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "0.0.1",
@@ -1821,9 +1823,9 @@
       "SPDXID": "SPDXRef-Package-AE796D1A71B12CB46870E7537993B8341353CE579CE8F63DA268C6BCF4B5A2D3",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Copyright 2008 by http://domain.invalid/'>, copyright 2007 Pallets, Copyright 2007 Pallets",
       "versionInfo": "3.0.2",
       "externalRefs": [
         {
@@ -1857,9 +1859,9 @@
       "SPDXID": "SPDXRef-Package-44788636510D1AD48354660AB05196D81C085F1BE3E5C1406AD0886D4C579C5A",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010-2016 PyMySQL, Copyright (c) 2010, 2013 PyMySQL",
       "versionInfo": "1.0.2",
       "externalRefs": [
         {
@@ -1965,9 +1967,9 @@
       "SPDXID": "SPDXRef-Package-A07503AB6966BD89F8E4532AB20D6F6894F86DFADFADDEBFC8026FFEA3FAFCAC",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 2019 Unicode(r), Inc., Copyright (c) 2013-2021, Kim Davies",
       "versionInfo": "3.3",
       "externalRefs": [
         {
@@ -1983,9 +1985,9 @@
       "SPDXID": "SPDXRef-Package-3BD4EB83D8E35FA1D5110D5590DA97F1944D80E490E65581EEE74AE3790A854B",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "copyright (c) 2012 by Kenneth Reitz, copyright (c) 2017 by Kenneth Reitz, Copyright 2019 Kenneth Reitz, Copyright 2020 Kenneth Reitz",
       "versionInfo": "2.26.0",
       "externalRefs": [
         {
@@ -2001,9 +2003,9 @@
       "SPDXID": "SPDXRef-Package-C5E4FDAB7B1510F8A8DC315CEEF0E7DF466CD576DAC252770B750A18DD535930",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2008-2020 Andrey Petrov and contributors, Copyright (c) 2010-2020 Benjamin Peterson, Copyright (c) 2012 Senko Rasic <senko.rasic@dobarkod.hr>, Copyright (c) 2015-2016 Will Bond <will@wbond.net>, Copyright 2015 Google Inc.",
       "versionInfo": "1.26.7",
       "externalRefs": [
         {
@@ -2019,9 +2021,9 @@
       "SPDXID": "SPDXRef-Package-15EEB59286A34895D062123BD3E2D0B17DDF89F8E83D9D05FDCD54FBFF1AC627",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Python-2.0.1",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, Copyright (c) 1995-2001 Corporation for National Research Initiatives, Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014 Python Software Foundation",
       "versionInfo": "3.10.0.2",
       "externalRefs": [
         {
@@ -2055,9 +2057,9 @@
       "SPDXID": "SPDXRef-Package-4CBF9078046076D40759A4A406C648121F7E49A169A360BE63B3F98D44700439",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MPL-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 1999 Entrust.net Limited, (c) 1999 Entrust.net Limited Label Entrust.net Premium 2048 Secure Server CA Serial, (c) 2006 Entrust, Inc., (c) 2006 Entrust, Inc. Label Entrust Root Certification, (c) 2009 Entrust, Inc. - for, (c) 2012 Entrust, Inc. - for, (c) 2015 Entrust, Inc. - for",
       "versionInfo": "2021.10.8",
       "externalRefs": [
         {
@@ -2073,9 +2075,9 @@
       "SPDXID": "SPDXRef-Package-9B3279DAA52DCD12AE1F848D43A0DD5CA6A32258A5AF2EA8EE962FB08F727959",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Casper da Costa-Luis casperdcl (https://github.com/casperdcl)., (c) Noam Yorav-Raphael, Copyright (c) 2013",
       "versionInfo": "4.48.2",
       "externalRefs": [
         {
@@ -2109,9 +2111,9 @@
       "SPDXID": "SPDXRef-Package-9963B898006EA0F5CA320F433D530D56619338C48435C0B2D08D3CEB3D4720FB",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Wolfgang Haefelinger, 2004., Copyright (c) 2002-2004 John McNamara, Copyright (c) 2004 Evgeny Filatov <fufff@users.sourceforge.net>, Copyright (c) 2005 Kiseliov Roman, Copyright (c) 2005 Roman V. Kiseliov, Copyright (c) 2007 John Machin, Copyright (c) 2010, Manfred Moitzi, copyright 2002, portions Copyright (c) 2005 Kiseliov Roman, Portions copyright (c) 2007, Stephen John Machin, Lingfo Pty Ltd",
       "versionInfo": "1.3.0",
       "externalRefs": [
         {
@@ -2127,7 +2129,7 @@
       "SPDXID": "SPDXRef-Package-DAA451C5F9CF35D6C83274EA8D735E7B6CDDB657D9ADB4398EC972D516E0920C",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "2.1.1",
@@ -2163,9 +2165,9 @@
       "SPDXID": "SPDXRef-Package-EDB575265E876E318C58FB5429523BE66EBE44CFC0B484C6E38CE34C9A1A7D88",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "copyright 2010 Pallets, Copyright 2010 Pallets",
       "versionInfo": "2.0.1",
       "externalRefs": [
         {
@@ -2181,9 +2183,9 @@
       "SPDXID": "SPDXRef-Package-BD0E9E02AAF65EEFC66C18CFFB6B30E5874F5240DB030AB99C9C641B6045FE5C",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright Jason R. Coombs",
       "versionInfo": "3.6.0",
       "externalRefs": [
         {
@@ -2235,9 +2237,9 @@
       "SPDXID": "SPDXRef-Package-C0D754F662268BA28504FD164EF014B11E1E0EB6C4A4380829A4D82FA280CB12",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 2012 Denny Vrandecic (http://simia.net/letters/), (c) https://stackoverflow.com/questions/3041986/apt-command-line-interface-like-yes-no-input, Copyright (c) 2019 Ahmed TAHRI Ousret, Copyright (c) 2019 Ahmed TAHRI Ousret (https://github.com/Ousret)., Copyright (c) 2019 Ahmed TAHRI Ousret (https://github.com/Ousret). This project, Copyright (c) 2019 TAHRI Ahmed R., copyright 2019, Ahmed TAHRI",
       "versionInfo": "2.0.7",
       "externalRefs": [
         {
@@ -2289,7 +2291,7 @@
       "SPDXID": "SPDXRef-Package-CECB8FBEF04A833B72E1D10CC523D89E3018CC27A649B910A7F43A14A1373665",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "3.9.0",
@@ -2343,9 +2345,9 @@
       "SPDXID": "SPDXRef-Package-6885EC661225313E733BAC7E4A7E14B9438ED462DA4777DD9CE8459F1FD2747E",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "AFL-2.1 OR MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2003-2004 Lawrence E. Rosen., Copyright (c) 2006 Bob Ippolito.",
       "versionInfo": "3.17.5",
       "externalRefs": [
         {
@@ -2451,9 +2453,9 @@
       "SPDXID": "SPDXRef-Package-E72CD5C77E88FB0EB0738CD0BFBEF68B08A81FAD6AD606B8C5016491683B9148",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2014 Jeff Quast <contact@jeffquast.com>",
       "versionInfo": "0.2.5",
       "externalRefs": [
         {
@@ -2721,7 +2723,7 @@
       "SPDXID": "SPDXRef-Package-7A5383B694AD05DBEC5152CE001F1F7CA9093C80BD3AA32D584D035E7C3116D4",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "GPL-3.0-or-later",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "4.3.1",
@@ -2739,9 +2741,9 @@
       "SPDXID": "SPDXRef-Package-0A4E4E1E20E58640E480F82A6B77C5876917CD306EB2C09522FBE4A8CEE2648B",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2012-2014 Antoine Pitrou and contributors, copyright 2012, Antoine Pitrou",
       "versionInfo": "1.0.1",
       "externalRefs": [
         {
@@ -2847,7 +2849,7 @@
       "SPDXID": "SPDXRef-Package-E9AEF0D3DCFB2DB940FB6B42897200BDB0C8840765623E4DE3E7981BC5EAE57E",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "1.8.1",
@@ -2955,7 +2957,7 @@
       "SPDXID": "SPDXRef-Package-A066C1FD821F9D414A2DA4E01A5AD2E4488A58AD2084620F0B1C023D5065B912",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "85.0.4183.38.0",
@@ -2991,7 +2993,7 @@
       "SPDXID": "SPDXRef-Package-3827223D1C2067CBBFEF44D349B6F6EE9A6AA310D1C483E5253003E6264BC175",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "0.0.2",
@@ -3045,9 +3047,9 @@
       "SPDXID": "SPDXRef-Package-363932391F5E2A1DED4D156AE2C98F80059A3805559A68DBF8D0B9CC3994E8E8",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2006-2018 geopy authors",
       "versionInfo": "2.0.0",
       "externalRefs": [
         {
@@ -3063,9 +3065,9 @@
       "SPDXID": "SPDXRef-Package-C585F5185EF3EC67FD50E09BA470EDD49EAB9975B87616FE7116DACD079227C0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 1988-1993 The Regents of the University of California, Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, The Netherlands, Copyright (c) 1993,2004 Sun Microsystems, Copyright (c) 1994 David Burren, Copyright (c) 1994 Sun Microsystems, Inc., Copyright (c) 1995-2001 Corporation for National Research Initiatives, Copyright (c) 2001-2008 Ville Laurikari, Copyright (c) 2001, 2002 Enthought, Inc., Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 Python Software Foundation, Copyright (c) 2002 Michael Ringgaard, Copyright (c) 2003-2009 Bruce D. Evans, Copyright (c) 2003-2009 Steven G. Kargl, Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>, Copyright (c) 2003-2011 David Schultz, Copyright (c) 2003-2012 SciPy Developers, Copyright (c) 2005-2011, NumPy Developers, Copyright (c) 2005-2014 Rich Felker, Copyright (c) 2006 Alexander Chemeris, Copyright (c) 2006-2008 Alexander Chemeris, Copyright (c) 2007 Nick Galbreath nickg at modp dot com, Copyright (c) 2008 Stephen L. Moshier, Copyright (c) 2008 The Android Open Source Project, Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team, Copyright (c) 2008, 2009, 2011 by Attractive Chaos <attractor@live.co.uk>, Copyright (c) 2009', join, Copyright (c) 2010-2012 Archipel Asset Management AB., Copyright (c) 2010, Albert Sweigart, Copyright (c) 2011 by Enthought, Inc., Copyright (c) 2011 Szabolcs Nagy, Copyright (c) 2011 Valentin Ochs, Copyright (c) 2011-2013, ESN Social Software AB and Jonas Tarnstrom, Copyright (c) 2011-2020, Open source contributors, Copyright (c) 2012 Google Inc., Copyright (c) 2012-2014 - Tomi Pievilainen <tomi.pievilainen@iki.fi>, Copyright (c) 2012, Lambda Foundry, Inc., Copyright (c) 2014-2016 - Yaron de Leeuw <me@jarondl.net>, Copyright (c) 2015 Jared Hobbs, Copyright (c) 2015- - dateutil contributors, Copyright (c) 2015- - Paul Ganssle <paul@ganssle.io>, Copyright (c) 2016, PyData Development Team, Copyright (c) 2017 - dateutil contributors, Copyright (c) 2019 Hadley Wickham RStudio and Evan Miller, Copyright 2014-2019, xarray, Copyright 2017- dateutil contributors, Copyright 2017- Paul Ganssle <paul@ganssle.io>, copyright f'2008- datetime.now .year, the pandas development team",
       "versionInfo": "1.1.0",
       "externalRefs": [
         {
@@ -3153,9 +3155,9 @@
       "SPDXID": "SPDXRef-Package-3C94C2D2161DEF4B5D315780E53506A7C8C2E91E8A117840EB38205ACA8EC619",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2014, Al Sweigart, copyright 2019, Al Sweigart",
       "versionInfo": "0.9.50",
       "externalRefs": [
         {
@@ -3171,9 +3173,9 @@
       "SPDXID": "SPDXRef-Package-AD705290738F57F257FFF405ED4C58B843B2D33CE8E8454A66BA4E1B20C99783",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)",
       "versionInfo": "10.11.0",
       "externalRefs": [
         {
@@ -3207,9 +3209,9 @@
       "SPDXID": "SPDXRef-Package-1BA7CB4041F07F473E35CD6A6A3CF3D0186B19868C00469025A4953CE4920520",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2012 Martin Blech and individual contributors",
       "versionInfo": "0.12.0",
       "externalRefs": [
         {
@@ -3225,7 +3227,7 @@
       "SPDXID": "SPDXRef-Package-FC858D0D54520B5A5AFA3BD6E7EDA761B5F49340054BC0BF368CC450F6BB2963",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "0.5.4",
@@ -3243,7 +3245,7 @@
       "SPDXID": "SPDXRef-Package-554202788F1A065E0872581D607224E817749F86FE5B50F542E822272E3DF0A3",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "4.4.0.42",
@@ -3387,9 +3389,9 @@
       "SPDXID": "SPDXRef-Package-5C29FCAEE05BA8A342CB3137982020F9470E0DB10C6D34344C4E0945B8191D39",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 2011 Gary Court., (c) 2017 Joachim Wester, (c) 2019 Denis Pushkarev, (c) e.setSelections(r) t.ch m h.ch, (c) Sindre Sorhus, Copyright (c) 2005 Tom Wu, Copyright (c) 2005-2009 Tom Wu, Copyright (c) 2007 Kris Zyp SitePen (www.sitepen.com), Copyright (c) 2011 by MarkLogic Corporation, Copyright (c) 2011 Fabrice Bellard, Copyright (c) 2011-2017 KARASZI Istvan <github@spam.raszi.hu>, Copyright (c) 2012-2013, Christopher Jeffrey (MIT License) https://github.com/chjj/term.js, Copyright (c) 2012-2014 TJ Holowaychuk, Copyright (c) 2012, Mark Cavage., Copyright (c) 2013 Ted Unangst <tedu@openbsd.org>, Copyright (c) 2013-2015 by Andrea Giammarchi, Copyright (c) 2013-present, Facebook, Inc., Copyright (c) 2013, Yahoo! Inc., Copyright (c) 2014, Copyright (c) 2014 Jon Schlinkert, contributors., Copyright (c) 2014 Jonathan Ong, Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors, Copyright (c) 2014-2015, Jon Schlinkert., Copyright (c) 2014-2016, Jupyter Development Team., Copyright (c) 2014-2017, Jon Schlinkert., Copyright (c) 2014-2017, Jupyter Development Team., Copyright (c) 2014-2017, PhosphorJS, Copyright (c) 2014-2018, Jon Schlinkert., Copyright (c) 2014-2019, Jupyter Development Team., Copyright (c) 2015 Douglas Christopher Wilson, Copyright (c) 2015 Jed Watson, Copyright (c) 2015 Jon Schlinkert., Copyright (c) 2015 Project Jupyter Contributors, Copyright (c) 2015-2016, Jon Schlinkert., Copyright (c) 2015-2017, Jon Schlinkert., Copyright (c) 2015-2018, Jon Schlinkert., Copyright (c) 2015, Jon Schlinkert., Copyright (c) 2015, Salesforce.com, Inc., Copyright (c) 2016, Copyright (c) 2016 Federico Zivolo and contributors, Copyright (c) 2017 Jed Watson., Copyright (c) 2017, Jupyter Development Team., copyright (c) 2018 Denis Pushkarev, Copyright (c) Facebook, Inc. and its affiliates., Copyright (c) Font Awesome, Copyright (c) Font Awesome Font Awesome, Copyright (c) Jupyter Development Team., Copyright (c) Marak Squires, Copyright (c) Microsoft Corporation., Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com), Copyright 1997 Niels Provos <provos@physnet.uni-hamburg.de>, Copyright 2009-2016 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors, Copyright 2010 LearnBoost <dev@learnboost.com>, Copyright 2010-2012 Mikeal Rogers, Copyright 2011 Mark Cavage <mcavage@gmail.com>, Copyright 2012 Joyent, Inc., Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>, Copyright 2015 Joyent, Inc., Copyright 2015 Kyle E. Mitchell, Copyright 2016 Joyent, Inc., Copyright 2016, Joyent Inc, Copyright 2017 Joyent, Inc., copyright 2018, Project, copyright AtomicPages LLC 2014, copyright e (c) Copyright . / The Jupyter Trademark, Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors, Copyright Joyent, Inc. and other Node contributors., Copyright jQuery Foundation and other contributors <https://jquery.org/>, Copyright JS Foundation and other contributors <https://js.foundation/>, Copyright JS Foundation and other contributors, https://js.foundation",
       "versionInfo": "2.2.2",
       "externalRefs": [
         {
@@ -3441,9 +3443,9 @@
       "SPDXID": "SPDXRef-Package-F4F9F695C2A471A6B3E5DB20C5BD569E63092323E7E7ED2255AA84DA2E7CF9F0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "Apache-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Copyright 1994-2021, Arphic Technology Co., Ltd ARegula APower TrueType, (c) Copyright 1994-2021, Arphic Technology Co., Ltd.AR HeiGBJF LTRegularAR HeiGBJF LTAR HeiGBJF LTPower TrueType, (c) Copyright Han-Media 1995 CRegular CHAN Font Conversion Ver, Copyright (c) 1997 Microsoft Corp.1 Microsoft Corporation1!0 Microsoft Root, Copyright (c) 2000 Microsoft, Copyright (c) 2005, C-DAC, GIST, Copyright (c) 2006, Modular Infotech, Pune, Copyright (c) 2015 Ek Type, copyright (c) 2020 PaddlePaddle, Copyright (c) 2020 PaddlePaddle Authors, Copyright 1990 as an unpublished work by Bitstream Inc., Copyright 2008 Eyad Al-Samman's Typography, Copyright 2011-12 Lohit Fonts Project contributors. <http://fedorahosted.org/lohit>, GVnCharter Copyright 1990 as an unpublished work by Bitstream Inc.",
       "versionInfo": "1.3.0",
       "externalRefs": [
         {
@@ -3459,9 +3461,9 @@
       "SPDXID": "SPDXRef-Package-58D814E9E8BD8B9BE49C1021FDB58465299580DA0ABBDDA2B91BDD96991CC04D",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors Underscore, (c) Ivan Sagalaev <Maniac@SoftwareManiacs.Org> Adapted from GitHub, (c) JS Foundation and other contributors, Copyright (c) 2001-2015, IPython Development Team, Copyright (c) 2007 Cybozu Labs, Inc., Copyright (c) 2008-2015, IPython Development Team., Copyright (c) 2009-2018 The MathJax Consortium, Copyright (c) 2010-2018 The MathJax Consortium, Copyright (c) 2011 by MarkLogic Corporation, Copyright (c) 2011 Fabrice Bellard, Copyright (c) 2011-2015 The MathJax Consortium, Copyright (c) 2011-2018, Christopher Jeffrey. (MIT Licensed) https://github.com/markedjs/marked, Copyright (c) 2012 Google Inc., Copyright (c) 2012-2013, Christopher Jeffrey (MIT License) https://github.com/chjj/term.js, Copyright (c) 2013-present, Facebook, Inc., Copyright (c) 2014, copyright (c) 2015 by Calin Barbat, copyright (c) 2015 by Grzegorz Mazur Loosely, Copyright (c) 2015-, Jupyter Development Team., Copyright (c) 2015-2019 Martin Hensel, copyright (c) 2016 Jared Dean, SAS Institute, Copyright (c) 2017 ORGANIZATION, Copyright (c) 2019 RunningCoder.org, Copyright (c) Alexandru Marasteanu, copyright (c) by Lennart Ochel, copyright (c) by Marijn Haverbeke and others, copyright (c) HicknHack Software Gmbh, Copyright (c) IPython Development Team., Copyright (c) Jupyter Development Team., Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com), Copyright 2007-2012 Steven Levithan, Copyright 2011-2019 Twitter, Inc., Copyright 2012-2013 Ulrich Sossou, Copyright 2014-2018 Volker Sorge, copyright 2015, Jupyter Team, https://jupyter.org, copyright AtomicPages LLC 2014, Copyright Dave Gandy 2016., Copyright jQuery Foundation and other contributors.",
       "versionInfo": "6.1.1",
       "externalRefs": [
         {
@@ -3495,9 +3497,9 @@
       "SPDXID": "SPDXRef-Package-116576DF2E02C7980137902AC124191A243CC9BE4D1E4BC02FF40717E6B73C72",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 1988-1993 The Regents of the University of California, Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, The Netherlands, Copyright (c) 1993,2004 Sun Microsystems, Copyright (c) 1994 David Burren, Copyright (c) 1994 Sun Microsystems, Inc., Copyright (c) 1995-2001 Corporation for National Research Initiatives, Copyright (c) 2001-2008 Ville Laurikari, Copyright (c) 2001, 2002 Enthought, Inc., Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 Python Software Foundation, Copyright (c) 2002 Michael Ringgaard, Copyright (c) 2003-2009 Bruce D. Evans, Copyright (c) 2003-2009 Steven G. Kargl, Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>, Copyright (c) 2003-2011 David Schultz, Copyright (c) 2003-2012 SciPy Developers, Copyright (c) 2005-2011, NumPy Developers, Copyright (c) 2005-2014 Rich Felker, Copyright (c) 2006 Alexander Chemeris, Copyright (c) 2006-2008 Alexander Chemeris, Copyright (c) 2007 Nick Galbreath nickg at modp dot com, Copyright (c) 2008 Stephen L. Moshier, Copyright (c) 2008 The Android Open Source Project, Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team, Copyright (c) 2008, 2009, 2011 by Attractive Chaos <attractor@live.co.uk>, Copyright (c) 2009', join, Copyright (c) 2010-2012 Archipel Asset Management AB., Copyright (c) 2010, Albert Sweigart, Copyright (c) 2011 by Enthought, Inc., Copyright (c) 2011 Szabolcs Nagy, Copyright (c) 2011 Valentin Ochs, Copyright (c) 2011-2013, ESN Social Software AB and Jonas Tarnstrom, Copyright (c) 2011-2020, Open source contributors, Copyright (c) 2012 Google Inc., Copyright (c) 2012-2014 - Tomi Pievilainen <tomi.pievilainen@iki.fi>, Copyright (c) 2012, Lambda Foundry, Inc., Copyright (c) 2014-2016 - Yaron de Leeuw <me@jarondl.net>, Copyright (c) 2015 Jared Hobbs, Copyright (c) 2015- - dateutil contributors, Copyright (c) 2015- - Paul Ganssle <paul@ganssle.io>, Copyright (c) 2016, PyData Development Team, Copyright (c) 2017 - dateutil contributors, Copyright (c) 2019 Hadley Wickham RStudio and Evan Miller, Copyright 2014-2019, xarray, Copyright 2017- dateutil contributors, Copyright 2017- Paul Ganssle <paul@ganssle.io>, copyright f'2008- datetime.now .year, the pandas development team",
       "versionInfo": "1.1.2",
       "externalRefs": [
         {
@@ -3513,9 +3515,9 @@
       "SPDXID": "SPDXRef-Package-7715F65C49A00BB63ED118CF9B87BA88665F63159D51E42649A3C7448773CFA0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Covert Chebyshev, (c) Multiply a Chebyshev, (c) Multiply a Hermite, (c) Multiply a Laguerre, (c) Multiply a Legendre, (c), False, False, False, True, (c), False, False, True, False, (c), True, True, False, False, Copyright (c) 1992-2013 The University of Tennessee and The University of Tennessee Research Foundation, Copyright (c) 1993 by Sun Microsystems, Inc., Copyright (c) 1995, 1996, 1997 Jim Hugunin, hugunin@mit.edu, Copyright (c) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura, Copyright (c) 2000-2013 The University of California Berkeley, Copyright (c) 2003-2005, Jean-Sebastien Roy (js@jeannot.org), Copyright (c) 2004-2018 Max-Planck-Society author Martin Reinecke, Copyright (c) 2005-2015, NumPy Developers, Copyright (c) 2005-2017, NumPy Developers, Copyright (c) 2005-2021, NumPy Developers, Copyright (c) 2006-2013 The University of Colorado Denver, Copyright (c) 2006, University of Georgia and Pierre G.F. Gerard-Marchant, Copyright (c) 2007 Cybozu Labs, Inc., Copyright (c) 2007, 2011 David Schultz <das@FreeBSD.ORG>, Copyright (c) 2008 Ian Bicking and Contributors, Copyright (c) 2009-2017 The MathJax Consortium, Copyright (c) 2009-2019 Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and other contributors, Copyright (c) 2010 - 2019, Copyright (c) 2010 by Mark Wiebe (mwwiebe@gmail.com) The University of British Columbia, Copyright (c) 2010 The Android Open Source Project, Copyright (c) 2010-2011 by Mark Wiebe (mwwiebe@gmail.com) The University of British Columbia, Copyright (c) 2010-2017 The MathJax Consortium, Copyright (c) 2011 by Enthought, Inc., Copyright (c) 2011 by Mark Wiebe (mwwiebe@gmail.com) The University of British Columbia, Copyright (c) 2011 Enthought, Inc, Copyright (c) 2011-2015 The MathJax Consortium, Copyright (c) 2011-2017 The MathJax Consortium, Copyright (c) 2012 Google Inc., Copyright (c) 2012 Stephen Montgomery-Smith <stephen@FreeBSD.ORG>, Copyright (c) 2013-2017 The MathJax Consortium, Copyright (c) 2014 Mathjax Consortium, Copyright (c) 2014 Ryan Juckett, Copyright (c) 2014-2017 The MathJax Consortium, Copyright (c) 2015 Melissa E. O'Neill, Copyright (c) 2015 Pauli Virtanen, Copyright (c) 2015-2017 Martin Hensel, Copyright (c) 2015-2017 The MathJax Consortium, Copyright (c) 2016 - 2019 Kim Walisch, <kim.walisch@gmail.com>, Copyright (c) 2016-2017 The MathJax Consortium, Copyright (c) 2018 Melissa E. O'Neill, Copyright (c) 2019 Kevin Sheppard, Copyright (c) 2019 NumPy Developers, Copyright 1999 - 2011 Pearu Peterson, Copyright 1999 2011 Pearu Peterson, Copyright 1999-2004 Pearu Peterson, Copyright 1999, 2000, 2001 Regents of the University of California, Copyright 1999,2000 Pearu Peterson, Copyright 2000 Pearu Peterson, Copyright 2001-2005 Pearu Peterson, Copyright 2002 Pearu Peterson, Copyright 2006, Dean Edwards, Copyright 2007-2018 by the Sphinx team, copyright 2008-2021, The NumPy community, copyright 2010 David Wolever <david@wolever.net>, Copyright 2010-2012, D. E. Shaw Research, Copyright 2011 by Enthought, Inc, Copyright 2014 Melissa O'Neill <oneill@pcg-random.org>, Copyright 2015 Robert Kern <robert.kern@gmail.com>, Copyright Absoft Corporation, Copyright Absoft Corporation 1994-1998 mV2 Cray Research, Inc. 1994-1996 CF90, Copyright Absoft Corporation 1994-2002 Absoft Pro FORTRAN, copyright u'2017-2018, NumPy Developers",
       "versionInfo": "1.21.2",
       "externalRefs": [
         {
@@ -3531,9 +3533,9 @@
       "SPDXID": "SPDXRef-Package-2FBF6E9E15FDC618605E6DD0E5D1FF8E20B85EB75684B5A697135BDB65E7A515",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) Copyright 2010 by <a href http://domain.invalid/'>, (c) Copyright 2010 by http://domain.invalid/'>, Copyright (c) 2010 by the Pallets team, Copyright (c) 2010 by the Pallets team., Copyright (c) 2015 CERN., copyright 2010 Pallets, Copyright 2010 Pallets",
       "versionInfo": "1.1.2",
       "externalRefs": [
         {
@@ -3549,9 +3551,9 @@
       "SPDXID": "SPDXRef-Package-90D8ED08DE666B8281AE0E4420B601788BB9A4AF35C724548384B537793BCF49",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "PSF-2.0",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 2001-2010 by the STI Pub Companies, (c) 2003 by Bitstream, Inc., (c) 2010-2013 by tyPoland Lukasz Dziedzic (http://www.typoland.com/), (c) Frank Siegert 1996, (c) Tavmjong Bah, (c) Tavmjung Bah, 1Copyright (c) 2001-2010 by the STI Pub Companies, b'Copyright xa9 2017, b'Copyright xa9 2017 No, coprod 97, coproduct Comment Ascending 98, 99, 100, copyright '2002 - 2012 John Hunter, Darren Dale, Eric Firing, Michael Droettboom, Copyright (c) 1985, 1987, 1988 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1988 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1988, 1989 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1988, 1989 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1988, 1989, 1997 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1988, 1989, 1997 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1988, 1991 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1988, 1991 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1990 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1989, 1990 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1990, 1991 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1989, 1990, 1991 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1990, 1993, 1997 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1989, 1990, 1993, 1997 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1990, 1997 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1989, 1990, 1997 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1991 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1989, 1991 Adobe Systems Incorporated., Copyright (c) 1985, 1987, 1989, 1992 Adobe Systems Incorporated, Copyright (c) 1985, 1987, 1989, 1992 Adobe Systems Incorporated., Copyright (c) 1987-1994 The Regents of the University of California, Copyright (c) 1987-1994 The Regents of the University of California., Copyright (c) 1989, 1990, 1991 Adobe Systems Incorporated, Copyright (c) 1989, 1990, 1991 Adobe Systems Incorporated., Copyright (c) 1989, 1990, 1991, 1992, 1993, 1997 Adobe Systems Incorporated, Copyright (c) 1989, 1990, 1991, 1992, 1993, 1997 Adobe Systems Incorporated., Copyright (c) 1989, 1990, 1991, 1993, 1997 Adobe Systems Incorporated, Copyright (c) 1989, 1990, 1991, 1993, 1997 Adobe Systems Incorporated., Copyright (c) 1989, 1990, 1991, Adobe Systems Incorporated, Copyright (c) 1989, 1990, 1991, Adobe Systems Incorporated., Copyright (c) 1989, 1991 Adobe Systems Incorporated, Copyright (c) 1989, 1991 Adobe Systems Incorporated., Copyright (c) 1993-1996 Lucent Technologies, Copyright (c) 1993-1996 Lucent Technologies., Copyright (c) 1993-2015 C.B. Barber, Copyright (c) 1993-2015 C.B. Barber., Copyright (c) 1993-2015 The Geometry Center, Copyright (c) 1993-2015 The Geometry Center., Copyright (c) 1994-1998 Sun Microsystems, Inc., Copyright (c) 1994, 1995, Basil K. Malyshev, Copyright (c) 1994, 1995, Basil K. Malyshev., Copyright (c) 1994, Basil K. Malyshev, Copyright (c) 1994, Basil K. Malyshev., Copyright (c) 1996. The Regents of the University of California, Copyright (c) 1996. The Regents of the University of California., Copyright (c) 1997 American Mathematical Society, Copyright (c) 1997 American Mathematical Society., Copyright (c) 1997, 2009 American Mathematical Society, Copyright (c) 1997, 2009, American Mathematical Society (http://www.ams.org), Copyright (c) 1997, 2009, American Mathematical Society (http://www.ams.org)., Copyright (c) 1998-2000 by Scriptics Corporation, Copyright (c) 1998-2000 by Scriptics Corporation., Copyright (c) 2001-2004 by Fredrik Lundh, Copyright (c) 2001-2005 by the STI Pub Companies, Copyright (c) 2001-2010 by the STI Pub Companies, Copyright (c) 2002 by Kevin B. Kenny, Copyright (c) 2002 by Kevin B. Kenny., Copyright (c) 2002 Cynthia Brewer, Mark Harrower, and The Pennsylvania State University, Copyright (c) 2002 Cynthia Brewer, Mark Harrower, and The Pennsylvania State University., Copyright (c) 2002 Hansruedi Baer, Copyright (c) 2002-2005 Maxim Shemanarev, Copyright (c) 2002-2005 Maxim Shemanarev (http://www.antigrain.com), Copyright (c) 2002-2009 John D. Hunter, Copyright (c) 2002-2011 John D. Hunter, Copyright (c) 2003 by Bitstream, Inc., Copyright (c) 2003 Hansruedi Baer, Copyright (c) 2003-2004 Andrew Straw, Jeremy O'Donoghue and others, Copyright (c) 2005 Tony Juricic (tonygeek@yahoo.com), Copyright (c) 2006 by Tavmjong Bah, Copyright (c) 2006 by Tavmjong Bah., Copyright (c) 2007-2008, Copyright (c) 2007-2008 Permission, Copyright (c) 2009 John Horigan (http://www.antigrain.com), Copyright (c) 2009 Pierre Raybaut, Copyright (c) 2010 Doug Hellmann, Copyright (c) 2010 Doug Hellmann., Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic, Copyright (c) 2010, Bartosz Telenczuk, Copyright (c) 2011 Ethan Schoonover, Copyright (c) 2012- Matplotlib Development Team, Copyright (c) 2012-2013 Matplotlib Development Team, Copyright (c) Jeremy O'Donoghue & John Hunter, 2003-4, Copyright (c) Jeremy O'Donoghue & John Hunter, 2003-4., Copyright <http://www.ams.org>, Copyright 1995, Trinity College Computing Center, Copyright 1995, Trinity College Computing Center., Copyright 2004 John Gill and John Hunter, Copyright 2010-2012, Google Inc., copyright 2014, Matplotlib developers, copyright e (c), Copyright Font's, Copyright The Matplotlib development team, Copyright xa9 2017, Copyright xa9 2017 No one. FontBBox, copyrighted by the Regents of the University of California, Sun Microsystems, Inc., Scriptics Corporation, ECopyright (c) 2003 by Bitstream, Inc., FCopyright (c) 2003 by Bitstream, Inc., Fonts are (c) Bitstream, hCopyright (c) 2003 by Bitstream, Inc., LCopyright (c) 2001-2010 by the STI Pub Companies, PCopyright (c) 2010-2013 by tyPoland Lukasz Dziedzic, Portions copyright (c) 1990 by Elsevier, Inc., Portions copyright (c) 1998-2003 by MicroPress, Inc., Qhull, Copyright (c) 1993-2015, X11R4 release, copyright M.I.T.",
       "versionInfo": "3.3.0",
       "externalRefs": [
         {
@@ -3567,7 +3569,7 @@
       "SPDXID": "SPDXRef-Package-81B90407A9C38EC8A52B9E456408699841A4EADFA5B91A4975E05422FBCB4216",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "4.3.0.36",
@@ -3603,7 +3605,7 @@
       "SPDXID": "SPDXRef-Package-C7A926CA761136D91CD9B4DA0B4FC34A4A4A4DBE4D4C1EE7A2483705B785514F",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "3.8.1",
@@ -3657,9 +3659,9 @@
       "SPDXID": "SPDXRef-Package-C7AFFB886C4721AB2F3EC4EA8B013D1CE085953E5BE23A0628FE76A31835A6DC",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 1995-2017 Jean-loup Gailly and Mark Adler, (c) 2006 by Jay Stavinzky, (c) Copyright Christopher Diggins 2005-2011, (c) Copyright Kevlin Henney 2001, (c) Copyright Pablo Aguilar 2005, (Copyright (c) 1999-2001 MIYASAKA Masaru), Copyright (c) 1978-1999 Ken Turkowski. <turk@computer.org>, Copyright (c) 1985, 1986 The Regents of the University of California, Copyright (c) 1988-1996 Sam Leffler, Copyright (c) 1988-1997 Sam Leffler, Copyright (c) 1989, 1991 Free Software Foundation, Inc., Copyright (c) 1990-1997 Sam Leffler, Copyright (c) 1990, 1995 Frank D. Cringle, Copyright (c) 1991-1994, Thomas G. Lane, Copyright (c) 1991-1995, Thomas G. Lane, Copyright (c) 1991-1996 Silicon Graphics, Inc., Copyright (c) 1991-1996, Thomas G. Lane, Copyright (c) 1991-1997 Sam Leffler, Copyright (c) 1991-1997 Silicon Graphics, Inc., Copyright (c) 1991-1997, Thomas G. Lane, Copyright (c) 1991-1998, Thomas G. Lane, Copyright (c) 1991-2012, Thomas G. Lane, Guido Vollbeding, Copyright (c) 1991-2020 Thomas G. Lane, Guido Vollbeding, copyright (c) 1991-2020, Thomas G. Lane, Guido Vollbeding, Copyright (c) 1991-2020, Thomas G. Lane, Guido Vollbeding, Copyright (c) 1991-2021 The libjpeg-turbo Project, Copyright (c) 1991, 1999 Free Software Foundation, Inc., Copyright (c) 1992-1996, Thomas G. Lane, Copyright (c) 1992-1997 Sam Leffler, Copyright (c) 1992-1997 Silicon Graphics, Inc., Copyright (c) 1992-1997, Thomas G. Lane, Copyright (c) 1992, 1993 The Regents of the University of California, Copyright (c) 1993 by Sun Microsystems, Inc., Copyright (c) 1994-1996, Thomas G. Lane, Copyright (c) 1994-1997 Sam Leffler, Copyright (c) 1994-1997 Silicon Graphics, Inc., Copyright (c) 1994-1997, Thomas G. Lane, Copyright (c) 1994-1998, Thomas G. Lane, Copyright (c) 1995 Intel Corporation, Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc., Copyright (c) 1995-1997 Sam Leffler, Copyright (c) 1995-1997 Silicon Graphics, Inc., Copyright (c) 1995-1997, Thomas G. Lane, Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com), Copyright (c) 1995-1998, Thomas G. Lane, Copyright (c) 1995-2003, 2010 Mark Adler, Copyright (c) 1995-2003, 2010, 2014, 2016 Jean-loup Gailly, Mark Adler, Copyright (c) 1995-2005, 2010 Mark Adler, Copyright (c) 1995-2005, 2014, 2016 Jean-loup Gailly, Mark Adler, Copyright (c) 1995-2006, 2010, 2011, 2012, 2016 Mark Adler, Copyright (c) 1995-2011, 2016 Mark Adler, Copyright (c) 1995-2012 Jean-loup Gailly and Mark Adler, Copyright (c) 1995-2016 Jean-loup Gailly, Copyright (c) 1995-2016 Jean-loup Gailly, Mark Adler, Copyright (c) 1995-2016 Mark Adler, Copyright (c) 1995-2017 Jean-loup Gailly, Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler, Copyright (c) 1995-2017 Mark Adler, Copyright (c) 1995-2019 The PNG Reference Library Authors, Copyright (c) 1996 Pixar, Copyright (c) 1996-1997 Andreas Dilger, Copyright (c) 1996-1997 Sam Leffler, copyright (c) 1996-2000 by David Turner, Robert Wilhelm, and Werner Lemberg, copyright (c) 1996-2010 Julian R Seward, Copyright (c) 1996-2020 Anthony Green, Red Hat, Inc and others, Copyright (c) 1996, 1997 by Agner Fog, Copyright (c) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura, Copyright (c) 1997 Greg Ward Larson, Copyright (c) 1997 Silicon Graphics, Inc., Copyright (c) 1997-1998, Thomas G. Lane, Todd Newman, Copyright (c) 1998 Yossi Rubner Computer Science Department, Stanford University, Copyright (c) 1998-2000 Glenn Randers-Pehrson, Copyright (c) 1998-2002,2004,2006-2013 Glenn Randers-Pehrson, Copyright (c) 1998-2002,2004,2006-2013,2018 Glenn Randers-Pehrson, Copyright (c) 1998-2002,2004,2006-2014,2016 Glenn Randers-Pehrson, Copyright (c) 1998-2002,2004,2006-2014,2016,2018 Glenn Randers-Pehrson, Copyright (c) 1998-2002,2004,2006-2016,2018 Glenn Randers-Pehrson, Copyright (c) 1998-2002,2004,2006-2017 Glenn Randers-Pehrson, Copyright (c) 1998-2002,2004,2006-2018 Glenn Randers-Pehrson, Copyright (c) 1998-2018 Glenn Randers-Pehrson, Copyright (c) 1998-2019 The OpenSSL Project, Copyright (c) 1999-2000 Image Power, Inc., Copyright (c) 1999-2000 Image Power, Inc. and the University of British Columbia, Copyright (c) 1999-2000 The University of British Columbia, Copyright (c) 1999-2000, Image Power, Inc. and the University of British Columbia, Copyright (c) 1999-2006 MIYASAKA Masaru, Copyright (c) 1999-2006, MIYASAKA Masaru, Copyright (c) 2000 Keith Packard, Copyright (c) 2000-2002, 2004, 2006-2018 Glenn Randers-Pehrson, Copyright (c) 2000-2003 Chih-Chung Chang and Chih-Jen Lin, Copyright (c) 2000-2008, 2017, Intel Corporation, Copyright (c) 2000-2008, 2018, Intel Corporation, Copyright (c) 2000-2008, Intel Corporation, Copyright (c) 2000-2015, Intel Corporation, Copyright (c) 2000-2016, Intel Corporation, Copyright (c) 2000-2018, Intel Corporation, Copyright (c) 2000-2020 Intel Corporation, Copyright (c) 2000-2020, Intel Corporation, Copyright (c) 2000-2021, Intel Corporation, Copyright (c) 2000, Intel Corporation, Copyright (c) 2000,2001,2002,2003,2004,2006,2007 Keith Packard, Copyright (c) 2001 Fabrice Bellard, Copyright (c) 2001-2002 Michael David Adams, Copyright (c) 2001-2003 Michael David Adams, Copyright (c) 2001-2003, David Janssens, Copyright (c) 2001-2004 Idiap Research Institute (Ronan Collobert, Samy Bengio, Johnny Mariethoz), Copyright (c) 2001-2004 Michael David Adams, Copyright (c) 2001-2006 Bart Massey, Jamey Sharp, and Josh Triplett, Copyright (c) 2001-2006 Michael David Adams, Copyright (c) 2001-2017 Cisco Systems, Inc., Copyright (c) 2002-2003 Michael David Adams, Copyright (c) 2002-2003, Yannick Verschueren, Copyright (c) 2002-2009 Xiph.org Foundation, Copyright (c) 2002-2012, Industrial Light & Magic, Copyright (c) 2002-2014, Copyright (c) 2002-2014, Professor Benoit Macq, Copyright (c) 2002-2018, Industrial Light & Magic, Copyright (c) 2002-2020 Xiph.org Foundation, Copyright (c) 2002, Industrial Light & Magic, Copyright (c) 2002, MD-Mathematische Dienste GmbH Im Defdahl, Copyright (c) 2002, Xiph.org Foundation, Copyright (c) 2003-2007, Francois-Olivier Devaux, Copyright (c) 2003-2009, Francois-Olivier Devaux, Copyright (c) 2003-2014, Antonin Descampe, Copyright (c) 2003-2015, and GNU, Copyright (c) 2003, Industrial Light & Magic, Copyright (c) 2004 by Sun Microsystems, Inc., Copyright (c) 2004 Michael David Adams, Copyright (c) 2004-2012, Industrial Light & Magic, Copyright (c) 2004-2017 Mark Adler, Copyright (c) 2004, 2005, 2010, 2011, 2012, 2013, 2016 Mark Adler, Copyright (c) 2004, 2010 Mark Adler, Copyright (c) 2004, Hannes Kruppa and Bernt Schiele (ETH Zurich, Switzerland), Copyright (c) 2004, Industrial Light & Magic, Copyright (c) 2004, Pixar Animation Studios, Copyright (c) 2005 Patrick Lam, Copyright (c) 2005-2012, Industrial Light & Magic, Copyright (c) 2005-2014 Intel Corporation, Copyright (c) 2005, Herve Drolon, FreeImage Team, Copyright (c) 2005, Industrial Light & Magic, Copyright (c) 2006 Ian Osgood, Copyright (c) 2006 Idiap Research Institute, Copyright (c) 2006 Jamey Sharp, Copyright (c) 2006 Simon Perreault, Copyright (c) 2006-2007, Parvatha Elangovan, Copyright (c) 2006-2010 NEC Laboratories America (Ronan Collobert, Leon Bottou, Iain Melvin, Jason Weston), Copyright (c) 2006-2010, Rob Hess <hess@eecs.oregonstate.edu>, Copyright (c) 2006-2012, Industrial Light & Magic, Copyright (c) 2006, 2008 Edward Rosten, Copyright (c) 2006, Google Inc., Copyright (c) 2006, Industrial Light & Magic, Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>, Copyright (c) 2007-2008 Bart Massey <bart@cs.pdx.edu>, Copyright (c) 2007-2008 Intel Corporation, Copyright (c) 2007-2008 Vincent Torri <vtorri@univ-evry.fr>, Copyright (c) 2007-2009 Scientific Computing and Imaging Institute, University of Utah, Copyright (c) 2007, Callum Lerwick <seg@haxxed.com>, Copyright (c) 2007, Industrial Light & Magic, Copyright (c) 2007, Jonathan Ballard <dzonatas@dzonux.net>, Copyright (c) 2007, Miroslav Balda, Copyright (c) 2007, Weta Digital Ltd, Copyright (c) 2008 - 2009 NVIDIA Corporation, Copyright (c) 2008 - 2012 The Khronos Group Inc., Copyright (c) 2008 Bart Massey <bart@cs.pdx.edu>, Copyright (c) 2008 Danilo Segan, Copyright (c) 2008 Ian Osgood <iano@quirkster.com>, Copyright (c) 2008 Jamey Sharp <jamey@minilop.net>, copyright (c) 2008 Jim Pivarski <jpivarski@gmail.com>, Copyright (c) 2008 Josh Triplett <josh@freedesktop.org>, Copyright (c) 2008 Julien Danjou <julien@danjou.info>, Copyright (c) 2008 Keith Packard <keithp@keithp.com>, Copyright (c) 2008-2009 Julien Danjou <julien@danjou.info>, Copyright (c) 2008-2009 The Khronos Group Inc., Copyright (c) 2008-2010 The Khronos Group Inc., Copyright (c) 2008-2010, Willow Garage Inc., Copyright (c) 2008-2011 Arnaud Fontaine <arnau@debian.org>, Copyright (c) 2008-2011, William Lucas, Copyright (c) 2008-2011, Willow Garage Inc., Copyright (c) 2008-2012 The Khronos Group Inc., Copyright (c) 2008-2012, Willow Garage Inc., Copyright (c) 2008-2013 The Khronos Group Inc., Copyright (c) 2008-2013, Itseez Inc., Copyright (c) 2008-2013, Willow Garage Inc., Copyright (c) 2008-2015 The Khronos Group Inc., Copyright (c) 2008-2016, Itseez Inc., Copyright (c) 2008-2020 The Khronos Group Inc., Copyright (c) 2008, 2011-2012, Centre National d'Etudes Spatiales, Copyright (c) 2008, 2011, Nils Hasler, Copyright (c) 2008, Industrial Light & Magic, Copyright (c) 2008, Jerome Fimes, Communications & Systemes <jerome.fimes@c-s.fr>, Copyright (c) 2008, Nils Hasler, Copyright (c) 2008, Willow Garage Inc., Copyright (c) 2008,2009 Red Hat, Inc., Copyright (c) 2009 Frank Warmerdam, Copyright (c) 2009 Roozbeh Pournader, Copyright (c) 2009-2010, Willow Garage Inc., Copyright (c) 2009-2011 Nokia Corporation and/or its subsidiary(-ies), Copyright (c) 2009-2011, 2013-2014, 2016-2017, 2020, D. R. Commander, Copyright (c) 2009-2011, 2014-2016, 2018-2021, D. R. Commander, Copyright (c) 2009-2011, 2014, D. R. Commander, Copyright (c) 2009-2011, 2016, 2018-2019, D. R. Commander, Copyright (c) 2009-2011, 2016, 2019, D. R. Commander, Copyright (c) 2009-2011, 2018, D. R. Commander, Copyright (c) 2009-2011, Willow Garage Inc., Copyright (c) 2009-2012, 2015, D. R. Commander, Copyright (c) 2009-2012, Willow Garage Inc., Copyright (c) 2009-2014 DreamWorks Animation LLC., Copyright (c) 2009-2016, NVIDIA Corporation, Copyright (c) 2009-2021 D. R. Commander, Copyright (c) 2009, 2011-2012, 2014-2015, D. R. Commander, Copyright (c) 2009, 2011, 2014-2015, 2018, 2020, D. R. Commander, Copyright (c) 2009, 2011, 2014-2015, 2020, D. R. Commander, Copyright (c) 2009, 2011, 2015, D. R. Commander, Copyright (c) 2009, 2012 Pierre Ossman for Cendio AB, Copyright (c) 2009, 2014-2015, 2020, D. R. Commander, Copyright (c) 2009, 2015, D. R. Commander, Copyright (c) 2009, Industrial Light & Magic, Copyright (c) 2009, Intel Corporation and others, Copyright (c) 2009, Jostein Austvik Jacobsen, Copyright (c) 2009, Liu Liu, Copyright (c) 2009, Willow Garage Inc., Copyright (c) 2009, Willow Garage, Inc., Copyright (c) 2010 Elmar Mair, Copyright (c) 2010 The Android Open Source Project, Copyright (c) 2010-2011, 2015-2016, 2021, D. R. Commander, Copyright (c) 2010-2011, Ethan Rublee, Copyright (c) 2010-2011, Kaori Hagihara, Copyright (c) 2010-2012 Daniel Beer <dlbeer@gmail.com>, Copyright (c) 2010-2012, Advanced Micro Devices, Inc., Copyright (c) 2010-2012, Institute Of Software Chinese Academy Of Science, Copyright (c) 2010-2012, MulticoreWare Inc., Copyright (c) 2010-2012, Multicoreware, Inc., Copyright (c) 2010-2013, Advanced Micro Devices, Inc., Copyright (c) 2010, 2012-2021, D. R. Commander, Copyright (c) 2010, 2015-2016, 2019-2020, D. R. Commander, Copyright (c) 2010, 2015-2016, D. R. Commander, Copyright (c) 2010, 2015-2020, D. R. Commander, Copyright (c) 2010, 2015, D. R. Commander, Copyright (c) 2010, 2016, 2018, D. R. Commander, Copyright (c) 2010, 2016, D. R. Commander, Copyright (c) 2010, 2020, D. R. Commander, Copyright (c) 2010, Andrey Kiselev <dron@ak4719.spb.edu>, Copyright (c) 2010, D. R. Commander, Copyright (c) 2010, Google Inc., Copyright (c) 2010, The WebM Project authors, Copyright (c) 2010, Willow Garage Inc., Copyright (c) 2011 The Autonomous Systems Lab (ASL), ETH Zurich, Stefan Leutenegger, Simon Lynen and Margarita Chli, Copyright (c) 2011-2012 NEC Laboratories America (Koray Kavukcuoglu), Copyright (c) 2011-2012, Centre National d'Etudes Spatiales, Copyright (c) 2011-2012, Industrial Light & Magic, Copyright (c) 2011-2013 NYU, Copyright (c) 2011-2014 Idiap Research Institute, Copyright (c) 2011-2014, Andrey Kamaev, Copyright (c) 2011-2016 Siarhei Siamashka, Copyright (c) 2011, 2014-2015, D. R. Commander, Copyright (c) 2011, 2014, D. R. Commander, Copyright (c) 2011, 2015, 2018, 2021, D. R. Commander, Copyright (c) 2011, 2015, 2020, D. R. Commander, Copyright (c) 2011, Industrial Light & Magic, Copyright (c) 2011, Intel Corporation, Copyright (c) 2011, Modesto Castrillon-Santana (IUSIANI, Universidad de Las Palmas de Gran Canaria, Spain), Copyright (c) 2011. Philipp Wagner <bytefish at gmx dot de>, Copyright (c) 2012 Google, Inc., Copyright (c) 2012-2014 Deepmind Technologies, Copyright (c) 2012-2014, NVIDIA Corporation, Copyright (c) 2012-2015, NVIDIA Corporation, Copyright (c) 2012, 2015, D. R. Commander, Copyright (c) 2012, Autodesk, Inc., Copyright (c) 2012, Carl Hetherington, Copyright (c) 2012, CS Systemes d'Information, France, Copyright (c) 2012, Industrial Light & Magic, Copyright (c) 2012, Mathieu Malaterre <mathieu.malaterre@gmail.com>, Copyright (c) 2012, Weta Digital Ltd, Copyright (c) 2013, Copyright (c) 2013 Giacomo (Mimmo) Cosenza, Copyright (c) 2013 NVIDIA Corporation, Copyright (c) 2013-2014 Linaro Limited, Copyright (c) 2013-2014 MIPS Technologies, Inc., Copyright (c) 2013-2015, NVIDIA Corporation, Copyright (c) 2013-2019 Intel Corporation, Copyright (c) 2013, 2016, D. R. Commander, Copyright (c) 2013, Bo Li (prclibo@gmail.com), ETH Zurich, Copyright (c) 2013, D. R. Commander, Copyright (c) 2013, Evgeny Toropov, Copyright (c) 2013, Industrial Light & Magic, Copyright (c) 2013, Itseez Inc, Copyright (c) 2013, Linaro Limited, Copyright (c) 2013, MIPS Technologies, Inc., California, Copyright (c) 2013, NVIDIA Corporation, Copyright (c) 2013, OpenCV Foundation, Copyright (c) 2013, Ovidiu Parvu, Copyright (c) 2014, Copyright (c) 2014-2015, 2018, 2020, D. R. Commander, Copyright (c) 2014-2015, D. R. Commander, Copyright (c) 2014-2015, Itseez Inc., Copyright (c) 2014-2015, NVIDIA Corporation, Copyright (c) 2014-2016, Joseph Howse (Nummist Media Corporation Limited, Halifax, Nova Scotia, Canada), Copyright (c) 2014-2016, NVIDIA Corporation, Copyright (c) 2014-2017 The Khronos Group Inc., Copyright (c) 2014, 2015, The Regents of the University of California (Regents), Copyright (c) 2014, 2015, the respective contributors, Copyright (c) 2014, 2017, D. R. Commander, Copyright (c) 2014, Advanced Micro Devices, Inc., Copyright (c) 2014, D. R. Commander, Copyright (c) 2014, Intel Corporation, Copyright (c) 2014, Intel, Inc., Copyright (c) 2014, Itseez Inc., Copyright (c) 2014, Itseez, Inc., Copyright (c) 2014, MIPS Technologies, Inc., California, Copyright (c) 2014, NVIDIA Corporation, Copyright (c) 2014, Olexa Bilaniuk, Hamid Bazargani & Robert Laganiere, Copyright (c) 2014, Samson Yilma (samson_yilma@yahoo.com), Copyright (c) 2014, The Regents of the University of California (Regents), Copyright (c) 2014, the respective contributors, Copyright (c) 2014,2016 Glenn Randers-Pehrson, Copyright (c) 2014,2017 Glenn Randers-Pehrson, Copyright (c) 2015 Intel Corporation, Copyright (c) 2015 The Regents of the University of California, Copyright (c) 2015 Viktor Szathmary, Copyright (c) 2015-2016, 2018 Matthieu Darbois, Copyright (c) 2015-2016, 2018-2021, D. R. Commander, Copyright (c) 2015-2016, 2018, Matthieu Darbois, Copyright (c) 2015-2016, 2019, D. R. Commander, Copyright (c) 2015-2016, Itseez Inc., Copyright (c) 2015-2016, OpenCV Foundation, Copyright (c) 2015-2018 The Khronos Group Inc., Copyright (c) 2015-2020, D. R. Commander, Copyright (c) 2015-2021, OpenCV Foundation, Copyright (c) 2015, 2015 The Regents of the University of California, Copyright (c) 2015, 2018, D. R. Commander, Copyright (c) 2015, 2019, D. R. Commander, Copyright (c) 2015, 2020 Google, Inc., Copyright (c) 2015, 2020, D. R. Commander, Copyright (c) 2015, 2020, Google, Inc., Copyright (c) 2015, Advanced Micro Devices, Inc., Copyright (c) 2015, D. R. Commander, Copyright (c) 2015, Google, Inc., Copyright (c) 2015, Itseez Inc., Copyright (c) 2015, Itseez, Inc., Copyright (c) 2015, Mathieu Malaterre <mathieu.malaterre@gmail.com>, Copyright (c) 2015, Matthieu Darbois, Copyright (c) 2015, NVIDIA Corporation, Copyright (c) 2015, OpenCV Foundation, Copyright (c) 2015, PingTouGe Semiconductor Co., Ltd., Copyright (c) 2015, Piotr Dobrowolski dobrypd at gmail dot com, Copyright (c) 2016 Glenn Randers-Pehrson, Copyright (c) 2016 The Android Open Source Project, Copyright (c) 2016-2017 Fabian David Tschopp, Copyright (c) 2016-2017 Glenn Randers-Pehrson, Copyright (c) 2016, 2018, Matthieu Darbois, Copyright (c) 2016, D. R. Commander, Copyright (c) 2016, Even Rouault, Copyright (c) 2016, Intel Corporation, Copyright (c) 2016, Itseez Inc, Copyright (c) 2016, Itseez, Inc, Copyright (c) 2016, NVIDIA Corporation, Copyright (c) 2016, NVIDIA CORPORATION., Copyright (c) 2016, OpenCV Foundation, Copyright (c) 2017 Glenn Randers-Pehrson, Copyright (c) 2017 Joseph Redmon, Copyright (c) 2017-2018 Arm Holdings, Copyright (c) 2017-2018, D. R. Commander, Copyright (c) 2017-2019, Intel Corporation, Copyright (c) 2017-2020, the rav1e contributors, Copyright (c) 2017, D. R. Commander, Copyright (c) 2017, Intel Corporation, Copyright (c) 2017, IntoPix SA <contact@intopix.com>, Copyright (c) 2017, IntoPIX SA <support@intopix.com>, Copyright (c) 2017, Planet Labs, Copyright (c) 2017, Puttemans Steven, Can Ergun and Toon Goedeme (KU Leuven, EAVISE Research Group, Jan Pieter De Nayerlaan 5, Sint-Katelijne-Waver, Belgium), Copyright (c) 2018 - 2020 Intel Corporation, Copyright (c) 2018 Cosmin Truta, Copyright (c) 2018 Intel Corporation, Copyright (c) 2018 Ya-Chiu Wu, Copyright (c) 2018-2019 Cosmin Truta, Copyright (c) 2018-2019 Intel Corporation, Copyright (c) 2018-2019, Intel Corporation, Copyright (c) 2018-2019, VideoLAN, Copyright (c) 2018-2020 Intel Corporation, Copyright (c) 2018-2020, Intel Corporation, Copyright (c) 2018-2021 Intel Corporation, Copyright (c) 2018-2021, Intel Corporation, Copyright (c) 2018, Intel Corporation, Copyright (c) 2018, Mapbox, Copyright (c) 2018, Matthias Rancker, Copyright (c) 2019 Czech Technical University, Copyright (c) 2019 Intel Corporation, Copyright (c) 2019 Manolis Lourakis, Copyright (c) 2019-2020 Arm Limited, Copyright (c) 2019-2020 Intel Corporation, Copyright (c) 2019-2020, Arm Limited, Copyright (c) 2019-2020, Intel Corporation, Copyright (c) 2019-2020, Xperience AI, Copyright (c) 2019-2021 Intel Corporation, Copyright (c) 2019-2021, Shenzhen Institute of Artificial Intelligence and Robotics for Society, Copyright (c) 2019-2021, Xperience AI, Copyright (c) 2020 Intel Corporation, Copyright (c) 2020-2021 Intel Corporation, Copyright (c) 2020-2021, SUSTech, Copyright (c) 2020-2021, Tencent, Copyright (c) 2020, Arm Limited, Copyright (c) 2020, D. R. Commander, Copyright (c) 2020, George Terzakis, Copyright (c) 2020, Google, Inc., Copyright (c) 2020, Huawei Technologies Co., Ltd., Copyright (c) 2020, Institute of Software, Chinese Academy of Sciences, Copyright (c) 2020, Intel Corporation, Copyright (c) 2020, OPEN AI LAB, Copyright (c) 2020, Stefan Bruns <stefan.bruens@rwth-aachen.de>, Copyright (c) 2020, Thomas G. Lane, Guido Vollbeding, Copyright (c) 2021 Intel Corporation, Copyright (c) AWare Systems <http://www.awaresystems.be/>, Copyright (c) Facebook Inc. and Microsoft Corporation, Copyright (c) Joris Van Damme <info@awaresystems.be>, Copyright (c) Microsoft, Copyright (c) Microsoft Corporation, Copyright (c) Microsoft Open Technologies, Inc., Copyright (c) Olli-Pekka Heinisuo, copyright (c) The FreeType Project (www.freetype.org), Copyright 1988, 1993, 1994, 1998 The Open Group, Copyright 1992-1994 Jutta Degener, Carsten Bormann, Copyright 1993, 2002, 2006 David Rowe, Copyright 1995-2017 Jean-loup Gailly and Mark Adler, Copyright 1995-2017 Mark Adler, Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg, Copyright 1997 by Joseph O'Rourke, Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Copyright 2002-2008 Jean-Marc Valin, Copyright 2002-2008 Xiph.org Foundation, Copyright 2003 EpicGames, Copyright 2003 Google Inc., Copyright 2005 Google Inc., Copyright 2005-2007 Analog Devices Inc., Copyright 2005-2008 Commonwealth Scientific and Industrial Research Organisation (CSIRO), Copyright 2005-2008 Google Inc., Copyright 2005, Google Inc., Copyright 2006, Google Inc., Copyright 2007, Google Inc., Copyright 2008 Google Inc., Copyright 2008-2009 David G. Lowe (lowe@cs.ubc.ca), Copyright 2008-2009 Marius Muja (mariusm@cs.ubc.ca), Copyright 2008-2011 David G. Lowe (lowe@cs.ubc.ca), Copyright 2008-2011 Marius Muja (mariusm@cs.ubc.ca), Copyright 2008, Google Inc., Copyright 2009 Google Inc., Copyright 2009 Pierre Ossman <ossman@cendio.se> for Cendio AB, Copyright 2010 Argus Corp., Copyright 2010 Google Inc., Copyright 2011, Copyright 2011 Google Inc., Copyright 2011, 2012, 2013, 2014, 2015, 2016, 2017 The Regents of the University of California, Copyright 2011, Google Inc., Copyright 2012, Copyright 2012 Google Inc., Copyright 2012, Pablo F. Alcantarilla, Copyright 2013 Google Inc., Copyright 2013 Red Hat Inc., Copyright 2013, Pablo F. Alcantarilla, Jesus Nuevo, Copyright 2014 Bloomberg Finance LP., Copyright 2014 Google Inc., Copyright 2014, Google Inc., Copyright 2015 Google Inc., Copyright 2015-2017 Philippe Tillet, Copyright 2015, Google Inc., Copyright 2016 Google Inc., Copyright 2017 Google Inc., Copyright 2017 Toby Collins, Copyright 2018 Google Inc., copyright by the Free Software Foundation, copyright by X Consortium, copyright held by others as indicated, copyrighted by Bloomberg Finance, copyrighted by Red Hat Inc., copyrighted by the Free Software Foundation, France Copyright (c) 2012, CS Systemes d'Information, France, holder is Tim Hudson (tjh@cryptsoft.com), Portions (c) 2012 Weta Digital Ltd",
       "versionInfo": "4.5.3.56",
       "externalRefs": [
         {
@@ -3675,7 +3677,7 @@
       "SPDXID": "SPDXRef-Package-D9BC70BBACD6D9876F7293A48E80C3F5E5A4525FC1CA5950ACC46B3FD56284FD",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "2.3.1",
@@ -3783,7 +3785,7 @@
       "SPDXID": "SPDXRef-Package-F95D9AD374644D091F5BB019A2620BC8FE67A7BC5391FE08D5945B2E7503F42A",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "versionInfo": "0.9",
@@ -3801,9 +3803,9 @@
       "SPDXID": "SPDXRef-Package-CCF53E5308AAD9E5BE66DA6B87F521C42A8978AF9A36998E361EB2120202A84C",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2009 Giampaolo, Copyright (c) 2009 Giampaolo Rodola, Copyright (c) 2009, Giampaolo, Copyright (c) 2009, Giampaolo Rodola, Copyright (c) 2009, Giampaolo Rodola', Himanshu Shekhar, Copyright (c) 2009, Giampaolo Rodola', Himanshu Shekhar., Copyright (c) 2009, Giampaolo Rodola', Jeff Tang, Copyright (c) 2009, Giampaolo Rodola', Jeff Tang., Copyright (c) 2009, Giampaolo Rodola', karthikrev, Copyright (c) 2009, Giampaolo Rodola', Landry Breuil, Copyright (c) 2009, Giampaolo Rodola', Landry Breuil (OpenBSD), Copyright (c) 2009, Giampaolo Rodola', Landry Breuil., Copyright (c) 2009, Giampaolo Rodola', Oleksii Shevchuk, Copyright (c) 2009, Giampaolo Rodola', Oleksii Shevchuk., Copyright (c) 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola, Copyright (c) 2009, Jay Loden, Giampaolo, Copyright (c) 2009, Jay Loden, Giampaolo Rodola, Copyright (c) 2015, Ryo ONODERA., Copyright (c) 2017, Arnon Yaari, Copyright 2007-2011 by the Sphinx team, copyright 2009, copyright 2009- s, s",
       "versionInfo": "5.7.2",
       "externalRefs": [
         {
@@ -3837,9 +3839,9 @@
       "SPDXID": "SPDXRef-Package-BF74F335E8F7C3BC81CF8A1D73B0E3961424CB6024B0CD83C57EA0EF1E98DA35",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 1988-1993 The Regents of the University of California, Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, The Netherlands, Copyright (c) 1993,2004 Sun Microsystems, Copyright (c) 1994 David Burren, Copyright (c) 1994 Sun Microsystems, Inc., Copyright (c) 1995-2001 Corporation for National Research Initiatives, Copyright (c) 2001-2008 Ville Laurikari, Copyright (c) 2001, 2002 Enthought, Inc., Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 Python Software Foundation, Copyright (c) 2002 Michael Ringgaard, Copyright (c) 2003-2009 Bruce D. Evans, Copyright (c) 2003-2009 Steven G. Kargl, Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>, Copyright (c) 2003-2011 David Schultz, Copyright (c) 2003-2012 SciPy Developers, Copyright (c) 2005-2011, NumPy Developers, Copyright (c) 2005-2014 Rich Felker, Copyright (c) 2006 Alexander Chemeris, Copyright (c) 2006-2008 Alexander Chemeris, Copyright (c) 2007 Nick Galbreath nickg at modp dot com, Copyright (c) 2008 Stephen L. Moshier, Copyright (c) 2008 The Android Open Source Project, Copyright (c) 2008-2012, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team, Copyright (c) 2008, 2009, 2011 by Attractive Chaos <attractor@live.co.uk>, Copyright (c) 2009', join, Copyright (c) 2010-2012 Archipel Asset Management AB., Copyright (c) 2010, Albert Sweigart, Copyright (c) 2011 by Enthought, Inc., Copyright (c) 2011 Szabolcs Nagy, Copyright (c) 2011 Valentin Ochs, Copyright (c) 2011-2013, ESN Social Software AB and Jonas Tarnstrom, Copyright (c) 2012 Google Inc., Copyright (c) 2012-2014 - Tomi Pievilainen <tomi.pievilainen@iki.fi>, Copyright (c) 2012, Lambda Foundry, Inc., Copyright (c) 2014-2016 - Yaron de Leeuw <me@jarondl.net>, Copyright (c) 2015 Jared Hobbs, Copyright (c) 2015- - dateutil contributors, Copyright (c) 2015- - Paul Ganssle <paul@ganssle.io>, Copyright (c) 2016, PyData Development Team, Copyright (c) 2017 - dateutil contributors, Copyright 2007-2011 by the Sphinx team, copyright 2008-2014, the pandas development team, Copyright 2017- dateutil contributors, Copyright 2017- Paul Ganssle <paul@ganssle.io>, COPYRIGHT HOLDER Hadley Wickham RStudio and Evan Miller",
       "versionInfo": "1.0.5",
       "externalRefs": [
         {
@@ -3855,9 +3857,9 @@
       "SPDXID": "SPDXRef-Package-FC77B49A27B76194C5F43DA515117CE37309BCAE3804FFC07FC52D94B3E4DC4D",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "copyright 2010 Pallets, Copyright 2010 Pallets",
       "versionInfo": "2.4.4",
       "externalRefs": [
         {
@@ -3873,9 +3875,9 @@
       "SPDXID": "SPDXRef-Package-23E6D4C283970B17B380C1C04D813091F08BBF571CFC1189D0F242FEC68EE203",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2006 Hubert Pham, copyright 2006, Hubert Pham",
       "versionInfo": "0.2.11",
       "externalRefs": [
         {
@@ -3891,9 +3893,9 @@
       "SPDXID": "SPDXRef-Package-8DD060D6D9C8BE42C503DDE1494C7561B49AA71F93213BED40EA37E3CBBE8F69",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2003-2019 Stuart Bishop <stuart@stuartbishop.net>",
       "versionInfo": "2020.1",
       "externalRefs": [
         {
@@ -3927,9 +3929,9 @@
       "SPDXID": "SPDXRef-Package-DB77CBACDC04035455043351E2486A01923EDB489C955FE5B9AD0F2560294FC9",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "GPL-3.0-or-later",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 1995-2017 Jean-loup Gailly and Mark Adler, (c) 2004 Joe Wreschnig, (c) 2008 Hans de Goede <j.w.r.degoede@hhs.nl>, (c) 2008 Hans de Goede., (c) A. Schiffler, (c) A. Schiffler, aschiffler at ferzkopp.net 2012-2018, (c) Donald W. Gillies, 1992., Copyright (c) 1988-1997 Sam Leffler, Copyright (c) 1989, 1991 Free Software Foundation, Inc., Copyright (c) 1991-1997 Silicon Graphics, Inc., copyright (c) 1991-2016, Thomas G. Lane, Guido Vollbeding., Copyright (c) 1991, 1999 Free Software Foundation, Inc., Copyright (c) 1994-2013 Xiph.Org Foundation and contributors, Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc., Copyright (c) 1995-2013 by Michael Hipp and others, Copyright (c) 1995-2019, Copyright (c) 1996-1997 Andreas Dilger., copyright (c) 1996-2000 by David Turner, Robert Wilhelm, and Werner Lemberg., Copyright (c) 1997-2018 Sam Lantinga <slouken@libsdl.org>, Copyright (c) 1997-2019 Sam Lantinga <slouken@libsdl.org>, Copyright (c) 1998-2000 Glenn Randers-Pehrson, Copyright (c) 2000-2001 Pete Shinners, Copyright (c) 2000-2002, 2004, 2006-2018 Glenn Randers-Pehrson., Copyright (c) 2000-2003 Pete Shinners, Copyright (c) 2000-2003, 2007 Pete Shinners, Copyright (c) 2000,2001,2002,2003,2004,2005,2006,2007 Josh Coalson, Copyright (c) 2002 Bob Pendleton, Copyright (c) 2002-2003 Dmitry Borisov, Copyright (c) 2002-2005 Ulf Ekstrom, Copyright (c) 2002-2007 Ulf Ekstrom, Copyright (c) 2002-2008 Xiph.org Foundation, Copyright (c) 2004 Takafumi Mizuno <taka-qce@ls-a.jp>, Copyright (c) 2006 Johann C. Rocholl <johann@browsershots.org>, Copyright (c) 2006 Rene Dudfield, Copyright (c) 2006, 2007 Rene Dudfield, Marcus von Appen, Copyright (c) 2007 Marcus von Appen, Copyright (c) 2007 Rene Dudfield, Richard Goedeken, Copyright (c) 2007-2008 Marcus von Appen, Copyright (c) 2008 Marcus von Appen, Copyright (c) 2009, Copyright (c) 2009 Brian Fisher, Copyright (c) 2009 Vicent Marti, Copyright (c) 2010, Google Inc., Copyright (c) 2013 Lenard Lindstrom, Copyright (c) 2018-2019 Cosmin Truta., Copyright (c) 2019 David Lonnhager, copyright (c) Donald W. Gillies, 1992., copyright (c) The FreeType Project (www.freetype.org)., Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg, Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Copyright 2002 Free Software Foundation. FreeSans Bold, Copyright 2006 Raph Levien., Copyright 2013 Google Inc., copyright by the Free Software Foundation, copyright by X Consortium, copyrighted by the Free Software Foundation, portions Copyright (c) 2006 Nicko van Someren <nicko@nicko.org>, Portions Copyright (c) 2009 David Jones <drj@pobox.com>, XCopyright 2002 Free Software Foundation. FreeSans Bold",
       "versionInfo": "2.0.2",
       "externalRefs": [
         {
@@ -3963,9 +3965,9 @@
       "SPDXID": "SPDXRef-Package-1A10FB23CE28EE4F9607CB05C5385492AD156CE51C1F061244235126D5AACF37",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "ISC",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 2009 Dennis Kaarsemaker <dennis@kaarsemaker.net>, Copyright (c) 2000, 2001 Internet Software Consortium, Copyright (c) 2001-2007, 2009-2011 Nominum, Inc., Copyright (c) 2001-2017 Nominum, Inc., Copyright (c) 2003-2007, 2009-2011 Nominum, Inc., Copyright (c) 2003-2007, 2009, 2011 Nominum, Inc., Copyright (c) 2003-2017 Nominum, Inc., Copyright (c) 2004-2007, 2009-2011 Nominum, Inc., Copyright (c) 2004-2007, 2009-2011, 2016 Nominum, Inc., Copyright (c) 2004-2017 Nominum, Inc., Copyright (c) 2005-2007, 2009-2011 Nominum, Inc., Copyright (c) 2006-2017 Nominum, Inc., Copyright (c) 2006, 2007, 2009-2011 Nominum, Inc., Copyright (c) 2009-2011 Nominum, Inc., Copyright (c) 2009-2017 Nominum, Inc., Copyright (c) 2010, 2011 Nominum, Inc., Copyright (c) 2011 Nominum, Inc., Copyright (c) 2012-2017 Nominum, Inc., Copyright (c) 2014 Red Hat, Inc., Copyright (c) 2015 Red Hat, Inc., Copyright (c) 2016 Coresec Systems AB, Copyright (c) 2016 Nominum, Inc., Copyright (c) Dnspython Contributors, Copyright (c) Google Inc.",
       "versionInfo": "2.0.0",
       "externalRefs": [
         {

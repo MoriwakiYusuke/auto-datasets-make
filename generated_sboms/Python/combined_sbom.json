@@ -5,7 +5,9 @@
     "created": "2025-10-19T13:05:26Z",
     "creators": [
       "Organization: TheAlgorithms",
-      "Tool: Microsoft.SBOMTool-4.1.1"
+      "Tool: Microsoft.SBOMTool-4.1.1",
+      "Tool: protobom-v0.0.0-20251017101805-28c6776db0cf+dirty",
+      "Tool: GitHub.com-Dependency-Graph"
     ]
   },
   "name": "Python c79034ca2114e56ede887a473c2853b8c6d49257",
