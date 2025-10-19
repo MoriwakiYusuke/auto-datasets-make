@@ -13,6 +13,7 @@
   "name": "Python c79034ca2114e56ede887a473c2853b8c6d49257",
   "dataLicense": "CC0-1.0",
   "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-49496369-bc91-48d4-b2de-98059fbe7bc3/Python/c79034ca2114e56ede887a473c2853b8c6d49257/0PhsDXcvqEa7IPjZjCeX1g",
+  "comment": "Note from dependency-graph: Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
   "documentDescribes": [
     "SPDXRef-RootPackage"
   ],

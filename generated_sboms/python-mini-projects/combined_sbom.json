@@ -13,6 +13,7 @@
   "name": "python-mini-projects e0cfd4b0fe5e0bb4d443daba594e83332d5fb720",
   "dataLicense": "CC0-1.0",
   "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-73aa381e-697b-4d59-be6f-bd37f30b4959/python-mini-projects/e0cfd4b0fe5e0bb4d443daba594e83332d5fb720/MDebLJBCdEuAdnSc5VHfpg",
+  "comment": "Note from dependency-graph: Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
   "documentDescribes": [
     "SPDXRef-RootPackage"
   ],
