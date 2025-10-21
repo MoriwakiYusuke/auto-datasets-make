@@ -7,7 +7,9 @@
       "Organization: MoriwakiYusuke",
       "Tool: Microsoft.SBOMTool-4.1.1",
       "Tool: protobom-v0.0.0-20251017101805-28c6776db0cf+dirty",
-      "Tool: GitHub.com-Dependency-Graph"
+      "Tool: GitHub.com-Dependency-Graph",
+      "Organization: Anchore, Inc",
+      "Tool: syft-1.33.0"
     ]
   },
   "name": "sbom-go-test 4aac54e7d1e66ddc0fcebb12708460e7ef422e61",
@@ -41,9 +43,40 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:golang/github.com/common-nighthawk/go-figure@v0.0.0-20210622060536-734e95fb86be"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:common-nighthawk:go-figure:v0.0.0-20210622060536-734e95fb86be:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:common-nighthawk:go_figure:v0.0.0-20210622060536-734e95fb86be:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:common_nighthawk:go-figure:v0.0.0-20210622060536-734e95fb86be:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:common_nighthawk:go_figure:v0.0.0-20210622060536-734e95fb86be:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:common:go-figure:v0.0.0-20210622060536-734e95fb86be:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:common:go_figure:v0.0.0-20210622060536-734e95fb86be:*:*:*:*:*:*:*"
         }
       ],
-      "supplier": "NOASSERTION"
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from go module information: /bin/myapp"
     },
     {
       "name": "github.com/fatih/color",
@@ -59,9 +92,15 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:golang/github.com/fatih/color@v1.18.0"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:fatih:color:v1.18.0:*:*:*:*:*:*:*"
         }
       ],
-      "supplier": "NOASSERTION"
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from go module information: /bin/myapp"
     },
     {
       "name": "golang.org/x/sys",
@@ -77,9 +116,15 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:golang/golang.org/x/sys@v0.36.0"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:golang:x\\/sys:v0.36.0:*:*:*:*:*:*:*"
         }
       ],
-      "supplier": "NOASSERTION"
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from go module information: /bin/myapp"
     },
     {
       "name": "github.com/mattn/go-isatty",
@@ -95,9 +140,20 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:golang/github.com/mattn/go-isatty@v0.0.20"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:mattn:go-isatty:v0.0.20:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:mattn:go_isatty:v0.0.20:*:*:*:*:*:*:*"
         }
       ],
-      "supplier": "NOASSERTION"
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from go module information: /bin/myapp"
     },
     {
       "name": "github.com/mattn/go-colorable",
@@ -113,9 +169,20 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:golang/github.com/mattn/go-colorable@v0.1.14"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:mattn:go-colorable:v0.1.14:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:mattn:go_colorable:v0.1.14:*:*:*:*:*:*:*"
         }
       ],
-      "supplier": "NOASSERTION"
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from go module information: /bin/myapp"
     },
     {
       "name": "sbom-go-test",
@@ -185,6 +252,68 @@
         "SPDXRef-File--.git-logs-HEAD-90B59C7A2475B81EC2F6B60632DEC4D1C47AD98D",
         "SPDXRef-File--sbom-outputs-github-dependency-MoriwakiYusuke-sbom-go-test-d4746d.json-6488322561C56895C8445CD2D4D821C7B46C3D92",
         "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
+      ]
+    },
+    {
+      "name": "sbom-go-test",
+      "SPDXID": "SPDXRef-Package-go-module-sbom-go-test-2fb75d2e07221091",
+      "versionInfo": "UNKNOWN",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "sourceInfo": "acquired package info from go module information: /go.mod",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/sbom-go-test"
+        }
+      ]
+    },
+    {
+      "name": "sbom-go-test",
+      "SPDXID": "SPDXRef-Package-go-module-sbom-go-test-c509a67afe5a4193",
+      "versionInfo": "v0.0.0-20251008090456-819364cd483d+dirty",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "sourceInfo": "acquired package info from go module information: /bin/myapp",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/sbom-go-test@v0.0.0-20251008090456-819364cd483d%2Bdirty"
+        }
+      ]
+    },
+    {
+      "name": "stdlib",
+      "SPDXID": "SPDXRef-Package-go-module-stdlib-c978b9355c05a296",
+      "versionInfo": "go1.25.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "sourceInfo": "acquired package info from go module information: /bin/myapp",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "BSD-3-Clause",
+      "copyrightText": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:golang:go:1.25.2:-:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/stdlib@1.25.2"
+        }
       ]
     }
   ],

@@ -7,7 +7,9 @@
       "Organization: MoriwakiYusuke",
       "Tool: Microsoft.SBOMTool-4.1.1",
       "Tool: protobom-v0.0.0-20251017101805-28c6776db0cf+dirty",
-      "Tool: GitHub.com-Dependency-Graph"
+      "Tool: GitHub.com-Dependency-Graph",
+      "Organization: Anchore, Inc",
+      "Tool: syft-1.33.0"
     ]
   },
   "name": "sbom-python-test 1155b7dbcc8e694da2e8cd7d6559bc2f835434a8",
@@ -41,9 +43,70 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:pypi/pyfiglet@1.0.4"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-pyfiglet:python-pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-pyfiglet:python_pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_pyfiglet:python-pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_pyfiglet:python_pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:pyfiglet:python-pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:pyfiglet:python_pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-pyfiglet:pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_pyfiglet:pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python-pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python_pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:pyfiglet:pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:pyfiglet:1.0.4:*:*:*:*:*:*:*"
         }
       ],
-      "supplier": "NOASSERTION"
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt"
     },
     {
       "name": "colorama",
@@ -59,9 +122,70 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:pypi/colorama@0.4.6"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:colorama:0.4.6:*:*:*:*:*:*:*"
         }
       ],
-      "supplier": "NOASSERTION"
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt"
     },
     {
       "name": "sbom-python-test",
