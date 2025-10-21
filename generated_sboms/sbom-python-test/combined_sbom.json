@@ -262,6 +262,20 @@
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "primaryPackagePurpose": "FILE"
+    },
+    {
+      "name": "com.github.MoriwakiYusuke/sbom-python-test",
+      "SPDXID": "SPDXRef-github-MoriwakiYusuke-sbom-python-test-main-854ef6",
+      "versionInfo": "main",
+      "downloadLocation": "git+https://github.com/MoriwakiYusuke/sbom-python-test",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/MoriwakiYusuke/sbom-python-test@main"
+        }
+      ]
     }
   ],
   "files": [

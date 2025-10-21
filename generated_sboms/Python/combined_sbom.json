@@ -11255,6 +11255,35 @@
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "primaryPackagePurpose": "FILE"
+    },
+    {
+      "name": "cython",
+      "SPDXID": "SPDXRef-pypi-cython-75c946",
+      "versionInfo": ">= 3.1.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/cython"
+        }
+      ]
+    },
+    {
+      "name": "com.github.TheAlgorithms/Python",
+      "SPDXID": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "versionInfo": "master",
+      "downloadLocation": "git+https://github.com/TheAlgorithms/Python",
+      "filesAnalyzed": false,
+      "licenseDeclared": "MIT",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/TheAlgorithms/Python@master"
+        }
+      ]
     }
   ],
   "files": [
