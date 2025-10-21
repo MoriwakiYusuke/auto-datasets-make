@@ -11244,6 +11244,17 @@
           "referenceLocator": "pkg:pypi/xgboost@3.0.0"
         }
       ]
+    },
+    {
+      "name": "./",
+      "SPDXID": "SPDXRef-DocumentRoot-Directory-.-",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "primaryPackagePurpose": "FILE"
     }
   ],
   "files": [

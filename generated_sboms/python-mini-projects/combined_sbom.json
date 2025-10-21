@@ -13650,13 +13650,13 @@
       ]
     },
     {
-      "name": "jupyterlab",
-      "SPDXID": "SPDXRef-Package-python-jupyterlab-3433e985539e19c9",
-      "versionInfo": "2.2.10",
+      "name": "cachecontrol",
+      "SPDXID": "SPDXRef-Package-python-cachecontrol-7fc7ee03dd47cf88",
+      "versionInfo": "0.12.6",
       "supplier": "NOASSERTION",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirementsALL.txt",
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
       "licenseConcluded": "NOASSERTION",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
@@ -13664,78 +13664,78 @@
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-jupyterlab:python-jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python-cachecontrol:python-cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-jupyterlab:python_jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python-cachecontrol:python_cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_jupyterlab:python-jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python_cachecontrol:python-cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_jupyterlab:python_jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python_cachecontrol:python_cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:jupyterlab:python-jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:cachecontrol:python-cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:jupyterlab:python_jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:cachecontrol:python_cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-jupyterlab:jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python-cachecontrol:cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_jupyterlab:jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python_cachecontrol:cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python-jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python:python-cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python_jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python:python_cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:jupyterlab:jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:cachecontrol:cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:jupyterlab:2.2.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python:cachecontrol:0.12.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/jupyterlab@2.2.10"
+          "referenceLocator": "pkg:pypi/cachecontrol@0.12.6"
         }
       ]
     },
     {
-      "name": "lxml",
-      "SPDXID": "SPDXRef-Package-python-lxml-241b103504cdb4af",
-      "versionInfo": "4.6.5",
+      "name": "exifread",
+      "SPDXID": "SPDXRef-Package-python-exifread-62d0931a79000190",
+      "versionInfo": "2.3.1",
       "supplier": "NOASSERTION",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirementsALL.txt",
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt",
       "licenseConcluded": "NOASSERTION",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
@@ -13743,23 +13743,78 @@
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:lxml:lxml:4.6.5:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python-exifread:python-exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-exifread:python_exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_exifread:python-exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_exifread:python_exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:exifread:python-exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:exifread:python_exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-exifread:exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_exifread:exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python-exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python_exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:exifread:exifread:2.3.1:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:exifread:2.3.1:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/lxml@4.6.5"
+          "referenceLocator": "pkg:pypi/exifread@2.3.1"
         }
       ]
     },
     {
-      "name": "notebook",
-      "SPDXID": "SPDXRef-Package-python-notebook-b522350b8c825ec3",
-      "versionInfo": "6.4.10",
+      "name": "pil",
+      "SPDXID": "SPDXRef-Package-python-pil-1c3ece59ccad2463",
+      "versionInfo": "1.1.6",
       "supplier": "NOASSERTION",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirementsALL.txt",
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt",
       "licenseConcluded": "NOASSERTION",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
@@ -13767,306 +13822,80 @@
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-notebook:python-notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python-pil:python-pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-notebook:python_notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python-pil:python_pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_notebook:python-notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python_pil:python-pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_notebook:python_notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python_pil:python_pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:notebook:python-notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python:python-pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:notebook:python_notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python:python_pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-notebook:notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:pil:python-pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_notebook:notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:pil:python_pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python-notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python-pil:pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python_notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python_pil:pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:notebook:notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:python:pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "SECURITY",
           "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:notebook:6.4.10:*:*:*:*:*:*:*"
+          "referenceLocator": "cpe:2.3:a:pil:pil:1.1.6:*:*:*:*:*:*:*"
         },
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/notebook@6.4.10"
+          "referenceLocator": "pkg:pypi/pil@1.1.6"
         }
       ]
     },
     {
-      "name": "pillow",
-      "SPDXID": "SPDXRef-Package-python-pillow-e29a7d6166fe8d69",
-      "versionInfo": "9.0.1",
+      "name": "./",
+      "SPDXID": "SPDXRef-DocumentRoot-Directory-.-",
       "supplier": "NOASSERTION",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirementsALL.txt",
       "licenseConcluded": "NOASSERTION",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
-      "externalRefs": [
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-pillow:python-pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-pillow:python_pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_pillow:python-pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_pillow:python_pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:pillow:python-pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:pillow:python_pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-pillow:pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python-pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python_pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_pillow:pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:pillow:pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:pillow:9.0.1:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/pillow@9.0.1"
-        }
-      ]
-    },
-    {
-      "name": "pypdf2",
-      "SPDXID": "SPDXRef-Package-python-pypdf2-1cd82f58ed95158c",
-      "versionInfo": "1.27.5",
-      "supplier": "NOASSERTION",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirementsALL.txt",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "externalRefs": [
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-pypdf2:python-pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-pypdf2:python_pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_pypdf2:python-pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_pypdf2:python_pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:pypdf2:python-pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:pypdf2:python_pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-pypdf2:pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python-pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python_pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_pypdf2:pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:pypdf2:pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:pypdf2:1.27.5:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/pypdf2@1.27.5"
-        }
-      ]
-    },
-    {
-      "name": "tensorflow",
-      "SPDXID": "SPDXRef-Package-python-tensorflow-c306a631fb087795",
-      "versionInfo": "2.6.4",
-      "supplier": "NOASSERTION",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirementsALL.txt",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "externalRefs": [
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-tensorflow:python-tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-tensorflow:python_tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_tensorflow:python-tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_tensorflow:python_tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-tensorflow:tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_tensorflow:tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:tensorflow:python-tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:tensorflow:python_tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python-tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python_tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:tensorflow:tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:tensorflow:2.6.4:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/tensorflow@2.6.4"
-        }
-      ]
+      "primaryPackagePurpose": "FILE"
     }
   ],
   "files": [

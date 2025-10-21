@@ -255,44 +255,6 @@
       ]
     },
     {
-      "name": "sbom-go-test",
-      "SPDXID": "SPDXRef-Package-go-module-sbom-go-test-2fb75d2e07221091",
-      "versionInfo": "UNKNOWN",
-      "supplier": "NOASSERTION",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "sourceInfo": "acquired package info from go module information: /go.mod",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:golang/sbom-go-test"
-        }
-      ]
-    },
-    {
-      "name": "sbom-go-test",
-      "SPDXID": "SPDXRef-Package-go-module-sbom-go-test-c509a67afe5a4193",
-      "versionInfo": "v0.0.0-20251008090456-819364cd483d+dirty",
-      "supplier": "NOASSERTION",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "sourceInfo": "acquired package info from go module information: /bin/myapp",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:golang/sbom-go-test@v0.0.0-20251008090456-819364cd483d%2Bdirty"
-        }
-      ]
-    },
-    {
       "name": "stdlib",
       "SPDXID": "SPDXRef-Package-go-module-stdlib-c978b9355c05a296",
       "versionInfo": "go1.25.2",
@@ -315,6 +277,17 @@
           "referenceLocator": "pkg:golang/stdlib@1.25.2"
         }
       ]
+    },
+    {
+      "name": "./",
+      "SPDXID": "SPDXRef-DocumentRoot-Directory-.-",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "primaryPackagePurpose": "FILE"
     }
   ],
   "files": [

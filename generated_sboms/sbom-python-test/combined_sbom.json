@@ -251,6 +251,17 @@
         "SPDXRef-File--.git-hooks-pre-rebase.sample-288EFDC0027DB4CFD8B7C47C4AEDDBA09B6DED12",
         "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json-BA68537F1CC4656956AD38DE5DA24736AE140E80"
       ]
+    },
+    {
+      "name": "./",
+      "SPDXID": "SPDXRef-DocumentRoot-Directory-.-",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "primaryPackagePurpose": "FILE"
     }
   ],
   "files": [
