@@ -3,31 +3,15 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "com.github.MoriwakiYusuke/sbom-go-test",
-  "documentNamespace": "https://spdx.org/spdxdocs/protobom/e11a4b25-5ed2-491a-9c45-7b09cac59c72",
+  "documentNamespace": "https://spdx.org/spdxdocs/protobom/3bf2eaa1-0890-4545-9329-210b3ab14d37",
   "creationInfo": {
     "creators": [
-      "Tool: protobom-v0.0.0-20251017101805-28c6776db0cf+dirty",
+      "Tool: protobom-v0.0.0-20251021181738-79ed14d77102+dirty",
       "Tool: GitHub.com-Dependency-Graph"
     ],
-    "created": "2025-10-19T13:19:15Z"
+    "created": "2025-10-21T20:22:09Z"
   },
   "packages": [
-    {
-      "name": "golang.org/x/sys",
-      "SPDXID": "SPDXRef-golang-golang.orgx-sys-v0.36.0-75c946",
-      "versionInfo": "v0.36.0",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang",
-      "copyrightText": "Copyright 2009 The Go Authors, Copyright 2009,2010 The Go Authors, Copyright 2010 The Go Authors, Copyright 2011 The Go Authors, Copyright 2012 The Go Authors, Copyright 2013 The Go Authors, Copyright 2014 The Go Authors, Copyright 2015 The Go Authors, Copyright 2016 The Go Authors, Copyright 2017 The Go Authors, Copyright 2018 The Go Authors, Copyright 2019 The Go Authors, Copyright 2020 The Go Authors, Copyright 2021 The Go Authors, Copyright 2022 The Go Authors, Copyright 2023 The Go Authors, Copyright 2024 The Go Authors, Copyright 2025 The Go Authors",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:golang/golang.org/x/sys@v0.36.0"
-        }
-      ]
-    },
     {
       "name": "github.com/mattn/go-isatty",
       "SPDXID": "SPDXRef-golang-github.commattn-go-isatty-v0.0.20-75c946",
@@ -93,6 +77,22 @@
       ]
     },
     {
+      "name": "golang.org/x/sys",
+      "SPDXID": "SPDXRef-golang-golang.orgx-sys-v0.36.0-75c946",
+      "versionInfo": "v0.36.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang",
+      "copyrightText": "Copyright 2009 The Go Authors, Copyright 2009,2010 The Go Authors, Copyright 2010 The Go Authors, Copyright 2011 The Go Authors, Copyright 2012 The Go Authors, Copyright 2013 The Go Authors, Copyright 2014 The Go Authors, Copyright 2015 The Go Authors, Copyright 2016 The Go Authors, Copyright 2017 The Go Authors, Copyright 2018 The Go Authors, Copyright 2019 The Go Authors, Copyright 2020 The Go Authors, Copyright 2021 The Go Authors, Copyright 2022 The Go Authors, Copyright 2023 The Go Authors, Copyright 2024 The Go Authors, Copyright 2025 The Go Authors",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/golang.org/x/sys@v0.36.0"
+        }
+      ]
+    },
+    {
       "name": "com.github.MoriwakiYusuke/sbom-go-test",
       "SPDXID": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
       "versionInfo": "main",
@@ -110,6 +110,16 @@
   "relationships": [
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
+      "relatedSpdxElement": "SPDXRef-golang-github.commattn-go-isatty-v0.0.20-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
+      "relatedSpdxElement": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-v0.0.0-20210622060536-734e95fb86be-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
       "relatedSpdxElement": "SPDXRef-golang-github.comfatih-color-v1.18.0-75c946",
       "relationshipType": "DEPENDS_ON"
     },
@@ -121,16 +131,6 @@
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
       "relatedSpdxElement": "SPDXRef-golang-golang.orgx-sys-v0.36.0-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-github.commattn-go-isatty-v0.0.20-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-v0.0.0-20210622060536-734e95fb86be-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {

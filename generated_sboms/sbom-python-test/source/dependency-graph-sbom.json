@@ -3,13 +3,13 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "com.github.MoriwakiYusuke/sbom-python-test",
-  "documentNamespace": "https://spdx.org/spdxdocs/protobom/80fafd18-d3a8-4f73-8dd2-d3faafbaecac",
+  "documentNamespace": "https://spdx.org/spdxdocs/protobom/0292cc77-8f4c-4e67-a81c-d8db46c720d5",
   "creationInfo": {
     "creators": [
-      "Tool: protobom-v0.0.0-20251017101805-28c6776db0cf+dirty",
+      "Tool: protobom-v0.0.0-20251021181738-79ed14d77102+dirty",
       "Tool: GitHub.com-Dependency-Graph"
     ],
-    "created": "2025-10-19T13:19:14Z"
+    "created": "2025-10-21T20:22:08Z"
   },
   "packages": [
     {

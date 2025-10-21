@@ -3,13 +3,13 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": ".",
-  "documentNamespace": "http://trivy.dev/filesystem/.-44779dc0-a3d7-4ce6-801c-554e89960f18",
+  "documentNamespace": "http://trivy.dev/filesystem/.-7fa4cabd-59c3-46e7-b8a7-5412304b12aa",
   "creationInfo": {
     "creators": [
       "Organization: aquasecurity",
       "Tool: trivy-0.67.2"
     ],
-    "created": "2025-10-21T19:07:32Z"
+    "created": "2025-10-21T20:22:13Z"
   },
   "packages": [
     {
@@ -21,13 +21,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "Class: lang-pkgs"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "Type: gomod"
         }
@@ -54,13 +54,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgID: github.com/common-nighthawk/go-figure@v0.0.0-20210622060536-734e95fb86be"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -87,13 +87,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgID: github.com/fatih/color@v1.18.0"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -120,13 +120,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgID: github.com/mattn/go-colorable@v0.1.14"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -153,13 +153,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgID: github.com/mattn/go-isatty@v0.0.20"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -186,13 +186,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgID: golang.org/x/sys@v0.36.0"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -218,13 +218,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgID: sbom-go-test"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -239,7 +239,7 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-21T19:07:32Z",
+          "annotationDate": "2025-10-21T20:22:13Z",
           "annotationType": "OTHER",
           "comment": "SchemaVersion: 2"
         }
