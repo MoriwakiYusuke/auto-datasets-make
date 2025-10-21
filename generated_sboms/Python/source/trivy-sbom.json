@@ -1,0 +1,2504 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": ".",
+  "documentNamespace": "http://trivy.dev/filesystem/.-91b14b0a-b29f-4d03-99d0-6fda41fc75e6",
+  "creationInfo": {
+    "creators": [
+      "Organization: aquasecurity",
+      "Tool: trivy-0.67.2"
+    ],
+    "created": "2025-10-21T19:07:31Z"
+  },
+  "packages": [
+    {
+      "name": "uv.lock",
+      "SPDXID": "SPDXRef-Application-3bc52fafdd5c33c7",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: uv"
+        }
+      ]
+    },
+    {
+      "name": "absl-py",
+      "SPDXID": "SPDXRef-Package-41292c499f8b885a",
+      "versionInfo": "2.2.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/absl-py@2.2.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: absl-py@2.2.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "anyio",
+      "SPDXID": "SPDXRef-Package-222e9860316702b3",
+      "versionInfo": "4.9.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/anyio@4.9.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: anyio@4.9.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "beautifulsoup4",
+      "SPDXID": "SPDXRef-Package-e85504a277fd0e82",
+      "versionInfo": "4.13.4",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/beautifulsoup4@4.13.4"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: beautifulsoup4@4.13.4"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "certifi",
+      "SPDXID": "SPDXRef-Package-559fc5f5e2bdc822",
+      "versionInfo": "2025.4.26",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/certifi@2025.4.26"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: certifi@2025.4.26"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "charset-normalizer",
+      "SPDXID": "SPDXRef-Package-c9737aad30e14256",
+      "versionInfo": "3.4.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/charset-normalizer@3.4.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: charset-normalizer@3.4.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "contourpy",
+      "SPDXID": "SPDXRef-Package-3595ec0ed1a73c9a",
+      "versionInfo": "1.3.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/contourpy@1.3.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: contourpy@1.3.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "cycler",
+      "SPDXID": "SPDXRef-Package-85740296fe7304eb",
+      "versionInfo": "0.12.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/cycler@0.12.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: cycler@0.12.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "dom-toml",
+      "SPDXID": "SPDXRef-Package-625c2bce3ff75806",
+      "versionInfo": "2.0.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/dom-toml@2.0.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: dom-toml@2.0.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "domdf-python-tools",
+      "SPDXID": "SPDXRef-Package-2572468e304acfad",
+      "versionInfo": "3.10.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/domdf-python-tools@3.10.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: domdf-python-tools@3.10.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "fake-useragent",
+      "SPDXID": "SPDXRef-Package-49b6f4b6456d9439",
+      "versionInfo": "2.2.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/fake-useragent@2.2.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: fake-useragent@2.2.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "fonttools",
+      "SPDXID": "SPDXRef-Package-b02487b8b71335ab",
+      "versionInfo": "4.58.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/fonttools@4.58.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: fonttools@4.58.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "h11",
+      "SPDXID": "SPDXRef-Package-ae9336926a7e80f6",
+      "versionInfo": "0.16.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/h11@0.16.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: h11@0.16.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "h5py",
+      "SPDXID": "SPDXRef-Package-33c550cb3c22e9d9",
+      "versionInfo": "3.13.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/h5py@3.13.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: h5py@3.13.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "httpcore",
+      "SPDXID": "SPDXRef-Package-50141f57651301c5",
+      "versionInfo": "1.0.9",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/httpcore@1.0.9"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: httpcore@1.0.9"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "httpx",
+      "SPDXID": "SPDXRef-Package-a17513ff4fa1c543",
+      "versionInfo": "0.28.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/httpx@0.28.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: httpx@0.28.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "idna",
+      "SPDXID": "SPDXRef-Package-5391bdbce46776fe",
+      "versionInfo": "3.10",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/idna@3.10"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: idna@3.10"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "imageio",
+      "SPDXID": "SPDXRef-Package-287f4937f9c5d050",
+      "versionInfo": "2.37.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/imageio@2.37.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: imageio@2.37.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "joblib",
+      "SPDXID": "SPDXRef-Package-6503fdeae5cf5f2e",
+      "versionInfo": "1.5.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/joblib@1.5.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: joblib@1.5.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "keras",
+      "SPDXID": "SPDXRef-Package-565a0a01bfffd851",
+      "versionInfo": "3.9.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/keras@3.9.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: keras@3.9.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "kiwisolver",
+      "SPDXID": "SPDXRef-Package-17b578af9a3de5bc",
+      "versionInfo": "1.4.8",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/kiwisolver@1.4.8"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: kiwisolver@1.4.8"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "lxml",
+      "SPDXID": "SPDXRef-Package-5e93dd60b060403c",
+      "versionInfo": "5.4.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/lxml@5.4.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: lxml@5.4.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "markdown-it-py",
+      "SPDXID": "SPDXRef-Package-cba1ff6f5d416be3",
+      "versionInfo": "3.0.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/markdown-it-py@3.0.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: markdown-it-py@3.0.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "matplotlib",
+      "SPDXID": "SPDXRef-Package-3b184a0621ba6b3c",
+      "versionInfo": "3.10.3",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/matplotlib@3.10.3"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: matplotlib@3.10.3"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "mdurl",
+      "SPDXID": "SPDXRef-Package-5930871be9df9c7c",
+      "versionInfo": "0.1.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/mdurl@0.1.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: mdurl@0.1.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "ml-dtypes",
+      "SPDXID": "SPDXRef-Package-218e3d02cf3393a7",
+      "versionInfo": "0.5.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/ml-dtypes@0.5.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: ml-dtypes@0.5.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "mpmath",
+      "SPDXID": "SPDXRef-Package-8ca757e14072c3a2",
+      "versionInfo": "1.3.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/mpmath@1.3.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: mpmath@1.3.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "namex",
+      "SPDXID": "SPDXRef-Package-ff8a780be6a81a47",
+      "versionInfo": "0.0.9",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/namex@0.0.9"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: namex@0.0.9"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "natsort",
+      "SPDXID": "SPDXRef-Package-1ac8ecd47f6655c8",
+      "versionInfo": "8.4.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/natsort@8.4.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: natsort@8.4.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "numpy",
+      "SPDXID": "SPDXRef-Package-4959a6df180b72b1",
+      "versionInfo": "2.2.5",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/numpy@2.2.5"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: numpy@2.2.5"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "nvidia-nccl-cu12",
+      "SPDXID": "SPDXRef-Package-c24d9eb3eb493b5a",
+      "versionInfo": "2.26.5",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/nvidia-nccl-cu12@2.26.5"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: nvidia-nccl-cu12@2.26.5"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "oauthlib",
+      "SPDXID": "SPDXRef-Package-c2e0f74a5b47f44f",
+      "versionInfo": "3.2.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/oauthlib@3.2.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: oauthlib@3.2.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "opencv-python",
+      "SPDXID": "SPDXRef-Package-4511cad764ac9632",
+      "versionInfo": "4.11.0.86",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/opencv-python@4.11.0.86"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: opencv-python@4.11.0.86"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "optree",
+      "SPDXID": "SPDXRef-Package-525dcbbf78fbaa58",
+      "versionInfo": "0.15.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/optree@0.15.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: optree@0.15.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "packaging",
+      "SPDXID": "SPDXRef-Package-25a848782bb4378e",
+      "versionInfo": "25.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/packaging@25.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: packaging@25.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "pandas",
+      "SPDXID": "SPDXRef-Package-56e50372daf81316",
+      "versionInfo": "2.2.3",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pandas@2.2.3"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: pandas@2.2.3"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "patsy",
+      "SPDXID": "SPDXRef-Package-9a2139db25346df0",
+      "versionInfo": "1.0.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/patsy@1.0.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: patsy@1.0.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "pillow",
+      "SPDXID": "SPDXRef-Package-667de8f37b34c777",
+      "versionInfo": "11.2.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pillow@11.2.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: pillow@11.2.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "pygments",
+      "SPDXID": "SPDXRef-Package-a22b47296d74d6b1",
+      "versionInfo": "2.19.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pygments@2.19.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: pygments@2.19.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "pyparsing",
+      "SPDXID": "SPDXRef-Package-1334e12ef390b45b",
+      "versionInfo": "3.2.3",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyparsing@3.2.3"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: pyparsing@3.2.3"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "python-dateutil",
+      "SPDXID": "SPDXRef-Package-f3e6f0acfcb4de26",
+      "versionInfo": "2.9.0.post0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: python-dateutil@2.9.0.post0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "pytz",
+      "SPDXID": "SPDXRef-Package-dcda5062fcfdbd2f",
+      "versionInfo": "2025.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pytz@2025.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: pytz@2025.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "SPDXID": "SPDXRef-Package-b0ffc3684cb6a280",
+      "versionInfo": "2.32.3",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/requests@2.32.3"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: requests@2.32.3"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "requests-oauthlib",
+      "SPDXID": "SPDXRef-Package-4be5812fe5acbad4",
+      "versionInfo": "2.0.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/requests-oauthlib@2.0.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: requests-oauthlib@2.0.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "rich",
+      "SPDXID": "SPDXRef-Package-891703601357e849",
+      "versionInfo": "14.0.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/rich@14.0.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: rich@14.0.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "scikit-learn",
+      "SPDXID": "SPDXRef-Package-167856a239cb6b28",
+      "versionInfo": "1.6.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/scikit-learn@1.6.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: scikit-learn@1.6.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "scipy",
+      "SPDXID": "SPDXRef-Package-4f67818832f278b4",
+      "versionInfo": "1.15.3",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/scipy@1.15.3"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: scipy@1.15.3"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "six",
+      "SPDXID": "SPDXRef-Package-eda5efa0dd4a566",
+      "versionInfo": "1.17.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/six@1.17.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: six@1.17.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "sniffio",
+      "SPDXID": "SPDXRef-Package-52d9a58f44872079",
+      "versionInfo": "1.3.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sniffio@1.3.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: sniffio@1.3.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "soupsieve",
+      "SPDXID": "SPDXRef-Package-a2f4b2ee53333888",
+      "versionInfo": "2.7",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/soupsieve@2.7"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: soupsieve@2.7"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "sphinx-pyproject",
+      "SPDXID": "SPDXRef-Package-ea5480592700db74",
+      "versionInfo": "0.3.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinx-pyproject@0.3.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: sphinx-pyproject@0.3.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "statsmodels",
+      "SPDXID": "SPDXRef-Package-f315da7d3cc6b7f2",
+      "versionInfo": "0.14.4",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/statsmodels@0.14.4"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: statsmodels@0.14.4"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "sympy",
+      "SPDXID": "SPDXRef-Package-41b8c23f3513ea0e",
+      "versionInfo": "1.14.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sympy@1.14.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: sympy@1.14.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "thealgorithms-python",
+      "SPDXID": "SPDXRef-Package-a6f07328f870d423",
+      "versionInfo": "0.0.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/thealgorithms-python@0.0.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: thealgorithms-python@0.0.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "threadpoolctl",
+      "SPDXID": "SPDXRef-Package-24d7972846156ee7",
+      "versionInfo": "3.6.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/threadpoolctl@3.6.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: threadpoolctl@3.6.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "tomli",
+      "SPDXID": "SPDXRef-Package-c8c9e7f476283b62",
+      "versionInfo": "2.2.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/tomli@2.2.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: tomli@2.2.1"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "tweepy",
+      "SPDXID": "SPDXRef-Package-f549f530f4a8589d",
+      "versionInfo": "4.15.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/tweepy@4.15.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: tweepy@4.15.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "typing-extensions",
+      "SPDXID": "SPDXRef-Package-ffce87e5c9ff1790",
+      "versionInfo": "4.13.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/typing-extensions@4.13.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: typing-extensions@4.13.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "tzdata",
+      "SPDXID": "SPDXRef-Package-84e82a3ff1887da7",
+      "versionInfo": "2025.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/tzdata@2025.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: tzdata@2025.2"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "SPDXID": "SPDXRef-Package-522affece2538d57",
+      "versionInfo": "2.4.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/urllib3@2.4.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: urllib3@2.4.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": "xgboost",
+      "SPDXID": "SPDXRef-Package-88f395e4e84dc0cb",
+      "versionInfo": "3.0.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: uv.lock",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/xgboost@3.0.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgID: xgboost@3.0.0"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: uv"
+        }
+      ]
+    },
+    {
+      "name": ".",
+      "SPDXID": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "SOURCE",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "SchemaVersion: 2"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-Application-3bc52fafdd5c33c7",
+      "relatedSpdxElement": "SPDXRef-Package-a6f07328f870d423",
+      "relationshipType": "CONTAINS"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "relatedSpdxElement": "SPDXRef-Application-3bc52fafdd5c33c7",
+      "relationshipType": "CONTAINS"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-167856a239cb6b28",
+      "relatedSpdxElement": "SPDXRef-Package-24d7972846156ee7",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-167856a239cb6b28",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-167856a239cb6b28",
+      "relatedSpdxElement": "SPDXRef-Package-4f67818832f278b4",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-167856a239cb6b28",
+      "relatedSpdxElement": "SPDXRef-Package-6503fdeae5cf5f2e",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-218e3d02cf3393a7",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-222e9860316702b3",
+      "relatedSpdxElement": "SPDXRef-Package-52d9a58f44872079",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-222e9860316702b3",
+      "relatedSpdxElement": "SPDXRef-Package-5391bdbce46776fe",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-2572468e304acfad",
+      "relatedSpdxElement": "SPDXRef-Package-1ac8ecd47f6655c8",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-2572468e304acfad",
+      "relatedSpdxElement": "SPDXRef-Package-ffce87e5c9ff1790",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-287f4937f9c5d050",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-287f4937f9c5d050",
+      "relatedSpdxElement": "SPDXRef-Package-667de8f37b34c777",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-33c550cb3c22e9d9",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3595ec0ed1a73c9a",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-1334e12ef390b45b",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-17b578af9a3de5bc",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-25a848782bb4378e",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-3595ec0ed1a73c9a",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-667de8f37b34c777",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-85740296fe7304eb",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-b02487b8b71335ab",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relatedSpdxElement": "SPDXRef-Package-f3e6f0acfcb4de26",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-41b8c23f3513ea0e",
+      "relatedSpdxElement": "SPDXRef-Package-8ca757e14072c3a2",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-4511cad764ac9632",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-4be5812fe5acbad4",
+      "relatedSpdxElement": "SPDXRef-Package-b0ffc3684cb6a280",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-4be5812fe5acbad4",
+      "relatedSpdxElement": "SPDXRef-Package-c2e0f74a5b47f44f",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-4f67818832f278b4",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-50141f57651301c5",
+      "relatedSpdxElement": "SPDXRef-Package-559fc5f5e2bdc822",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-50141f57651301c5",
+      "relatedSpdxElement": "SPDXRef-Package-ae9336926a7e80f6",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-525dcbbf78fbaa58",
+      "relatedSpdxElement": "SPDXRef-Package-ffce87e5c9ff1790",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-565a0a01bfffd851",
+      "relatedSpdxElement": "SPDXRef-Package-218e3d02cf3393a7",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-565a0a01bfffd851",
+      "relatedSpdxElement": "SPDXRef-Package-25a848782bb4378e",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-565a0a01bfffd851",
+      "relatedSpdxElement": "SPDXRef-Package-33c550cb3c22e9d9",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-565a0a01bfffd851",
+      "relatedSpdxElement": "SPDXRef-Package-41292c499f8b885a",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-565a0a01bfffd851",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-565a0a01bfffd851",
+      "relatedSpdxElement": "SPDXRef-Package-525dcbbf78fbaa58",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-565a0a01bfffd851",
+      "relatedSpdxElement": "SPDXRef-Package-891703601357e849",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-565a0a01bfffd851",
+      "relatedSpdxElement": "SPDXRef-Package-ff8a780be6a81a47",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-56e50372daf81316",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-56e50372daf81316",
+      "relatedSpdxElement": "SPDXRef-Package-84e82a3ff1887da7",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-56e50372daf81316",
+      "relatedSpdxElement": "SPDXRef-Package-dcda5062fcfdbd2f",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-56e50372daf81316",
+      "relatedSpdxElement": "SPDXRef-Package-f3e6f0acfcb4de26",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-625c2bce3ff75806",
+      "relatedSpdxElement": "SPDXRef-Package-2572468e304acfad",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-625c2bce3ff75806",
+      "relatedSpdxElement": "SPDXRef-Package-c8c9e7f476283b62",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-88f395e4e84dc0cb",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-88f395e4e84dc0cb",
+      "relatedSpdxElement": "SPDXRef-Package-4f67818832f278b4",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-88f395e4e84dc0cb",
+      "relatedSpdxElement": "SPDXRef-Package-c24d9eb3eb493b5a",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-891703601357e849",
+      "relatedSpdxElement": "SPDXRef-Package-a22b47296d74d6b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-891703601357e849",
+      "relatedSpdxElement": "SPDXRef-Package-cba1ff6f5d416be3",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-9a2139db25346df0",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a17513ff4fa1c543",
+      "relatedSpdxElement": "SPDXRef-Package-222e9860316702b3",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a17513ff4fa1c543",
+      "relatedSpdxElement": "SPDXRef-Package-50141f57651301c5",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a17513ff4fa1c543",
+      "relatedSpdxElement": "SPDXRef-Package-5391bdbce46776fe",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a17513ff4fa1c543",
+      "relatedSpdxElement": "SPDXRef-Package-559fc5f5e2bdc822",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-167856a239cb6b28",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-287f4937f9c5d050",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-3b184a0621ba6b3c",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-41b8c23f3513ea0e",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-4511cad764ac9632",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-49b6f4b6456d9439",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-565a0a01bfffd851",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-56e50372daf81316",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-5e93dd60b060403c",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-667de8f37b34c777",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-88f395e4e84dc0cb",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-891703601357e849",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-a17513ff4fa1c543",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-e85504a277fd0e82",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-ea5480592700db74",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-f315da7d3cc6b7f2",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-f549f530f4a8589d",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-a6f07328f870d423",
+      "relatedSpdxElement": "SPDXRef-Package-ffce87e5c9ff1790",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-b0ffc3684cb6a280",
+      "relatedSpdxElement": "SPDXRef-Package-522affece2538d57",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-b0ffc3684cb6a280",
+      "relatedSpdxElement": "SPDXRef-Package-5391bdbce46776fe",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-b0ffc3684cb6a280",
+      "relatedSpdxElement": "SPDXRef-Package-559fc5f5e2bdc822",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-b0ffc3684cb6a280",
+      "relatedSpdxElement": "SPDXRef-Package-c9737aad30e14256",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-cba1ff6f5d416be3",
+      "relatedSpdxElement": "SPDXRef-Package-5930871be9df9c7c",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-e85504a277fd0e82",
+      "relatedSpdxElement": "SPDXRef-Package-a2f4b2ee53333888",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-e85504a277fd0e82",
+      "relatedSpdxElement": "SPDXRef-Package-ffce87e5c9ff1790",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-ea5480592700db74",
+      "relatedSpdxElement": "SPDXRef-Package-2572468e304acfad",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-ea5480592700db74",
+      "relatedSpdxElement": "SPDXRef-Package-625c2bce3ff75806",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f315da7d3cc6b7f2",
+      "relatedSpdxElement": "SPDXRef-Package-25a848782bb4378e",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f315da7d3cc6b7f2",
+      "relatedSpdxElement": "SPDXRef-Package-4959a6df180b72b1",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f315da7d3cc6b7f2",
+      "relatedSpdxElement": "SPDXRef-Package-4f67818832f278b4",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f315da7d3cc6b7f2",
+      "relatedSpdxElement": "SPDXRef-Package-56e50372daf81316",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f315da7d3cc6b7f2",
+      "relatedSpdxElement": "SPDXRef-Package-9a2139db25346df0",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f3e6f0acfcb4de26",
+      "relatedSpdxElement": "SPDXRef-Package-eda5efa0dd4a566",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f549f530f4a8589d",
+      "relatedSpdxElement": "SPDXRef-Package-4be5812fe5acbad4",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f549f530f4a8589d",
+      "relatedSpdxElement": "SPDXRef-Package-b0ffc3684cb6a280",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f549f530f4a8589d",
+      "relatedSpdxElement": "SPDXRef-Package-c2e0f74a5b47f44f",
+      "relationshipType": "DEPENDS_ON"
+    }
+  ]
+}

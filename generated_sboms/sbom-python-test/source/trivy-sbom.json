@@ -1,0 +1,128 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": ".",
+  "documentNamespace": "http://trivy.dev/filesystem/.-822f1469-f485-49f6-891b-4d3ac9917af7",
+  "creationInfo": {
+    "creators": [
+      "Organization: aquasecurity",
+      "Tool: trivy-0.67.2"
+    ],
+    "created": "2025-10-21T19:07:30Z"
+  },
+  "packages": [
+    {
+      "name": "requirements.txt",
+      "SPDXID": "SPDXRef-Application-243836e57ed785a5",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:30Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:30Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "colorama",
+      "SPDXID": "SPDXRef-Package-d2f0de5c510545c2",
+      "versionInfo": "0.4.6",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/colorama@0.4.6"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:30Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "pyfiglet",
+      "SPDXID": "SPDXRef-Package-cb268b5f9936a2af",
+      "versionInfo": "1.0.4",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyfiglet@1.0.4"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:30Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": ".",
+      "SPDXID": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "SOURCE",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:30Z",
+          "annotationType": "OTHER",
+          "comment": "SchemaVersion: 2"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-Application-243836e57ed785a5",
+      "relatedSpdxElement": "SPDXRef-Package-cb268b5f9936a2af",
+      "relationshipType": "CONTAINS"
+    },
+    {
+      "spdxElementId": "SPDXRef-Application-243836e57ed785a5",
+      "relatedSpdxElement": "SPDXRef-Package-d2f0de5c510545c2",
+      "relationshipType": "CONTAINS"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "relatedSpdxElement": "SPDXRef-Application-243836e57ed785a5",
+      "relationshipType": "CONTAINS"
+    }
+  ]
+}
