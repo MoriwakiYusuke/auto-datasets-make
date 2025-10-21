@@ -1,57 +1,60 @@
-# SBOM Dataset Auto Generator
+# SBOMデータセット自動生成ツール
 
-This project is a tool to automatically generate a rich Software Bill of Materials (SBOM) dataset from a list of specified GitHub repositories. It utilizes multiple tools and APIs to gather, combine, and supplement SBOM information.
+このプロジェクトは、指定されたGitHubリポジトリのリストから、リッチなSBOM（Software Bill of Materials）データセットを自動的に生成するためのツールです。複数のツールとAPIを活用して、SBOM情報を収集、結合、補強します。
 
-## Features
+## 主な機能
 
-- **Automatic Repository Cloning:** Clones Git repositories from a list of URLs provided in `url_list.txt`.
-- **Multi-Source SBOM Generation:** Generates SBOMs using the following sources:
-    - [Microsoft's SBOM Tool](https://github.com/microsoft/sbom-tool)
+- **リポジトリの自動クローン:** `url_list.txt`に記載されたURLのリストからGitリポジトリをクローンします。
+- **マルチソースでのSBOM生成:** 以下のソースを利用してSBOMを生成します:
+    - [Microsoft SBOM Tool](https://github.com/microsoft/sbom-tool)
     - [Syft](https://github.com/anchore/syft)
+    - [Trivy](https://github.com/aquasecurity/trivy)
     - GitHub Dependency Graph API
-- **SBOM Enrichment:** Combines the generated SBOMs, using the output from `sbom-tool` as a base and enriching it with data (like license and copyright information) from other sources.
+- **SBOMの統合と拡充:** `sbom-tool`の出力をベースとして、他のソース（Syft, Trivy, GitHub API）からの情報（ライセンス、著作権、パッケージの依存関係など）を統合し、より完全なSBOMを生成します。
 
-## Directory Structure
+## ディレクトリ構成
 
-- **`cloned_repositories/`**: Stores the Git repositories cloned from the URLs in `url_list.txt`.
-- **`generated_sboms/`**: Contains the generated SBOMs. Each repository has its own subdirectory, which includes:
-    - `source/`: Raw SBOM files from each tool.
-    - `combined_sbom.json`: The final, enriched SBOM file.
-- **`url_list.txt`**: A text file containing the list of Git repository URLs to be processed.
-- **`main.ipynb`**: A Jupyter Notebook that contains the entire workflow for cloning, generation, and enrichment.
+- **`cloned_repositories/`**: `url_list.txt`からクローンされたGitリポジトリが保存されます。
+- **`generated_sboms/`**: 生成されたSBOMが格納されます。各リポジトリは独自のサブディレクトリを持ち、その中には以下が含まれます:
+    - `source/`: 各ツールから出力された生のSBOMファイル。
+    - `combined_sbom.json`: 最終的に統合・拡充されたSBOMファイル。
+- **`url_list.txt`**: 処理対象となるGitリポジトリのURLリスト。
+- **`main.ipynb`**: クローン、生成、統合の全ワークフローを含むJupyter Notebook。
 
-## How to Use
+## 使い方
 
-### Prerequisites
+### 事前準備
 
-Ensure you have the following tools installed and accessible in your PATH:
+以下のツールがインストールされ、PATHが通っていることを確認してください:
 
 - Python 3
 - Git
 - [sbom-tool](https://github.com/microsoft/sbom-tool)
 - [Syft](https://github.com/anchore/syft)
-- Jupyter Notebook or JupyterLab
+- [Trivy](https://github.com/aquasecurity/trivy)
+- Jupyter Notebook または JupyterLab
 
-### Steps
+### 手順
 
-1.  **Edit the URL List:**
-    Add the GitHub repository URLs you want to process to `url_list.txt`, with one URL per line.
+1.  **URLリストの編集:**
+    `url_list.txt`に、処理したいGitHubリポジトリのURLを1行に1つずつ追加します。
 
     ```
     https://github.com/owner/repo1.git
     https://github.com/owner/repo2.git
     ```
 
-2.  **Run the Notebook:**
-    Open `main.ipynb` in Jupyter Notebook or JupyterLab and run the cells in order from top to bottom.
+2.  **Notebookの実行:**
+    `main.ipynb`をJupyter NotebookまたはJupyterLabで開き、セルを上から順に実行します。
 
-    The notebook will execute the following workflow:
-    1.  Clone repositories.
-    2.  Generate SBOMs using `sbom-tool`.
-    3.  Generate SBOMs using `syft`.
-    4.  Fetch SBOMs from the GitHub API.
-    5.  Create a base `combined_sbom.json` from the `sbom-tool` output.
-    6.  Supplement `combined_sbom.json` with information from the GitHub API output.
+    ノートブックは以下のワークフローを実行します:
+    1.  リポジトリをクローンします。
+    2.  `sbom-tool`を使用してベースとなるSBOMを生成します。
+    3.  `syft`を使用して依存関係のSBOMを生成します。
+    4.  GitHub APIからSBOMを取得します。
+    5.  `trivy`を使用してファイルシステムのSBOMを生成します。
+    6.  `sbom-tool`の出力をコピーして`combined_sbom.json`を作成します。
+    7.  `combined_sbom.json`にGitHub API、`syft`、`trivy`の情報を順次統合します。
 
-3.  **Check the Output:**
-    Once the process is complete, you can find the final enriched SBOMs in the `generated_sboms/[repository_name]/` directories.
+3.  **出力の確認:**
+    処理が完了すると、最終的に拡充されたSBOMが`generated_sboms/[リポジトリ名]/`ディレクトリに`combined_sbom.json`として保存されます。
