@@ -9,7 +9,9 @@
       "Tool: protobom-v0.0.0-20251017101805-28c6776db0cf+dirty",
       "Tool: GitHub.com-Dependency-Graph",
       "Organization: Anchore, Inc",
-      "Tool: syft-1.33.0"
+      "Tool: syft-1.33.0",
+      "Organization: aquasecurity",
+      "Tool: trivy-0.67.2"
     ]
   },
   "name": "python-mini-projects e0cfd4b0fe5e0bb4d443daba594e83332d5fb720",
@@ -61,7 +63,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Create_a_script_to_encrypt_files_and_folder/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Create_a_script_to_encrypt_files_and_folder/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "certifi",
@@ -158,7 +169,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "urllib3",
@@ -255,7 +275,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Cli_todo/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Cli_todo/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "webdriver-manager",
@@ -434,7 +463,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/download GeeksForGeeks articles/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/download GeeksForGeeks articles/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "captcha",
@@ -494,7 +532,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/All_links_from_given_webpage/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/All_links_from_given_webpage/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "wordcloud",
@@ -573,7 +620,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "soupsieve",
@@ -652,7 +708,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pyparsing",
@@ -731,7 +796,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "selenium",
@@ -810,7 +884,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Download_images_from_website/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Download_images_from_website/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "Pillow",
@@ -889,7 +972,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "python-dateutil",
@@ -938,7 +1030,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "beautifulsoup4",
@@ -1017,7 +1118,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "urllib3",
@@ -1041,7 +1151,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "colorama",
@@ -1138,7 +1257,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "kiwisolver",
@@ -1217,7 +1345,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "jmespath",
@@ -1314,7 +1451,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "botocore",
@@ -1393,7 +1539,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/S3_File_Upload/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/S3_File_Upload/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pillow",
@@ -1435,7 +1590,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pypdf2",
@@ -1514,7 +1678,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Merge_pdfs/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Merge_pdfs/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "packaging",
@@ -1611,7 +1784,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "six",
@@ -1708,7 +1890,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Ascii_art/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Ascii_art/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "matplotlib",
@@ -1787,7 +1978,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "python-dateutil",
@@ -1829,7 +2029,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Movie Information Scraper/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Movie Information Scraper/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "newspaper",
@@ -1908,7 +2117,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "cycler",
@@ -1987,7 +2205,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Wikipedia_search_wordcloud/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "boto3",
@@ -2066,7 +2293,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/S3_File_Upload/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/S3_File_Upload/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "s3transfer",
@@ -2133,7 +2369,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "contextlib2",
@@ -2212,7 +2457,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "wrapt",
@@ -2309,7 +2563,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Convert_a_image_to_pdf/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Convert_a_image_to_pdf/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "beautifulsoup4",
@@ -2406,7 +2669,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "soupsieve",
@@ -2521,7 +2793,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "wget",
@@ -2600,7 +2881,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "urllib3",
@@ -2797,7 +3087,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "sumeval",
@@ -2876,7 +3175,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "sumy",
@@ -2955,7 +3263,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "model",
@@ -3034,7 +3351,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "appdirs",
@@ -3113,7 +3439,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "utils",
@@ -3192,7 +3527,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "typing-extensions",
@@ -3289,7 +3633,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "six",
@@ -3368,7 +3721,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "lxml",
@@ -3465,7 +3827,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pytz",
@@ -3544,7 +3915,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "numpy",
@@ -3623,7 +4003,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "distro",
@@ -3702,7 +4091,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "html5lib",
@@ -3781,7 +4179,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pikepdf",
@@ -3878,7 +4285,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "tqdm",
@@ -3957,7 +4373,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "certifi",
@@ -3981,7 +4406,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "urllib3",
@@ -4005,7 +4439,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pyparsing",
@@ -4084,7 +4527,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "tensorflow",
@@ -4163,7 +4615,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Web_page_summation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pep517",
@@ -4242,7 +4703,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "requests",
@@ -4339,7 +4809,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pandas",
@@ -4418,7 +4897,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "retrying",
@@ -4497,7 +4985,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "requests",
@@ -4521,7 +5018,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "openpyxl",
@@ -4545,7 +5051,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speed_Game/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "packaging",
@@ -4624,7 +5139,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "distlib",
@@ -4703,7 +5227,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "progress",
@@ -4782,7 +5315,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "Pillow",
@@ -4861,7 +5403,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "lxml",
@@ -4885,7 +5436,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pytoml",
@@ -4964,7 +5524,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "colorama",
@@ -5043,7 +5612,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "sniffio",
@@ -5158,7 +5736,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "CacheControl",
@@ -5237,7 +5824,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "beautifulsoup4",
@@ -5316,7 +5912,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/All_links_from_given_webpage/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/All_links_from_given_webpage/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "configparser",
@@ -5395,7 +6000,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "charset-normalizer",
@@ -5510,7 +6124,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "ipaddr",
@@ -5589,7 +6212,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "lockfile",
@@ -5668,7 +6300,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "importlib-metadata",
@@ -5847,7 +6488,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "emoji",
@@ -5926,7 +6576,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Fetch HTTP status code/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Fetch HTTP status code/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pyecharts",
@@ -6005,7 +6664,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "bs4",
@@ -6084,7 +6752,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "jinja2",
@@ -6163,7 +6840,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "urllib3",
@@ -6260,7 +6946,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "oauthlib",
@@ -6375,7 +7070,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "python-telegram-bot",
@@ -6490,7 +7194,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "requests",
@@ -6514,7 +7227,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "urllib3",
@@ -6538,7 +7260,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "typing-extensions",
@@ -6717,7 +7448,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "priority",
@@ -6759,7 +7499,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "tqdm",
@@ -6838,7 +7587,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Terminal_progress_bar_with_images_resizing/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Terminal_progress_bar_with_images_resizing/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "idna",
@@ -6935,7 +7693,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "gtts",
@@ -7014,7 +7781,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Text_to_speech/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Text_to_speech/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "click",
@@ -7111,7 +7887,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "zipp",
@@ -7190,7 +7975,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pyjwt",
@@ -7405,7 +8199,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "aiofiles",
@@ -7520,7 +8323,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Fetch_and_store_tweets/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Fetch_and_store_tweets/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "wechaty-grpc",
@@ -7635,7 +8447,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "hpack",
@@ -7804,7 +8625,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "itsdangerous",
@@ -8135,7 +8965,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/EasyVideoPlayer/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/EasyVideoPlayer/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pathlib",
@@ -8214,7 +9053,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/EasyVideoPlayer/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/EasyVideoPlayer/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "h2",
@@ -8383,7 +9231,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Multi_language_OCR/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Multi_language_OCR/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "greenlet",
@@ -8652,7 +9509,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Snapshot_of_given_website/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Snapshot_of_given_website/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "wsproto",
@@ -8749,7 +9615,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Random_Wikipedia_Article/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Random_Wikipedia_Article/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "jinja2",
@@ -8864,7 +9739,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pandas",
@@ -8943,7 +9827,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Merge_csv_files/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Merge_csv_files/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "python3-xlib",
@@ -9094,7 +9987,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/capture_screenshot/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/capture_screenshot/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "rich",
@@ -9173,7 +10075,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Diff_Util/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Diff_Util/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "googletrans",
@@ -9252,7 +10163,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Language_translator/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Language_translator/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "xmltodict",
@@ -9331,7 +10251,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Convert_XML_To_JSON/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Convert_XML_To_JSON/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "proxytest",
@@ -9410,7 +10339,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/cli_proxy_tester/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/cli_proxy_tester/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "opencv-python",
@@ -9589,7 +10527,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/EasyVideoPlayer/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/EasyVideoPlayer/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pyperclip",
@@ -9794,7 +10741,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/racing_barchart_animation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/racing_barchart_animation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pyautogui",
@@ -9909,7 +10865,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Multi_language_OCR/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Multi_language_OCR/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "notebook",
@@ -9988,7 +10953,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/racing_barchart_animation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/racing_barchart_animation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "httpcore",
@@ -10085,7 +11059,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "numpy",
@@ -10164,7 +11147,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/detect_align_faces/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/detect_align_faces/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "flask",
@@ -10243,7 +11235,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Todo_app/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Todo_app/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "matplotlib",
@@ -10322,7 +11323,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/racing_barchart_animation/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/racing_barchart_animation/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "opencv-python",
@@ -10501,7 +11511,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Ascii_art/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Ascii_art/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "ffmpeg",
@@ -10580,7 +11599,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Split_a_video_file_by_given_time_period/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Split_a_video_file_by_given_time_period/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "speechrecognition",
@@ -10659,7 +11687,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speech_to_text/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speech_to_text/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "commonmark",
@@ -10874,7 +11911,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/detect_align_faces/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/detect_align_faces/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "ExifRead",
@@ -10953,7 +11999,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pygments",
@@ -11204,7 +12259,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Battery_notification/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Battery_notification/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "win10toast",
@@ -11283,7 +12347,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Battery_notification/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Battery_notification/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "psutil",
@@ -11362,7 +12435,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Battery_notification/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Battery_notification/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pytweening",
@@ -11459,7 +12541,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/cli_proxy_tester/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/cli_proxy_tester/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "flask-sqlalchemy",
@@ -11638,7 +12729,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Todo_app/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Todo_app/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pyaudio",
@@ -11717,7 +12817,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speech_to_text/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Speech_to_text/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pytz",
@@ -11796,7 +12905,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Find_imdb_rating/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "pywhatkit",
@@ -11893,7 +13011,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Bouncing_ball_simulator/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Bouncing_ball_simulator/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "dlib",
@@ -11972,7 +13099,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/detect_align_faces/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/detect_align_faces/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "dnspython",
@@ -12051,7 +13187,16 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Dns_record/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Dns_record/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "python-mini-projects",
@@ -13713,7 +14858,16 @@
           "referenceLocator": "cpe:2.3:a:pil:pil:1.1.6:*:*:*:*:*:*:*"
         }
       ],
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "exifread",
@@ -13789,7 +14943,16 @@
           "referenceLocator": "cpe:2.3:a:python:exifread:2.3.1:*:*:*:*:*:*:*"
         }
       ],
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Get_meta_information_of_images/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "actions/checkout",
@@ -13893,7 +15056,16 @@
           "referenceLocator": "cpe:2.3:a:python:cachecontrol:0.12.6:*:*:*:*:*:*:*"
         }
       ],
-      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt"
+      "sourceInfo": "acquired package info from installed python package manifest file: /projects/Instagram_profile/requirements.txt",
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
     },
     {
       "name": "com.github.Python-World/python-mini-projects",
@@ -13920,6 +15092,1410 @@
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "primaryPackagePurpose": "FILE"
+    },
+    {
+      "name": "projects/All_links_from_given_webpage/requirements.txt",
+      "SPDXID": "SPDXRef-Application-191bafc4be91c88",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Ascii_art/requirements.txt",
+      "SPDXID": "SPDXRef-Application-1c0055fde3eb0d7b",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Battery_notification/requirements.txt",
+      "SPDXID": "SPDXRef-Application-ff41434077b5b4de",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Bouncing_ball_simulator/requirements.txt",
+      "SPDXID": "SPDXRef-Application-5a5a9752f8a54a46",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Capture_Video_Frames/requirements.txt",
+      "SPDXID": "SPDXRef-Application-96aca71f7e779c8d",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Cli_todo/requirements.txt",
+      "SPDXID": "SPDXRef-Application-b392d3b6fe018267",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Convert_XML_To_JSON/requirements.txt",
+      "SPDXID": "SPDXRef-Application-b92afce58702b900",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Convert_a_image_to_pdf/requirements.txt",
+      "SPDXID": "SPDXRef-Application-2112c451ed148f19",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Create_a_script_to_encrypt_files_and_folder/requirements.txt",
+      "SPDXID": "SPDXRef-Application-9e8c1f4397dc8b3c",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Diff_Util/requirements.txt",
+      "SPDXID": "SPDXRef-Application-c590128d37e8e2f4",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Dns_record/requirements.txt",
+      "SPDXID": "SPDXRef-Application-676f78e0878bf9d4",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Dominant_color/requirements.txt",
+      "SPDXID": "SPDXRef-Application-c23d30328518dc0e",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Download_images_from_website/requirements.txt",
+      "SPDXID": "SPDXRef-Application-b23258b4117796a6",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/EasyVideoPlayer/requirements.txt",
+      "SPDXID": "SPDXRef-Application-f2c8f79480b18f91",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Encrypt_and_decrypt_text/requirements.txt",
+      "SPDXID": "SPDXRef-Application-68ed7e239dc8ab86",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Fetch HTTP status code/requirements.txt",
+      "SPDXID": "SPDXRef-Application-516412eda68a7465",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Fetch_and_store_tweets/requirements.txt",
+      "SPDXID": "SPDXRef-Application-822a5426a9672518",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Find_imdb_rating/requirements.txt",
+      "SPDXID": "SPDXRef-Application-eb024aa5688875c6",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Geocoding/requirements.txt",
+      "SPDXID": "SPDXRef-Application-4e40903d020384b3",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Get_meta_information_of_images/requirements.txt",
+      "SPDXID": "SPDXRef-Application-4095a62e35371d72",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Image_watermark/requirements.txt",
+      "SPDXID": "SPDXRef-Application-dfa9db5b15c18d4c",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Instagram_profile/requirements.txt",
+      "SPDXID": "SPDXRef-Application-377016c9e6fadad8",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Language_translator/requirements.txt",
+      "SPDXID": "SPDXRef-Application-b75ea1d2b9a4eae5",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Merge_csv_files/requirements.txt",
+      "SPDXID": "SPDXRef-Application-6899584f6673cd48",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Merge_pdfs/requirements.txt",
+      "SPDXID": "SPDXRef-Application-84c41eefeca8cdd5",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Movie Information Scraper/requirements.txt",
+      "SPDXID": "SPDXRef-Application-ad96c2392e88cc11",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Multi_language_OCR/requirements.txt",
+      "SPDXID": "SPDXRef-Application-fdcb7a826cdb8683",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Random_Wikipedia_Article/requirements.txt",
+      "SPDXID": "SPDXRef-Application-32d3c9cf74d955e8",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/S3_File_Upload/requirements.txt",
+      "SPDXID": "SPDXRef-Application-f3b92e61d6e7d87",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Scrape_quotes/requirements.txt",
+      "SPDXID": "SPDXRef-Application-c5d29f6e3c3bb497",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Scraping Medium Articles/requirements.txt",
+      "SPDXID": "SPDXRef-Application-12cde9d6ed44255a",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Snapshot_of_given_website/requirements.txt",
+      "SPDXID": "SPDXRef-Application-328e6cda168a485c",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Speech_to_text/requirements.txt",
+      "SPDXID": "SPDXRef-Application-2cbb04c11be82cb2",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Speed_Game/requirements.txt",
+      "SPDXID": "SPDXRef-Application-6381ced6da355597",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Split_File/requirements.txt",
+      "SPDXID": "SPDXRef-Application-63b2826e72469c4a",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Split_a_video_file_by_given_time_period/requirements.txt",
+      "SPDXID": "SPDXRef-Application-4799758d0eb6e81d",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Terminal_progress_bar_with_images_resizing/requirements.txt",
+      "SPDXID": "SPDXRef-Application-c58e0ce2211a23fb",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Text_to_speech/requirements.txt",
+      "SPDXID": "SPDXRef-Application-1a0c2f5317c2124f",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Todo_app/requirements.txt",
+      "SPDXID": "SPDXRef-Application-5d4592b9102e57a7",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Web_page_summation/requirements.txt",
+      "SPDXID": "SPDXRef-Application-5ead4c0df76c1514",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Web_scraping_a_youtube_comment/requirements.txt",
+      "SPDXID": "SPDXRef-Application-19089338552254ec",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/Wikipedia_search_wordcloud/requirements.txt",
+      "SPDXID": "SPDXRef-Application-6337a0b4ac08d2be",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/XKCD_downloader/requirements.txt",
+      "SPDXID": "SPDXRef-Application-c11793ad7f6e1f3e",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/capture_screenshot/requirements.txt",
+      "SPDXID": "SPDXRef-Application-6cde8e44481f1cf3",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/cli_proxy_tester/requirements.txt",
+      "SPDXID": "SPDXRef-Application-12939aa82beaaac0",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/convert_Imgs/requirements.txt",
+      "SPDXID": "SPDXRef-Application-49a851241bf283a3",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/convert_png_images_to_ico_format/requirements.txt",
+      "SPDXID": "SPDXRef-Application-420f5b55eaec428c",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/detect_align_faces/requirements.txt",
+      "SPDXID": "SPDXRef-Application-b2494d2410b10f7d",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/download GeeksForGeeks articles/requirements.txt",
+      "SPDXID": "SPDXRef-Application-9ec1c3640112b4bb",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "SPDXID": "SPDXRef-Application-d51688e34d7b1a49",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/racing_barchart_animation/requirements.txt",
+      "SPDXID": "SPDXRef-Application-9ec25ddcfe1bbed4",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "projects/steganography/requirements.txt",
+      "SPDXID": "SPDXRef-Application-69152c3f28eaf09e",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        }
+      ]
+    },
+    {
+      "name": "Flask",
+      "SPDXID": "SPDXRef-Package-aff38a679d5b4559",
+      "versionInfo": "1.1.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/Todo_app/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/flask@1.1.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "Flask-SQLAlchemy",
+      "SPDXID": "SPDXRef-Package-11cbbef457c86336",
+      "versionInfo": "2.4.4",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/Todo_app/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/flask-sqlalchemy@2.4.4"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "HTMLParser",
+      "SPDXID": "SPDXRef-Package-cb970b951e2037f1",
+      "versionInfo": "0.0.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/Random_Wikipedia_Article/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/htmlparser@0.0.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "SPDXID": "SPDXRef-Package-b59551b4ae75843d",
+      "versionInfo": "3.0.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/jinja2@3.0.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "MarkupSafe",
+      "SPDXID": "SPDXRef-Package-b3d4aed4b58f0317",
+      "versionInfo": "2.0.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/markupsafe@2.0.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "PyAudio",
+      "SPDXID": "SPDXRef-Package-50c227fe995b583a",
+      "versionInfo": "0.2.11",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/Speech_to_text/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyaudio@0.2.11"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "PyAutoGUI",
+      "SPDXID": "SPDXRef-Package-60bb98ec6464e94f",
+      "versionInfo": "0.9.50",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/capture_screenshot/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyautogui@0.9.50"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "PyMySQL",
+      "SPDXID": "SPDXRef-Package-1eee91baed9253b",
+      "versionInfo": "1.0.2",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/export_mysql_to_csv_send_to_wocom/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pymysql@1.0.2"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "PyPDF2",
+      "SPDXID": "SPDXRef-Package-db5c42b19dd52b8",
+      "versionInfo": "1.26.0",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/Merge_pdfs/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pypdf2@1.26.0"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "SpeechRecognition",
+      "SPDXID": "SPDXRef-Package-be672e4a0eff8b52",
+      "versionInfo": "3.8.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/Speech_to_text/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/speechrecognition@3.8.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": "gTTS",
+      "SPDXID": "SPDXRef-Package-e0778e531f8dbc35",
+      "versionInfo": "2.1.1",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "sourceInfo": "package found in: projects/Text_to_speech/requirements.txt",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/gtts@2.1.1"
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        }
+      ]
+    },
+    {
+      "name": ".",
+      "SPDXID": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "SOURCE",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-21T19:07:31Z",
+          "annotationType": "OTHER",
+          "comment": "SchemaVersion: 2"
+        }
+      ]
     }
   ],
   "files": [
