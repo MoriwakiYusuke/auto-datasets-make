@@ -253,17 +253,6 @@
       ]
     },
     {
-      "name": "./",
-      "SPDXID": "SPDXRef-DocumentRoot-Directory-.-",
-      "supplier": "NOASSERTION",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "primaryPackagePurpose": "FILE"
-    },
-    {
       "name": "com.github.MoriwakiYusuke/sbom-python-test",
       "SPDXID": "SPDXRef-github-MoriwakiYusuke-sbom-python-test-main-854ef6",
       "versionInfo": "main",
@@ -276,6 +265,17 @@
           "referenceLocator": "pkg:github/MoriwakiYusuke/sbom-python-test@main"
         }
       ]
+    },
+    {
+      "name": "./",
+      "SPDXID": "SPDXRef-DocumentRoot-Directory-.-",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "primaryPackagePurpose": "FILE"
     }
   ],
   "files": [

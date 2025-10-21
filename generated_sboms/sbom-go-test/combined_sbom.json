@@ -255,6 +255,20 @@
       ]
     },
     {
+      "name": "com.github.MoriwakiYusuke/sbom-go-test",
+      "SPDXID": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
+      "versionInfo": "main",
+      "downloadLocation": "git+https://github.com/MoriwakiYusuke/sbom-go-test",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/MoriwakiYusuke/sbom-go-test@main"
+        }
+      ]
+    },
+    {
       "name": "stdlib",
       "SPDXID": "SPDXRef-Package-go-module-stdlib-c978b9355c05a296",
       "versionInfo": "go1.25.2",
@@ -288,20 +302,6 @@
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
       "primaryPackagePurpose": "FILE"
-    },
-    {
-      "name": "com.github.MoriwakiYusuke/sbom-go-test",
-      "SPDXID": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "versionInfo": "main",
-      "downloadLocation": "git+https://github.com/MoriwakiYusuke/sbom-go-test",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:github/MoriwakiYusuke/sbom-go-test@main"
-        }
-      ]
     }
   ],
   "files": [
