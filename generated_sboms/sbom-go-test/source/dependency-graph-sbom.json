@@ -3,92 +3,82 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "com.github.MoriwakiYusuke/sbom-go-test",
-  "documentNamespace": "https://spdx.org/spdxdocs/protobom/3bf2eaa1-0890-4545-9329-210b3ab14d37",
+  "documentNamespace": "https://spdx.org/spdxdocs/protobom/2c17c9c2-da36-4922-9010-112626cc5a9f",
   "creationInfo": {
     "creators": [
       "Tool: protobom-v0.0.0-20251021181738-79ed14d77102+dirty",
       "Tool: GitHub.com-Dependency-Graph"
     ],
-    "created": "2025-10-21T20:22:09Z"
+    "created": "2025-10-25T06:15:31Z"
   },
   "packages": [
     {
       "name": "github.com/mattn/go-isatty",
-      "SPDXID": "SPDXRef-golang-github.commattn-go-isatty-v0.0.20-75c946",
-      "versionInfo": "v0.0.20",
+      "SPDXID": "SPDXRef-golang-github.commattn-go-isatty-0.0.20-75c946",
+      "versionInfo": "0.0.20",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "MIT",
-      "copyrightText": "Copyright (c) Yasuhiro MATSUMOTO <mattn.jp@gmail.com>",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:golang/github.com/mattn/go-isatty@v0.0.20"
+          "referenceLocator": "pkg:golang/github.com/mattn/go-isatty@0.0.20"
         }
       ]
     },
     {
       "name": "github.com/common-nighthawk/go-figure",
-      "SPDXID": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-v0.0.0-20210622060536-734e95fb86be-75c946",
-      "versionInfo": "v0.0.0-20210622060536-734e95fb86be",
+      "SPDXID": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-0.0.0-20210622060536-734e95fb86be-75c946",
+      "versionInfo": "0.0.0-20210622060536-734e95fb86be",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "MIT",
-      "copyrightText": "(c) 1994 by Victor Parada (vparada@inf.utfsm.cl), (c) Michel Eftimakis 1995, Copyright (c) 2018 Daniel Deutsch, copyright 1993, RSA Laboratories Specifically",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:golang/github.com/common-nighthawk/go-figure@v0.0.0-20210622060536-734e95fb86be"
+          "referenceLocator": "pkg:golang/github.com/common-nighthawk/go-figure@0.0.0-20210622060536-734e95fb86be"
         }
       ]
     },
     {
       "name": "github.com/fatih/color",
-      "SPDXID": "SPDXRef-golang-github.comfatih-color-v1.18.0-75c946",
-      "versionInfo": "v1.18.0",
+      "SPDXID": "SPDXRef-golang-github.comfatih-color-1.18.0-75c946",
+      "versionInfo": "1.18.0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "MIT",
-      "copyrightText": "Copyright (c) 2013 Fatih Arslan",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:golang/github.com/fatih/color@v1.18.0"
+          "referenceLocator": "pkg:golang/github.com/fatih/color@1.18.0"
         }
       ]
     },
     {
       "name": "github.com/mattn/go-colorable",
-      "SPDXID": "SPDXRef-golang-github.commattn-go-colorable-v0.1.14-75c946",
-      "versionInfo": "v0.1.14",
+      "SPDXID": "SPDXRef-golang-github.commattn-go-colorable-0.1.14-75c946",
+      "versionInfo": "0.1.14",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "MIT",
-      "copyrightText": "Copyright (c) 2016 Yasuhiro Matsumoto",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:golang/github.com/mattn/go-colorable@v0.1.14"
+          "referenceLocator": "pkg:golang/github.com/mattn/go-colorable@0.1.14"
         }
       ]
     },
     {
       "name": "golang.org/x/sys",
-      "SPDXID": "SPDXRef-golang-golang.orgx-sys-v0.36.0-75c946",
-      "versionInfo": "v0.36.0",
+      "SPDXID": "SPDXRef-golang-golang.orgx-sys-0.36.0-75c946",
+      "versionInfo": "0.36.0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang",
-      "copyrightText": "Copyright 2009 The Go Authors, Copyright 2009,2010 The Go Authors, Copyright 2010 The Go Authors, Copyright 2011 The Go Authors, Copyright 2012 The Go Authors, Copyright 2013 The Go Authors, Copyright 2014 The Go Authors, Copyright 2015 The Go Authors, Copyright 2016 The Go Authors, Copyright 2017 The Go Authors, Copyright 2018 The Go Authors, Copyright 2019 The Go Authors, Copyright 2020 The Go Authors, Copyright 2021 The Go Authors, Copyright 2022 The Go Authors, Copyright 2023 The Go Authors, Copyright 2024 The Go Authors, Copyright 2025 The Go Authors",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:golang/golang.org/x/sys@v0.36.0"
+          "referenceLocator": "pkg:golang/golang.org/x/sys@0.36.0"
         }
       ]
     },
@@ -110,27 +100,27 @@
   "relationships": [
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-github.commattn-go-isatty-v0.0.20-75c946",
+      "relatedSpdxElement": "SPDXRef-golang-github.commattn-go-colorable-0.1.14-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-v0.0.0-20210622060536-734e95fb86be-75c946",
+      "relatedSpdxElement": "SPDXRef-golang-golang.orgx-sys-0.36.0-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-github.comfatih-color-v1.18.0-75c946",
+      "relatedSpdxElement": "SPDXRef-golang-github.commattn-go-isatty-0.0.20-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-github.commattn-go-colorable-v0.1.14-75c946",
+      "relatedSpdxElement": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-0.0.0-20210622060536-734e95fb86be-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-golang.orgx-sys-v0.36.0-75c946",
+      "relatedSpdxElement": "SPDXRef-golang-github.comfatih-color-1.18.0-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
