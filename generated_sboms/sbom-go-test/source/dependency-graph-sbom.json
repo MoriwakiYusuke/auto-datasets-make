@@ -3,15 +3,43 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "com.github.MoriwakiYusuke/sbom-go-test",
-  "documentNamespace": "https://spdx.org/spdxdocs/protobom/175be09a-e719-48a9-b756-74fe1055c63a",
+  "documentNamespace": "https://spdx.org/spdxdocs/protobom/93ee0290-2f51-4585-942b-f0310b336082",
   "creationInfo": {
     "creators": [
       "Tool: protobom-v0.0.0-20251021181738-79ed14d77102+dirty",
       "Tool: GitHub.com-Dependency-Graph"
     ],
-    "created": "2025-10-26T17:34:46Z"
+    "created": "2025-10-26T18:54:11Z"
   },
   "packages": [
+    {
+      "name": "github.com/common-nighthawk/go-figure",
+      "SPDXID": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-0.0.0-20210622060536-734e95fb86be-75c946",
+      "versionInfo": "0.0.0-20210622060536-734e95fb86be",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/github.com/common-nighthawk/go-figure@0.0.0-20210622060536-734e95fb86be"
+        }
+      ]
+    },
+    {
+      "name": "github.com/fatih/color",
+      "SPDXID": "SPDXRef-golang-github.comfatih-color-1.18.0-75c946",
+      "versionInfo": "1.18.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/github.com/fatih/color@1.18.0"
+        }
+      ]
+    },
     {
       "name": "github.com/mattn/go-colorable",
       "SPDXID": "SPDXRef-golang-github.commattn-go-colorable-0.1.14-75c946",
@@ -55,34 +83,6 @@
       ]
     },
     {
-      "name": "github.com/common-nighthawk/go-figure",
-      "SPDXID": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-0.0.0-20210622060536-734e95fb86be-75c946",
-      "versionInfo": "0.0.0-20210622060536-734e95fb86be",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:golang/github.com/common-nighthawk/go-figure@0.0.0-20210622060536-734e95fb86be"
-        }
-      ]
-    },
-    {
-      "name": "github.com/fatih/color",
-      "SPDXID": "SPDXRef-golang-github.comfatih-color-1.18.0-75c946",
-      "versionInfo": "1.18.0",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:golang/github.com/fatih/color@1.18.0"
-        }
-      ]
-    },
-    {
       "name": "com.github.MoriwakiYusuke/sbom-go-test",
       "SPDXID": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
       "versionInfo": "main",
@@ -100,6 +100,16 @@
   "relationships": [
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
+      "relatedSpdxElement": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-0.0.0-20210622060536-734e95fb86be-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
+      "relatedSpdxElement": "SPDXRef-golang-github.comfatih-color-1.18.0-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
       "relatedSpdxElement": "SPDXRef-golang-github.commattn-go-colorable-0.1.14-75c946",
       "relationshipType": "DEPENDS_ON"
     },
@@ -111,16 +121,6 @@
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
       "relatedSpdxElement": "SPDXRef-golang-github.commattn-go-isatty-0.0.20-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-github.comcommon-nighthawk-go-figure-0.0.0-20210622060536-734e95fb86be-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relatedSpdxElement": "SPDXRef-golang-github.comfatih-color-1.18.0-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {

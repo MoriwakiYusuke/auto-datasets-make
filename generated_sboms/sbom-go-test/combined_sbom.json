@@ -2,7 +2,7 @@
   "SPDXID": "SPDXRef-DOCUMENT",
   "spdxVersion": "SPDX-2.2",
   "creationInfo": {
-    "created": "2025-10-26T17:34:37Z",
+    "created": "2025-10-26T18:54:03Z",
     "creators": [
       "Organization: MoriwakiYusuke",
       "Tool: Microsoft.SBOMTool-4.1.1",
@@ -16,7 +16,7 @@
   },
   "name": "sbom-go-test latest",
   "dataLicense": "CC0-1.0",
-  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-346e914b-fa1e-4534-868a-097ce44d6fe5/sbom-go-test/latest/IjBfChawf0GCUWje3mzCJg",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-ea2a89d5-964f-46d7-9c4b-d1e947e8a6e8/sbom-go-test/latest/M44JRqvQJECv8KSfGUlHIQ",
   "documentDescribes": [
     "SPDXRef-RootPackage"
   ],
@@ -31,6 +31,89 @@
     }
   ],
   "packages": [
+    {
+      "name": "github.com/fatih/color",
+      "SPDXID": "SPDXRef-Package-52F89DD26BCD52CC6CD15E2D080A4095EA14639C08D7E8F369E0476F4EAC7E25",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "v1.18.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/github.com/fatih/color@v1.18.0"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:fatih:color:v1.18.0:*:*:*:*:*:*:*"
+        }
+      ],
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from go module information: /bin/myapp",
+      "annotations": [
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
+        },
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (primaryPackagePurpose) were supplemented by trivy."
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY"
+    },
+    {
+      "name": "github.com/mattn/go-colorable",
+      "SPDXID": "SPDXRef-Package-B93BB7AC428AAF888F8C4843F354A320768E44285BBE34166FE80346F10D8D14",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "v0.1.14",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/github.com/mattn/go-colorable@v0.1.14"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:mattn:go-colorable:v0.1.14:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:mattn:go_colorable:v0.1.14:*:*:*:*:*:*:*"
+        }
+      ],
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from go module information: /bin/myapp",
+      "annotations": [
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
+        },
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (primaryPackagePurpose) were supplemented by trivy."
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY"
+    },
     {
       "name": "github.com/common-nighthawk/go-figure",
       "SPDXID": "SPDXRef-Package-DD8DF298C6A171D5EF5EF7741EC58933BB3FB73F24B9C6BD9CF726D252F87413",
@@ -79,65 +162,21 @@
       ],
       "supplier": "NOASSERTION",
       "sourceInfo": "acquired package info from go module information: /bin/myapp",
-      "primaryPackagePurpose": "LIBRARY",
       "annotations": [
         {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:14Z",
           "annotationType": "OTHER",
-          "comment": "PkgID: github.com/common-nighthawk/go-figure@v0.0.0-20210622060536-734e95fb86be"
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
         },
         {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:14Z",
           "annotationType": "OTHER",
-          "comment": "PkgType: gomod"
-        }
-      ]
-    },
-    {
-      "name": "github.com/mattn/go-colorable",
-      "SPDXID": "SPDXRef-Package-B93BB7AC428AAF888F8C4843F354A320768E44285BBE34166FE80346F10D8D14",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "versionInfo": "v0.1.14",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:golang/github.com/mattn/go-colorable@v0.1.14"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:mattn:go-colorable:v0.1.14:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:mattn:go_colorable:v0.1.14:*:*:*:*:*:*:*"
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (primaryPackagePurpose) were supplemented by trivy."
         }
       ],
-      "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from go module information: /bin/myapp",
-      "primaryPackagePurpose": "LIBRARY",
-      "annotations": [
-        {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
-          "annotationType": "OTHER",
-          "comment": "PkgID: github.com/mattn/go-colorable@v0.1.14"
-        },
-        {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
-          "annotationType": "OTHER",
-          "comment": "PkgType: gomod"
-        }
-      ]
+      "primaryPackagePurpose": "LIBRARY"
     },
     {
       "name": "github.com/mattn/go-isatty",
@@ -167,21 +206,21 @@
       ],
       "supplier": "NOASSERTION",
       "sourceInfo": "acquired package info from go module information: /bin/myapp",
-      "primaryPackagePurpose": "LIBRARY",
       "annotations": [
         {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:14Z",
           "annotationType": "OTHER",
-          "comment": "PkgID: github.com/mattn/go-isatty@v0.0.20"
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
         },
         {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:14Z",
           "annotationType": "OTHER",
-          "comment": "PkgType: gomod"
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (primaryPackagePurpose) were supplemented by trivy."
         }
-      ]
+      ],
+      "primaryPackagePurpose": "LIBRARY"
     },
     {
       "name": "golang.org/x/sys",
@@ -206,60 +245,21 @@
       ],
       "supplier": "NOASSERTION",
       "sourceInfo": "acquired package info from go module information: /bin/myapp",
-      "primaryPackagePurpose": "LIBRARY",
       "annotations": [
         {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:14Z",
           "annotationType": "OTHER",
-          "comment": "PkgID: golang.org/x/sys@v0.36.0"
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
         },
         {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:14Z",
           "annotationType": "OTHER",
-          "comment": "PkgType: gomod"
-        }
-      ]
-    },
-    {
-      "name": "github.com/fatih/color",
-      "SPDXID": "SPDXRef-Package-52F89DD26BCD52CC6CD15E2D080A4095EA14639C08D7E8F369E0476F4EAC7E25",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "versionInfo": "v1.18.0",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:golang/github.com/fatih/color@v1.18.0"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:fatih:color:v1.18.0:*:*:*:*:*:*:*"
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (primaryPackagePurpose) were supplemented by trivy."
         }
       ],
-      "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from go module information: /bin/myapp",
-      "primaryPackagePurpose": "LIBRARY",
-      "annotations": [
-        {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
-          "annotationType": "OTHER",
-          "comment": "PkgID: github.com/fatih/color@v1.18.0"
-        },
-        {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
-          "annotationType": "OTHER",
-          "comment": "PkgType: gomod"
-        }
-      ]
+      "primaryPackagePurpose": "LIBRARY"
     },
     {
       "name": "sbom-go-test",
@@ -280,25 +280,25 @@
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/sbom-go-test@latest?tag_id=909d1740-8edd-4cfb-b9fd-b732ee1ad91a"
+          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/sbom-go-test@latest?tag_id=0ecac304-9220-4c17-9267-88a44ed85ecb"
         }
       ],
       "supplier": "Organization: MoriwakiYusuke",
       "hasFiles": [
         "SPDXRef-File--cmd-myapp-main.go-3DEF8BB911AA12B62D29A1094E89B156FD1C53CD",
         "SPDXRef-File--bin-myapp-FC655278FFE2DA8E680691EA6C22D9834414351E",
+        "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
+        "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A",
         "SPDXRef-File--internal-mylibrary.go-2FB188E69B9CF16B5E96CD8041997F53FD8F2B9C",
         "SPDXRef-File--sbom-outputs-github-dependency-MoriwakiYusuke-sbom-go-test-d4746d.json-6488322561C56895C8445CD2D4D821C7B46C3D92",
-        "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
-        "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A",
-        "SPDXRef-File--README.md-447F33BE9CC0AA2325596C981D1D6A201B6FB012",
-        "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
-        "SPDXRef-File--.gitignore-61D82BFE9731BA123E6B4BE7A430B7EC08EB475F",
-        "SPDXRef-File--result.json-EE83A4D544957A9E8E9EF9265BA3801861E58269",
-        "SPDXRef-File--go.sum-A798677794446695508882928CA05ACF2897F925",
         "SPDXRef-File--sbom-outputs-syft-sbom.json-97C7B1FBDB3CBA4853F02C634D2FAF7BF9D55551",
+        "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
+        "SPDXRef-File--.gitignore-61D82BFE9731BA123E6B4BE7A430B7EC08EB475F",
         "SPDXRef-File--Makefile-95E2D8A1947EC309D422891D8CEF5F399F0D48BA",
+        "SPDXRef-File--result.json-EE83A4D544957A9E8E9EF9265BA3801861E58269",
         "SPDXRef-File--go.mod-5259E954C64D8E4DF74677D270567F81FE7FBE72",
+        "SPDXRef-File--README.md-447F33BE9CC0AA2325596C981D1D6A201B6FB012",
+        "SPDXRef-File--go.sum-A798677794446695508882928CA05ACF2897F925",
         "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
       ]
     },
@@ -313,6 +313,14 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:github/MoriwakiYusuke/sbom-go-test@main"
+        }
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from dependency-graph."
         }
       ]
     },
@@ -338,6 +346,14 @@
           "referenceType": "purl",
           "referenceLocator": "pkg:golang/stdlib@1.25.2"
         }
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from syft."
+        }
       ]
     },
     {
@@ -349,7 +365,15 @@
       "licenseConcluded": "NOASSERTION",
       "licenseDeclared": "NOASSERTION",
       "copyrightText": "NOASSERTION",
-      "primaryPackagePurpose": "FILE"
+      "primaryPackagePurpose": "FILE",
+      "annotations": [
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from syft."
+        }
+      ]
     },
     {
       "name": "go.mod",
@@ -360,15 +384,21 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:13Z",
           "annotationType": "OTHER",
           "comment": "Class: lang-pkgs"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:13Z",
           "annotationType": "OTHER",
           "comment": "Type: gomod"
+        },
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from trivy."
         }
       ]
     },
@@ -381,9 +411,15 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-26T17:34:49Z",
+          "annotationDate": "2025-10-26T18:54:13Z",
           "annotationType": "OTHER",
           "comment": "SchemaVersion: 2"
+        },
+        {
+          "annotationDate": "2025-10-26T18:54:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from trivy."
         }
       ]
     }
@@ -412,28 +448,6 @@
       ]
     },
     {
-      "fileName": "./go.mod",
-      "SPDXID": "SPDXRef-File--go.mod-5259E954C64D8E4DF74677D270567F81FE7FBE72",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "49784d644ecc7e9811073b82cb4a2ad92e0682ee92f5d2f756ec983fec188095"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "5259e954c64d8e4df74677d270567f81fe7fbe72"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "OTHER"
-      ]
-    },
-    {
       "fileName": "./go.sum",
       "SPDXID": "SPDXRef-File--go.sum-A798677794446695508882928CA05ACF2897F925",
       "checksums": [
@@ -456,16 +470,16 @@
       ]
     },
     {
-      "fileName": "./Makefile",
-      "SPDXID": "SPDXRef-File--Makefile-95E2D8A1947EC309D422891D8CEF5F399F0D48BA",
+      "fileName": "./go.mod",
+      "SPDXID": "SPDXRef-File--go.mod-5259E954C64D8E4DF74677D270567F81FE7FBE72",
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "53e6d289f87bd7582143f842a43e599031242fa9d57d3f43040fc7b2d494d438"
+          "checksumValue": "49784d644ecc7e9811073b82cb4a2ad92e0682ee92f5d2f756ec983fec188095"
         },
         {
           "algorithm": "SHA1",
-          "checksumValue": "95e2d8a1947ec309d422891d8cef5f399f0d48ba"
+          "checksumValue": "5259e954c64d8e4df74677d270567f81fe7fbe72"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -478,16 +492,16 @@
       ]
     },
     {
-      "fileName": "./result.json",
-      "SPDXID": "SPDXRef-File--result.json-EE83A4D544957A9E8E9EF9265BA3801861E58269",
+      "fileName": "./Makefile",
+      "SPDXID": "SPDXRef-File--Makefile-95E2D8A1947EC309D422891D8CEF5F399F0D48BA",
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "b7ea8afed69bf7331be5c039e6c1de659fa77d63dad97728113331aa72f08c90"
+          "checksumValue": "53e6d289f87bd7582143f842a43e599031242fa9d57d3f43040fc7b2d494d438"
         },
         {
           "algorithm": "SHA1",
-          "checksumValue": "ee83a4d544957a9e8e9ef9265ba3801861e58269"
+          "checksumValue": "95e2d8a1947ec309d422891d8cef5f399f0d48ba"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -544,16 +558,16 @@
       ]
     },
     {
-      "fileName": "./sbom-outputs/sbom-tool/spdx_2.2/manifest.spdx.json.sha256",
-      "SPDXID": "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
+      "fileName": "./sbom-outputs/github-dependency/MoriwakiYusuke_sbom-go-test_d4746d.json",
+      "SPDXID": "SPDXRef-File--sbom-outputs-github-dependency-MoriwakiYusuke-sbom-go-test-d4746d.json-6488322561C56895C8445CD2D4D821C7B46C3D92",
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "8ed22e889f569c139d819b8cd6e447ae897bb2337ec30725e737bd1fcc321c18"
+          "checksumValue": "da136bc3788a645bddfc80173a28c9ef0a4b2ea6c4942a01ae11c9442bda90d6"
         },
         {
           "algorithm": "SHA1",
-          "checksumValue": "4c3f68749bef418e8580338ba4ec107defb524ea"
+          "checksumValue": "6488322561c56895c8445cd2d4d821c7b46c3d92"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -566,8 +580,52 @@
       ]
     },
     {
-      "fileName": "./bin/_manifest/spdx_2.2/manifest.spdx.json.sha256",
-      "SPDXID": "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
+      "fileName": "./result.json",
+      "SPDXID": "SPDXRef-File--result.json-EE83A4D544957A9E8E9EF9265BA3801861E58269",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b7ea8afed69bf7331be5c039e6c1de659fa77d63dad97728113331aa72f08c90"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ee83a4d544957a9e8e9ef9265ba3801861e58269"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
+    },
+    {
+      "fileName": "./internal/mylibrary.go",
+      "SPDXID": "SPDXRef-File--internal-mylibrary.go-2FB188E69B9CF16B5E96CD8041997F53FD8F2B9C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c9f99198799671b886fc811ba0032392a6fb75572da08022254b98f1848117e9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2fb188e69b9cf16b5e96cd8041997f53fd8f2b9c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SOURCE"
+      ]
+    },
+    {
+      "fileName": "./sbom-outputs/sbom-tool/spdx_2.2/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
       "checksums": [
         {
           "algorithm": "SHA256",
@@ -610,38 +668,16 @@
       ]
     },
     {
-      "fileName": "./internal/mylibrary.go",
-      "SPDXID": "SPDXRef-File--internal-mylibrary.go-2FB188E69B9CF16B5E96CD8041997F53FD8F2B9C",
+      "fileName": "./bin/_manifest/spdx_2.2/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "c9f99198799671b886fc811ba0032392a6fb75572da08022254b98f1848117e9"
+          "checksumValue": "8ed22e889f569c139d819b8cd6e447ae897bb2337ec30725e737bd1fcc321c18"
         },
         {
           "algorithm": "SHA1",
-          "checksumValue": "2fb188e69b9cf16b5e96cd8041997f53fd8f2b9c"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "SOURCE"
-      ]
-    },
-    {
-      "fileName": "./sbom-outputs/github-dependency/MoriwakiYusuke_sbom-go-test_d4746d.json",
-      "SPDXID": "SPDXRef-File--sbom-outputs-github-dependency-MoriwakiYusuke-sbom-go-test-d4746d.json-6488322561C56895C8445CD2D4D821C7B46C3D92",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "da136bc3788a645bddfc80173a28c9ef0a4b2ea6c4942a01ae11c9442bda90d6"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "6488322561c56895c8445cd2d4d821c7b46c3d92"
+          "checksumValue": "4c3f68749bef418e8580338ba4ec107defb524ea"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -722,16 +758,6 @@
   ],
   "relationships": [
     {
-      "relationshipType": "DEPENDS_ON",
-      "relatedSpdxElement": "SPDXRef-Package-52F89DD26BCD52CC6CD15E2D080A4095EA14639C08D7E8F369E0476F4EAC7E25",
-      "spdxElementId": "SPDXRef-RootPackage"
-    },
-    {
-      "relationshipType": "DESCRIBED_BY",
-      "relatedSpdxElement": "SPDXRef-DOCUMENT",
-      "spdxElementId": "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
-    },
-    {
       "relationshipType": "DESCRIBES",
       "relatedSpdxElement": "SPDXRef-RootPackage",
       "spdxElementId": "SPDXRef-DOCUMENT"
@@ -739,16 +765,21 @@
     {
       "relationshipType": "DESCRIBED_BY",
       "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
       "spdxElementId": "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
     },
     {
-      "relationshipType": "DEPENDS_ON",
-      "relatedSpdxElement": "SPDXRef-Package-C212AC463FC1D129862FD698745077DF4846A91C27CF21F217E9F0E7A4B16453",
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-sbom-go-test-1.0.0-68abcf9495ef05a874b59fac288147297f8c225a:SPDXRef-RootPackage",
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
       "relationshipType": "DEPENDS_ON",
-      "relatedSpdxElement": "SPDXRef-Package-B93BB7AC428AAF888F8C4843F354A320768E44285BBE34166FE80346F10D8D14",
+      "relatedSpdxElement": "SPDXRef-Package-C212AC463FC1D129862FD698745077DF4846A91C27CF21F217E9F0E7A4B16453",
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
@@ -762,34 +793,44 @@
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
-      "relationshipType": "PREREQUISITE_FOR",
-      "relatedSpdxElement": "DocumentRef-sbom-go-test-1.0.0-68abcf9495ef05a874b59fac288147297f8c225a:SPDXRef-RootPackage",
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-52F89DD26BCD52CC6CD15E2D080A4095EA14639C08D7E8F369E0476F4EAC7E25",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B93BB7AC428AAF888F8C4843F354A320768E44285BBE34166FE80346F10D8D14",
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
       "spdxElementId": "SPDXRef-RootPackage",
       "relatedSpdxElement": "SPDXRef-github-MoriwakiYusuke-sbom-go-test-main-5d94fc",
-      "relationshipType": "DESCRIBES"
+      "relationshipType": "DESCRIBES",
+      "comment": "Relationship added from dependency-graph."
     },
     {
       "spdxElementId": "SPDXRef-RootPackage",
       "relatedSpdxElement": "SPDXRef-Package-go-module-stdlib-c978b9355c05a296",
-      "relationshipType": "CONTAINS"
+      "relationshipType": "CONTAINS",
+      "comment": "Relationship added from syft."
     },
     {
       "spdxElementId": "SPDXRef-RootPackage",
       "relatedSpdxElement": "SPDXRef-DocumentRoot-Directory-.-",
-      "relationshipType": "DESCRIBES"
+      "relationshipType": "DESCRIBES",
+      "comment": "Relationship added from syft."
     },
     {
       "spdxElementId": "SPDXRef-RootPackage",
       "relatedSpdxElement": "SPDXRef-Application-e90da172ca54b427",
-      "relationshipType": "CONTAINS"
+      "relationshipType": "CONTAINS",
+      "comment": "Relationship added from trivy."
     },
     {
       "spdxElementId": "SPDXRef-RootPackage",
       "relatedSpdxElement": "SPDXRef-Filesystem-1465386cfbe4e9c7",
-      "relationshipType": "DESCRIBES"
+      "relationshipType": "DESCRIBES",
+      "comment": "Relationship added from trivy."
     }
   ]
 }
