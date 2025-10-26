@@ -42,28 +42,6 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "fileName": "./sbom-output/sbom-tool/spdx3.0/_manifest/spdx_3.0/manifest.spdx.json",
-      "SPDXID": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "38ea494f5a5a89b7e0576a75a4f3eb86ae9f8a36a45761c00c56eae245cd35ea"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "2b1dcef041a2f2939d933300884beea1e5e41528"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "SPDX"
-      ]
-    },
-    {
       "fileName": "./README.md",
       "SPDXID": "SPDXRef-File--README.md-291309F1E649BC1180F3F5D4303BCBCE7C20031D",
       "checksums": [
@@ -74,6 +52,25 @@
         {
           "algorithm": "SHA1",
           "checksumValue": "291309f1e649bc1180f3f5d4303bcbce7c20031d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48b33f9f89ef24f8a66f461ea9278e7ecf21b4660c26088989d231e53c578724"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b24ae32103d320a5effb06ba5efed637fcf86000"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -121,16 +118,35 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "fileName": "./.gitignore",
-      "SPDXID": "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
+      "fileName": "./sbom-output/trivy/spdx-json-by-trivy.json",
+      "SPDXID": "SPDXRef-File--sbom-output-trivy-spdx-json-by-trivy.json-E5D980377D81FB466FE2936589529A4B98393B29",
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "48b33f9f89ef24f8a66f461ea9278e7ecf21b4660c26088989d231e53c578724"
+          "checksumValue": "9b12d234d2ae91873cd689febc8de8faa0576c0f395eed3215b65a939c13f5ba"
         },
         {
           "algorithm": "SHA1",
-          "checksumValue": "b24ae32103d320a5effb06ba5efed637fcf86000"
+          "checksumValue": "e5d980377d81fb466fe2936589529a4b98393b29"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main.py",
+      "SPDXID": "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5444926fa0a06f83c79ec550125aff9675a74e6a1102d14f91c74a4f02d29191"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5deff20a435a3b7f20020cab12e32504c3138134"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -178,63 +194,29 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "fileName": "./sbom-output/trivy/spdx-json-by-trivy.json",
-      "SPDXID": "SPDXRef-File--sbom-output-trivy-spdx-json-by-trivy.json-E5D980377D81FB466FE2936589529A4B98393B29",
+      "fileName": "./sbom-output/sbom-tool/spdx3.0/_manifest/spdx_3.0/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528",
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "9b12d234d2ae91873cd689febc8de8faa0576c0f395eed3215b65a939c13f5ba"
+          "checksumValue": "38ea494f5a5a89b7e0576a75a4f3eb86ae9f8a36a45761c00c56eae245cd35ea"
         },
         {
           "algorithm": "SHA1",
-          "checksumValue": "e5d980377d81fb466fe2936589529a4b98393b29"
+          "checksumValue": "2b1dcef041a2f2939d933300884beea1e5e41528"
         }
       ],
       "licenseConcluded": "NOASSERTION",
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
-    },
-    {
-      "fileName": "./src/main.py",
-      "SPDXID": "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "5444926fa0a06f83c79ec550125aff9675a74e6a1102d14f91c74a4f02d29191"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "5deff20a435a3b7f20020cab12e32504c3138134"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
     }
   ],
   "packages": [
-    {
-      "name": "colorama",
-      "SPDXID": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "versionInfo": "0.4.6",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/colorama@0.4.6"
-        }
-      ],
-      "supplier": "NOASSERTION"
-    },
     {
       "name": "pyfiglet",
       "SPDXID": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
@@ -249,6 +231,24 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:pypi/pyfiglet@1.0.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "colorama",
+      "SPDXID": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/colorama@0.4.6"
         }
       ],
       "supplier": "NOASSERTION"
@@ -272,21 +272,21 @@
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/sbom-python-test@latest?tag_id=a13ed90b-109b-4237-8046-0ad8fd9b496a"
+          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/sbom-python-test@latest?tag_id=246d1f6f-592b-4131-ad26-569263339e11"
         }
       ],
       "supplier": "Organization: MoriwakiYusuke",
       "hasFiles": [
-        "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
-        "SPDXRef-File--sbom-output-syft-sbom.json-EBD4E34A2D7DEBDE30B1E9ABE09198A9A457BAA5",
         "SPDXRef-File--sbom-output-dependency-graph-MoriwakiYusuke-sbom-python-test-299ecb.json-63E336888BD0B63EBA65E828118126861CA60373",
-        "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
+        "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
         "SPDXRef-File--sbom-output-trivy-spdx-json-by-trivy.json-E5D980377D81FB466FE2936589529A4B98393B29",
+        "SPDXRef-File--sbom-output-syft-sbom.json-EBD4E34A2D7DEBDE30B1E9ABE09198A9A457BAA5",
         "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json.sha256-62BB7DC9A9FFE546DC32CC40ACC0C2C6D9CB9D6C",
+        "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
+        "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3",
+        "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528",
         "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json.sha256-4D46AC9075488560526A940A8DED7AEDA8AC897B",
         "SPDXRef-File--README.md-291309F1E649BC1180F3F5D4303BCBCE7C20031D",
-        "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528",
-        "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3",
         "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json-BA68537F1CC4656956AD38DE5DA24736AE140E80"
       ]
     }
@@ -303,9 +303,9 @@
   ],
   "relationships": [
     {
-      "relationshipType": "DEPENDS_ON",
-      "relatedSpdxElement": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
-      "spdxElementId": "SPDXRef-RootPackage"
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528"
     },
     {
       "relationshipType": "DEPENDS_ON",
@@ -313,14 +313,9 @@
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
-      "relationshipType": "PREREQUISITE_FOR",
-      "relatedSpdxElement": "DocumentRef-sbom-python-test-1.0.0-ba68537f1cc4656956ad38de5da24736ae140e80:SPDXRef-RootPackage",
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
       "spdxElementId": "SPDXRef-RootPackage"
-    },
-    {
-      "relationshipType": "DESCRIBED_BY",
-      "relatedSpdxElement": "SPDXRef-DOCUMENT",
-      "spdxElementId": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528"
     },
     {
       "relationshipType": "DESCRIBED_BY",
@@ -331,18 +326,23 @@
       "relationshipType": "DESCRIBES",
       "relatedSpdxElement": "SPDXRef-RootPackage",
       "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-sbom-python-test-1.0.0-ba68537f1cc4656956ad38de5da24736ae140e80:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
     }
   ],
   "spdxVersion": "SPDX-2.2",
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "sbom-python-test latest",
-  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.2-b1917462-69c4-4bd8-a0d1-23b7ea730cf3/sbom-python-test/latest/vdm5AQqy0kyepQlEQktQsg",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-a83d25ab-1bab-426f-9b1b-7216e2c9f98f/sbom-python-test/latest/yBRX2_HuKk2vzTfVbaioxg",
   "creationInfo": {
-    "created": "2025-10-25T06:15:24Z",
+    "created": "2025-10-26T16:49:49Z",
     "creators": [
       "Organization: MoriwakiYusuke",
-      "Tool: Microsoft.SBOMTool-4.1.2"
+      "Tool: Microsoft.SBOMTool-4.1.1"
     ]
   },
   "documentDescribes": [

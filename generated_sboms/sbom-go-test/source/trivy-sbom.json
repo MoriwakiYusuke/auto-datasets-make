@@ -3,13 +3,13 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": ".",
-  "documentNamespace": "http://trivy.dev/filesystem/.-769e8465-e103-4786-a9d3-fcb3e03bfa11",
+  "documentNamespace": "http://trivy.dev/filesystem/.-d0322b9a-6b71-4299-93e4-0df80f7f5982",
   "creationInfo": {
     "creators": [
       "Organization: aquasecurity",
       "Tool: trivy-0.67.2"
     ],
-    "created": "2025-10-25T06:15:32Z"
+    "created": "2025-10-26T16:51:03Z"
   },
   "packages": [
     {
@@ -21,13 +21,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "Class: lang-pkgs"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "Type: gomod"
         }
@@ -35,14 +35,14 @@
     },
     {
       "name": "github.com/common-nighthawk/go-figure",
-      "SPDXID": "SPDXRef-Package-79c0c727e35d8ab8",
+      "SPDXID": "SPDXRef-Package-9ef6bf4e774fe012",
       "versionInfo": "v0.0.0-20210622060536-734e95fb86be",
       "supplier": "NOASSERTION",
       "downloadLocation": "NONE",
       "filesAnalyzed": false,
       "sourceInfo": "package found in: go.mod",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
@@ -54,13 +54,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgID: github.com/common-nighthawk/go-figure@v0.0.0-20210622060536-734e95fb86be"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -68,14 +68,14 @@
     },
     {
       "name": "github.com/fatih/color",
-      "SPDXID": "SPDXRef-Package-ebbda0c353bbcbc9",
+      "SPDXID": "SPDXRef-Package-879c625fa5822d99",
       "versionInfo": "v1.18.0",
       "supplier": "NOASSERTION",
       "downloadLocation": "NONE",
       "filesAnalyzed": false,
       "sourceInfo": "package found in: go.mod",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
@@ -87,13 +87,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgID: github.com/fatih/color@v1.18.0"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -101,14 +101,14 @@
     },
     {
       "name": "github.com/mattn/go-colorable",
-      "SPDXID": "SPDXRef-Package-a760ec94caace85f",
+      "SPDXID": "SPDXRef-Package-547818cfc87c0083",
       "versionInfo": "v0.1.14",
       "supplier": "NOASSERTION",
       "downloadLocation": "NONE",
       "filesAnalyzed": false,
       "sourceInfo": "package found in: go.mod",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
@@ -120,13 +120,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgID: github.com/mattn/go-colorable@v0.1.14"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -134,14 +134,14 @@
     },
     {
       "name": "github.com/mattn/go-isatty",
-      "SPDXID": "SPDXRef-Package-80e3d842f18e4842",
+      "SPDXID": "SPDXRef-Package-f98ff50f315da430",
       "versionInfo": "v0.0.20",
       "supplier": "NOASSERTION",
       "downloadLocation": "NONE",
       "filesAnalyzed": false,
       "sourceInfo": "package found in: go.mod",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
@@ -153,13 +153,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgID: github.com/mattn/go-isatty@v0.0.20"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -167,14 +167,14 @@
     },
     {
       "name": "golang.org/x/sys",
-      "SPDXID": "SPDXRef-Package-abd6db88d52fd81d",
+      "SPDXID": "SPDXRef-Package-48937c52c7ec79c4",
       "versionInfo": "v0.36.0",
       "supplier": "NOASSERTION",
       "downloadLocation": "NONE",
       "filesAnalyzed": false,
       "sourceInfo": "package found in: go.mod",
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "BSD-3-Clause",
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
@@ -186,13 +186,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgID: golang.org/x/sys@v0.36.0"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -200,7 +200,7 @@
     },
     {
       "name": "sbom-go-test",
-      "SPDXID": "SPDXRef-Package-2fb47c29078ef50d",
+      "SPDXID": "SPDXRef-Package-cdd00b4c56b876a7",
       "supplier": "NOASSERTION",
       "downloadLocation": "NONE",
       "filesAnalyzed": false,
@@ -218,13 +218,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgID: sbom-go-test"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "PkgType: gomod"
         }
@@ -239,7 +239,7 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-25T06:15:32Z",
+          "annotationDate": "2025-10-26T16:51:03Z",
           "annotationType": "OTHER",
           "comment": "SchemaVersion: 2"
         }
@@ -249,7 +249,7 @@
   "relationships": [
     {
       "spdxElementId": "SPDXRef-Application-e90da172ca54b427",
-      "relatedSpdxElement": "SPDXRef-Package-2fb47c29078ef50d",
+      "relatedSpdxElement": "SPDXRef-Package-cdd00b4c56b876a7",
       "relationshipType": "CONTAINS"
     },
     {
@@ -263,28 +263,43 @@
       "relationshipType": "CONTAINS"
     },
     {
-      "spdxElementId": "SPDXRef-Package-2fb47c29078ef50d",
-      "relatedSpdxElement": "SPDXRef-Package-79c0c727e35d8ab8",
+      "spdxElementId": "SPDXRef-Package-547818cfc87c0083",
+      "relatedSpdxElement": "SPDXRef-Package-48937c52c7ec79c4",
       "relationshipType": "DEPENDS_ON"
     },
     {
-      "spdxElementId": "SPDXRef-Package-2fb47c29078ef50d",
-      "relatedSpdxElement": "SPDXRef-Package-80e3d842f18e4842",
+      "spdxElementId": "SPDXRef-Package-547818cfc87c0083",
+      "relatedSpdxElement": "SPDXRef-Package-f98ff50f315da430",
       "relationshipType": "DEPENDS_ON"
     },
     {
-      "spdxElementId": "SPDXRef-Package-2fb47c29078ef50d",
-      "relatedSpdxElement": "SPDXRef-Package-a760ec94caace85f",
+      "spdxElementId": "SPDXRef-Package-879c625fa5822d99",
+      "relatedSpdxElement": "SPDXRef-Package-48937c52c7ec79c4",
       "relationshipType": "DEPENDS_ON"
     },
     {
-      "spdxElementId": "SPDXRef-Package-2fb47c29078ef50d",
-      "relatedSpdxElement": "SPDXRef-Package-abd6db88d52fd81d",
+      "spdxElementId": "SPDXRef-Package-879c625fa5822d99",
+      "relatedSpdxElement": "SPDXRef-Package-547818cfc87c0083",
       "relationshipType": "DEPENDS_ON"
     },
     {
-      "spdxElementId": "SPDXRef-Package-2fb47c29078ef50d",
-      "relatedSpdxElement": "SPDXRef-Package-ebbda0c353bbcbc9",
+      "spdxElementId": "SPDXRef-Package-879c625fa5822d99",
+      "relatedSpdxElement": "SPDXRef-Package-f98ff50f315da430",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-cdd00b4c56b876a7",
+      "relatedSpdxElement": "SPDXRef-Package-879c625fa5822d99",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-cdd00b4c56b876a7",
+      "relatedSpdxElement": "SPDXRef-Package-9ef6bf4e774fe012",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-Package-f98ff50f315da430",
+      "relatedSpdxElement": "SPDXRef-Package-48937c52c7ec79c4",
       "relationshipType": "DEPENDS_ON"
     }
   ]
