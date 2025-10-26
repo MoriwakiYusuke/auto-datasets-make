@@ -428,7 +428,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./go.sum",
@@ -447,7 +450,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./Makefile",
@@ -466,7 +472,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./result.json",
@@ -485,7 +494,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./.gitignore",
@@ -504,7 +516,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./README.md",
@@ -523,7 +538,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "DOCUMENTATION"
+      ]
     },
     {
       "fileName": "./sbom-outputs/sbom-tool/spdx_2.2/manifest.spdx.json.sha256",
@@ -542,7 +560,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./bin/_manifest/spdx_2.2/manifest.spdx.json.sha256",
@@ -561,7 +582,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./sbom-outputs/sbom-tool/spdx_2.2/manifest.spdx.json",
@@ -602,7 +626,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SOURCE"
+      ]
     },
     {
       "fileName": "./sbom-outputs/github-dependency/MoriwakiYusuke_sbom-go-test_d4746d.json",
@@ -621,7 +648,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./sbom-outputs/syft/sbom.json",
@@ -640,7 +670,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./bin/myapp",
@@ -659,7 +692,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ]
     },
     {
       "fileName": "./cmd/myapp/main.go",
@@ -678,7 +714,10 @@
       "licenseInfoInFiles": [
         "NOASSERTION"
       ],
-      "copyrightText": "NOASSERTION"
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SOURCE"
+      ]
     }
   ],
   "relationships": [
