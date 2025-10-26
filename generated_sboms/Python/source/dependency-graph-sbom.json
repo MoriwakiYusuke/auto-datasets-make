@@ -3,30 +3,16 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "com.github.TheAlgorithms/Python",
-  "documentNamespace": "https://spdx.org/spdxdocs/protobom/cdee05f0-a118-40c3-a3c4-701855c7b1d2",
+  "documentNamespace": "https://spdx.org/spdxdocs/protobom/bbc80b5b-1416-404c-856f-de95d6cc084a",
   "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
   "creationInfo": {
     "creators": [
       "Tool: protobom-v0.0.0-20251021181738-79ed14d77102+dirty",
       "Tool: GitHub.com-Dependency-Graph"
     ],
-    "created": "2025-10-26T16:50:47Z"
+    "created": "2025-10-26T17:34:47Z"
   },
   "packages": [
-    {
-      "name": "devcontainers/ci",
-      "SPDXID": "SPDXRef-githubactions-devcontainers-ci-0.3.-75c946",
-      "versionInfo": "0.3.*",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:githubactions/devcontainers/ci@0.3.%2A"
-        }
-      ]
-    },
     {
       "name": "actions/deploy-pages",
       "SPDXID": "SPDXRef-githubactions-actions-deploy-pages-4..-75c946",
@@ -70,6 +56,20 @@
       ]
     },
     {
+      "name": "pandas",
+      "SPDXID": "SPDXRef-pypi-pandas-75c946",
+      "versionInfo": ">= 2.2.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pandas"
+        }
+      ]
+    },
+    {
       "name": "cython",
       "SPDXID": "SPDXRef-pypi-cython-75c946",
       "versionInfo": ">= 3.1.2",
@@ -98,16 +98,114 @@
       ]
     },
     {
-      "name": "matplotlib",
-      "SPDXID": "SPDXRef-pypi-matplotlib-75c946",
-      "versionInfo": ">= 3.9.3",
+      "name": "tweepy",
+      "SPDXID": "SPDXRef-pypi-tweepy-75c946",
+      "versionInfo": ">= 4.14",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/matplotlib"
+          "referenceLocator": "pkg:pypi/tweepy"
+        }
+      ]
+    },
+    {
+      "name": "typing-extensions",
+      "SPDXID": "SPDXRef-pypi-typing-extensions-75c946",
+      "versionInfo": ">= 4.12.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/typing-extensions"
+        }
+      ]
+    },
+    {
+      "name": "scikit-learn",
+      "SPDXID": "SPDXRef-pypi-scikit-learn-75c946",
+      "versionInfo": ">= 1.5.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/scikit-learn"
+        }
+      ]
+    },
+    {
+      "name": "statsmodels",
+      "SPDXID": "SPDXRef-pypi-statsmodels-75c946",
+      "versionInfo": ">= 0.14.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/statsmodels"
+        }
+      ]
+    },
+    {
+      "name": "numpy",
+      "SPDXID": "SPDXRef-pypi-numpy-75c946",
+      "versionInfo": ">= 2.1.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/numpy"
+        }
+      ]
+    },
+    {
+      "name": "sphinx-pyproject",
+      "SPDXID": "SPDXRef-pypi-sphinx-pyproject-75c946",
+      "versionInfo": ">= 0.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/sphinx-pyproject"
+        }
+      ]
+    },
+    {
+      "name": "httpx",
+      "SPDXID": "SPDXRef-pypi-httpx-75c946",
+      "versionInfo": ">= 0.28.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/httpx"
+        }
+      ]
+    },
+    {
+      "name": "scipy",
+      "SPDXID": "SPDXRef-pypi-scipy-75c946",
+      "versionInfo": ">= 1.16.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/scipy"
         }
       ]
     },
@@ -140,62 +238,6 @@
       ]
     },
     {
-      "name": "pandas",
-      "SPDXID": "SPDXRef-pypi-pandas-75c946",
-      "versionInfo": ">= 2.2.3",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/pandas"
-        }
-      ]
-    },
-    {
-      "name": "sympy",
-      "SPDXID": "SPDXRef-pypi-sympy-75c946",
-      "versionInfo": ">= 1.13.3",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/sympy"
-        }
-      ]
-    },
-    {
-      "name": "typing-extensions",
-      "SPDXID": "SPDXRef-pypi-typing-extensions-75c946",
-      "versionInfo": ">= 4.12.2",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/typing-extensions"
-        }
-      ]
-    },
-    {
-      "name": "statsmodels",
-      "SPDXID": "SPDXRef-pypi-statsmodels-75c946",
-      "versionInfo": ">= 0.14.4",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/statsmodels"
-        }
-      ]
-    },
-    {
       "name": "rich",
       "SPDXID": "SPDXRef-pypi-rich-75c946",
       "versionInfo": ">= 13.9.4",
@@ -224,34 +266,6 @@
       ]
     },
     {
-      "name": "sphinx-pyproject",
-      "SPDXID": "SPDXRef-pypi-sphinx-pyproject-75c946",
-      "versionInfo": ">= 0.3",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/sphinx-pyproject"
-        }
-      ]
-    },
-    {
-      "name": "lxml",
-      "SPDXID": "SPDXRef-pypi-lxml-75c946",
-      "versionInfo": ">= 6",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/lxml"
-        }
-      ]
-    },
-    {
       "name": "beautifulsoup4",
       "SPDXID": "SPDXRef-pypi-beautifulsoup4-75c946",
       "versionInfo": ">= 4.12.3",
@@ -266,72 +280,30 @@
       ]
     },
     {
-      "name": "fake-useragent",
-      "SPDXID": "SPDXRef-pypi-fake-useragent-75c946",
-      "versionInfo": ">= 1.5.1",
+      "name": "sympy",
+      "SPDXID": "SPDXRef-pypi-sympy-75c946",
+      "versionInfo": ">= 1.13.3",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/fake-useragent"
+          "referenceLocator": "pkg:pypi/sympy"
         }
       ]
     },
     {
-      "name": "scikit-learn",
-      "SPDXID": "SPDXRef-pypi-scikit-learn-75c946",
-      "versionInfo": ">= 1.5.2",
+      "name": "matplotlib",
+      "SPDXID": "SPDXRef-pypi-matplotlib-75c946",
+      "versionInfo": ">= 3.9.3",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/scikit-learn"
-        }
-      ]
-    },
-    {
-      "name": "numpy",
-      "SPDXID": "SPDXRef-pypi-numpy-75c946",
-      "versionInfo": ">= 2.1.3",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/numpy"
-        }
-      ]
-    },
-    {
-      "name": "scipy",
-      "SPDXID": "SPDXRef-pypi-scipy-75c946",
-      "versionInfo": ">= 1.16.2",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/scipy"
-        }
-      ]
-    },
-    {
-      "name": "tweepy",
-      "SPDXID": "SPDXRef-pypi-tweepy-75c946",
-      "versionInfo": ">= 4.14",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/tweepy"
+          "referenceLocator": "pkg:pypi/matplotlib"
         }
       ]
     },
@@ -350,16 +322,30 @@
       ]
     },
     {
-      "name": "httpx",
-      "SPDXID": "SPDXRef-pypi-httpx-75c946",
-      "versionInfo": ">= 0.28.1",
+      "name": "lxml",
+      "SPDXID": "SPDXRef-pypi-lxml-75c946",
+      "versionInfo": ">= 6",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
       "externalRefs": [
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/httpx"
+          "referenceLocator": "pkg:pypi/lxml"
+        }
+      ]
+    },
+    {
+      "name": "fake-useragent",
+      "SPDXID": "SPDXRef-pypi-fake-useragent-75c946",
+      "versionInfo": ">= 1.5.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/fake-useragent"
         }
       ]
     },
@@ -406,6 +392,20 @@
       ]
     },
     {
+      "name": "devcontainers/ci",
+      "SPDXID": "SPDXRef-githubactions-devcontainers-ci-0.3.-75c946",
+      "versionInfo": "0.3.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:githubactions/devcontainers/ci@0.3.%2A"
+        }
+      ]
+    },
+    {
       "name": "com.github.TheAlgorithms/Python",
       "SPDXID": "SPDXRef-github-TheAlgorithms-Python-master-606392",
       "versionInfo": "master",
@@ -424,22 +424,17 @@
   "relationships": [
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-githubactions-actions-configure-pages-5..-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-pillow-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-sympy-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-scikit-learn-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-statsmodels-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-rich-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-httpx-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
@@ -449,12 +444,22 @@
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-fake-useragent-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-beautifulsoup4-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-scipy-75c946",
+      "relatedSpdxElement": "SPDXRef-githubactions-astral-sh-setup-uv-7..-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-githubactions-devcontainers-ci-0.3.-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-pypi-pandas-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
@@ -464,22 +469,42 @@
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-pypi-statsmodels-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
       "relatedSpdxElement": "SPDXRef-pypi-sphinx-pyproject-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-beautifulsoup4-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-scipy-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-pypi-keras-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-pypi-rich-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-pypi-lxml-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-pypi-matplotlib-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
       "relatedSpdxElement": "SPDXRef-pypi-imageio-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-httpx-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
@@ -494,42 +519,12 @@
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-githubactions-astral-sh-setup-uv-7..-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-githubactions-actions-deploy-pages-4..-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-pandas-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-lxml-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-scikit-learn-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-numpy-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-githubactions-devcontainers-ci-0.3.-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
       "relatedSpdxElement": "SPDXRef-githubactions-actions-upload-pages-artifact-4..-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-githubactions-actions-configure-pages-5..-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
@@ -539,17 +534,12 @@
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-pillow-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-typing-extensions-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-matplotlib-75c946",
-      "relationshipType": "DEPENDS_ON"
-    },
-    {
-      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-keras-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-numpy-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
@@ -559,7 +549,17 @@
     },
     {
       "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
-      "relatedSpdxElement": "SPDXRef-pypi-typing-extensions-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-sympy-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-pypi-fake-useragent-75c946",
+      "relationshipType": "DEPENDS_ON"
+    },
+    {
+      "spdxElementId": "SPDXRef-github-TheAlgorithms-Python-master-606392",
+      "relatedSpdxElement": "SPDXRef-githubactions-actions-deploy-pages-4..-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {

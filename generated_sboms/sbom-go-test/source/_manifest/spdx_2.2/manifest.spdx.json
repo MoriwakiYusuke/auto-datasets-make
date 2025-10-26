@@ -23,35 +23,16 @@
       ]
     },
     {
-      "fileName": "./Makefile",
-      "SPDXID": "SPDXRef-File--Makefile-95E2D8A1947EC309D422891D8CEF5F399F0D48BA",
+      "fileName": "./go.mod",
+      "SPDXID": "SPDXRef-File--go.mod-5259E954C64D8E4DF74677D270567F81FE7FBE72",
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "53e6d289f87bd7582143f842a43e599031242fa9d57d3f43040fc7b2d494d438"
+          "checksumValue": "49784d644ecc7e9811073b82cb4a2ad92e0682ee92f5d2f756ec983fec188095"
         },
         {
           "algorithm": "SHA1",
-          "checksumValue": "95e2d8a1947ec309d422891d8cef5f399f0d48ba"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION"
-    },
-    {
-      "fileName": "./.gitignore",
-      "SPDXID": "SPDXRef-File--.gitignore-61D82BFE9731BA123E6B4BE7A430B7EC08EB475F",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "63a6bdc727e45c5811e6a6d664205d2a07948f03881839831c2fa92434509da2"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "61d82bfe9731ba123e6b4be7a430b7ec08eb475f"
+          "checksumValue": "5259e954c64d8e4df74677d270567f81fe7fbe72"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -80,6 +61,25 @@
       "copyrightText": "NOASSERTION"
     },
     {
+      "fileName": "./Makefile",
+      "SPDXID": "SPDXRef-File--Makefile-95E2D8A1947EC309D422891D8CEF5F399F0D48BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "53e6d289f87bd7582143f842a43e599031242fa9d57d3f43040fc7b2d494d438"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95e2d8a1947ec309d422891d8cef5f399f0d48ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
       "fileName": "./result.json",
       "SPDXID": "SPDXRef-File--result.json-EE83A4D544957A9E8E9EF9265BA3801861E58269",
       "checksums": [
@@ -90,6 +90,25 @@
         {
           "algorithm": "SHA1",
           "checksumValue": "ee83a4d544957a9e8e9ef9265ba3801861e58269"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-61D82BFE9731BA123E6B4BE7A430B7EC08EB475F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "63a6bdc727e45c5811e6a6d664205d2a07948f03881839831c2fa92434509da2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "61d82bfe9731ba123e6b4be7a430b7ec08eb475f"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -118,44 +137,6 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "fileName": "./go.mod",
-      "SPDXID": "SPDXRef-File--go.mod-5259E954C64D8E4DF74677D270567F81FE7FBE72",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "49784d644ecc7e9811073b82cb4a2ad92e0682ee92f5d2f756ec983fec188095"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "5259e954c64d8e4df74677d270567f81fe7fbe72"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION"
-    },
-    {
-      "fileName": "./bin/_manifest/spdx_2.2/manifest.spdx.json.sha256",
-      "SPDXID": "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "8ed22e889f569c139d819b8cd6e447ae897bb2337ec30725e737bd1fcc321c18"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "4c3f68749bef418e8580338ba4ec107defb524ea"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION"
-    },
-    {
       "fileName": "./sbom-outputs/sbom-tool/spdx_2.2/manifest.spdx.json.sha256",
       "SPDXID": "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
       "checksums": [
@@ -175,35 +156,16 @@
       "copyrightText": "NOASSERTION"
     },
     {
-      "fileName": "./sbom-outputs/syft/sbom.json",
-      "SPDXID": "SPDXRef-File--sbom-outputs-syft-sbom.json-97C7B1FBDB3CBA4853F02C634D2FAF7BF9D55551",
+      "fileName": "./bin/_manifest/spdx_2.2/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "87b94464bb5761689e13e186ca478681c88570f803a6b83f45dd95dc4e39c293"
+          "checksumValue": "8ed22e889f569c139d819b8cd6e447ae897bb2337ec30725e737bd1fcc321c18"
         },
         {
           "algorithm": "SHA1",
-          "checksumValue": "97c7b1fbdb3cba4853f02c634d2faf7bf9d55551"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION"
-    },
-    {
-      "fileName": "./sbom-outputs/github-dependency/MoriwakiYusuke_sbom-go-test_d4746d.json",
-      "SPDXID": "SPDXRef-File--sbom-outputs-github-dependency-MoriwakiYusuke-sbom-go-test-d4746d.json-6488322561C56895C8445CD2D4D821C7B46C3D92",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "da136bc3788a645bddfc80173a28c9ef0a4b2ea6c4942a01ae11c9442bda90d6"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "6488322561c56895c8445cd2d4d821c7b46c3d92"
+          "checksumValue": "4c3f68749bef418e8580338ba4ec107defb524ea"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -245,6 +207,44 @@
         {
           "algorithm": "SHA1",
           "checksumValue": "2fb188e69b9cf16b5e96cd8041997f53fd8f2b9c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sbom-outputs/github-dependency/MoriwakiYusuke_sbom-go-test_d4746d.json",
+      "SPDXID": "SPDXRef-File--sbom-outputs-github-dependency-MoriwakiYusuke-sbom-go-test-d4746d.json-6488322561C56895C8445CD2D4D821C7B46C3D92",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "da136bc3788a645bddfc80173a28c9ef0a4b2ea6c4942a01ae11c9442bda90d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6488322561c56895c8445cd2d4d821c7b46c3d92"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./sbom-outputs/syft/sbom.json",
+      "SPDXID": "SPDXRef-File--sbom-outputs-syft-sbom.json-97C7B1FBDB3CBA4853F02C634D2FAF7BF9D55551",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87b94464bb5761689e13e186ca478681c88570f803a6b83f45dd95dc4e39c293"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "97c7b1fbdb3cba4853f02c634d2faf7bf9d55551"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -312,24 +312,6 @@
       "supplier": "NOASSERTION"
     },
     {
-      "name": "golang.org/x/sys",
-      "SPDXID": "SPDXRef-Package-C212AC463FC1D129862FD698745077DF4846A91C27CF21F217E9F0E7A4B16453",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
-      "versionInfo": "v0.36.0",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:golang/golang.org/x/sys@v0.36.0"
-        }
-      ],
-      "supplier": "NOASSERTION"
-    },
-    {
       "name": "github.com/mattn/go-colorable",
       "SPDXID": "SPDXRef-Package-B93BB7AC428AAF888F8C4843F354A320768E44285BBE34166FE80346F10D8D14",
       "downloadLocation": "NOASSERTION",
@@ -361,6 +343,24 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:golang/github.com/mattn/go-isatty@v0.0.20"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "golang.org/x/sys",
+      "SPDXID": "SPDXRef-Package-C212AC463FC1D129862FD698745077DF4846A91C27CF21F217E9F0E7A4B16453",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "v0.36.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:golang/golang.org/x/sys@v0.36.0"
         }
       ],
       "supplier": "NOASSERTION"
@@ -402,25 +402,25 @@
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/sbom-go-test@latest?tag_id=ca7f9a10-2784-4212-8a64-080a05246da6"
+          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/sbom-go-test@latest?tag_id=909d1740-8edd-4cfb-b9fd-b732ee1ad91a"
         }
       ],
       "supplier": "Organization: MoriwakiYusuke",
       "hasFiles": [
         "SPDXRef-File--cmd-myapp-main.go-3DEF8BB911AA12B62D29A1094E89B156FD1C53CD",
         "SPDXRef-File--bin-myapp-FC655278FFE2DA8E680691EA6C22D9834414351E",
-        "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A",
-        "SPDXRef-File--go.mod-5259E954C64D8E4DF74677D270567F81FE7FBE72",
-        "SPDXRef-File--sbom-outputs-syft-sbom.json-97C7B1FBDB3CBA4853F02C634D2FAF7BF9D55551",
-        "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
-        "SPDXRef-File--README.md-447F33BE9CC0AA2325596C981D1D6A201B6FB012",
-        "SPDXRef-File--sbom-outputs-github-dependency-MoriwakiYusuke-sbom-go-test-d4746d.json-6488322561C56895C8445CD2D4D821C7B46C3D92",
-        "SPDXRef-File--result.json-EE83A4D544957A9E8E9EF9265BA3801861E58269",
         "SPDXRef-File--internal-mylibrary.go-2FB188E69B9CF16B5E96CD8041997F53FD8F2B9C",
-        "SPDXRef-File--.gitignore-61D82BFE9731BA123E6B4BE7A430B7EC08EB475F",
-        "SPDXRef-File--Makefile-95E2D8A1947EC309D422891D8CEF5F399F0D48BA",
+        "SPDXRef-File--sbom-outputs-github-dependency-MoriwakiYusuke-sbom-go-test-d4746d.json-6488322561C56895C8445CD2D4D821C7B46C3D92",
         "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
+        "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A",
+        "SPDXRef-File--README.md-447F33BE9CC0AA2325596C981D1D6A201B6FB012",
+        "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json.sha256-4C3F68749BEF418E8580338BA4EC107DEFB524EA",
+        "SPDXRef-File--.gitignore-61D82BFE9731BA123E6B4BE7A430B7EC08EB475F",
+        "SPDXRef-File--result.json-EE83A4D544957A9E8E9EF9265BA3801861E58269",
         "SPDXRef-File--go.sum-A798677794446695508882928CA05ACF2897F925",
+        "SPDXRef-File--sbom-outputs-syft-sbom.json-97C7B1FBDB3CBA4853F02C634D2FAF7BF9D55551",
+        "SPDXRef-File--Makefile-95E2D8A1947EC309D422891D8CEF5F399F0D48BA",
+        "SPDXRef-File--go.mod-5259E954C64D8E4DF74677D270567F81FE7FBE72",
         "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
       ]
     }
@@ -437,18 +437,28 @@
   ],
   "relationships": [
     {
-      "relationshipType": "DESCRIBES",
-      "relatedSpdxElement": "SPDXRef-RootPackage",
-      "spdxElementId": "SPDXRef-DOCUMENT"
-    },
-    {
       "relationshipType": "DEPENDS_ON",
       "relatedSpdxElement": "SPDXRef-Package-52F89DD26BCD52CC6CD15E2D080A4095EA14639C08D7E8F369E0476F4EAC7E25",
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
-      "relationshipType": "PREREQUISITE_FOR",
-      "relatedSpdxElement": "DocumentRef-sbom-go-test-1.0.0-68abcf9495ef05a874b59fac288147297f8c225a:SPDXRef-RootPackage",
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
+    },
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C212AC463FC1D129862FD698745077DF4846A91C27CF21F217E9F0E7A4B16453",
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
@@ -463,32 +473,22 @@
     },
     {
       "relationshipType": "DEPENDS_ON",
-      "relatedSpdxElement": "SPDXRef-Package-C212AC463FC1D129862FD698745077DF4846A91C27CF21F217E9F0E7A4B16453",
-      "spdxElementId": "SPDXRef-RootPackage"
-    },
-    {
-      "relationshipType": "DEPENDS_ON",
       "relatedSpdxElement": "SPDXRef-Package-C30F2EB64B485497E7132A84A0648253B133D9E86B23D22CDAAEC874804520BB",
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
-      "relationshipType": "DESCRIBED_BY",
-      "relatedSpdxElement": "SPDXRef-DOCUMENT",
-      "spdxElementId": "SPDXRef-File--sbom-outputs-sbom-tool-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
-    },
-    {
-      "relationshipType": "DESCRIBED_BY",
-      "relatedSpdxElement": "SPDXRef-DOCUMENT",
-      "spdxElementId": "SPDXRef-File--bin--manifest-spdx-2.2-manifest.spdx.json-68ABCF9495EF05A874B59FAC288147297F8C225A"
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-sbom-go-test-1.0.0-68abcf9495ef05a874b59fac288147297f8c225a:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
     }
   ],
   "spdxVersion": "SPDX-2.2",
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "sbom-go-test latest",
-  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-1aa3272e-5e55-4e09-b056-dd22cc8ce3df/sbom-go-test/latest/aDiUxKcYNEiDMn9iGsNv5Q",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-346e914b-fa1e-4534-868a-097ce44d6fe5/sbom-go-test/latest/IjBfChawf0GCUWje3mzCJg",
   "creationInfo": {
-    "created": "2025-10-26T16:50:35Z",
+    "created": "2025-10-26T17:34:37Z",
     "creators": [
       "Organization: MoriwakiYusuke",
       "Tool: Microsoft.SBOMTool-4.1.1"
