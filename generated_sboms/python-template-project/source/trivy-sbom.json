@@ -3,13 +3,13 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": ".",
-  "documentNamespace": "http://trivy.dev/filesystem/.-97bed9a5-065e-4d70-8f16-4fca5f6cbb69",
+  "documentNamespace": "http://trivy.dev/filesystem/.-70b809d1-4dc0-4f24-9e86-b1d1d1097afc",
   "creationInfo": {
     "creators": [
       "Organization: aquasecurity",
       "Tool: trivy-0.67.2"
     ],
-    "created": "2025-10-30T16:11:14Z"
+    "created": "2025-10-30T16:20:11Z"
   },
   "packages": [
     {
@@ -21,13 +21,13 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationDate": "2025-10-30T16:20:11Z",
           "annotationType": "OTHER",
           "comment": "Class: lang-pkgs"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationDate": "2025-10-30T16:20:11Z",
           "annotationType": "OTHER",
           "comment": "Type: pip"
         }
@@ -54,7 +54,7 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationDate": "2025-10-30T16:20:11Z",
           "annotationType": "OTHER",
           "comment": "PkgType: pip"
         }
@@ -81,7 +81,7 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationDate": "2025-10-30T16:20:11Z",
           "annotationType": "OTHER",
           "comment": "PkgType: pip"
         }
@@ -96,7 +96,7 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationDate": "2025-10-30T16:20:11Z",
           "annotationType": "OTHER",
           "comment": "SchemaVersion: 2"
         }
