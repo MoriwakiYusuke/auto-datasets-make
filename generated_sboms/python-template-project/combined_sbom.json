@@ -1,0 +1,436 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.2",
+  "creationInfo": {
+    "created": "2025-10-30T16:03:02Z",
+    "creators": [
+      "Organization: MoriwakiYusuke",
+      "Tool: Microsoft.SBOMTool-4.1.1",
+      "Organization: Anchore, Inc",
+      "Tool: syft-1.33.0",
+      "Organization: aquasecurity",
+      "Tool: trivy-0.67.2",
+      "Tool: sbom-merge-script"
+    ]
+  },
+  "name": "python-template-project latest",
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-5932da03-8b5b-4aff-bf7b-b9ea4c42afd9/python-template-project/latest/fCEflxU7Q0iZT_42guGGbg",
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ],
+  "externalDocumentRefs": [],
+  "packages": [
+    {
+      "name": "colorama",
+      "SPDXID": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/colorama@0.4.6"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:colorama:0.4.6:*:*:*:*:*:*:*"
+        }
+      ],
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt",
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (sourceInfo, externalRefs) were extracted by syft."
+        },
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (primaryPackagePurpose) were extracted by trivy."
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY"
+    },
+    {
+      "name": "pyfiglet",
+      "SPDXID": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/pyfiglet@1.0.4"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-pyfiglet:python-pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-pyfiglet:python_pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_pyfiglet:python-pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_pyfiglet:python_pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:pyfiglet:python-pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:pyfiglet:python_pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-pyfiglet:pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_pyfiglet:pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python-pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python_pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:pyfiglet:pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:pyfiglet:1.0.4:*:*:*:*:*:*:*"
+        }
+      ],
+      "supplier": "NOASSERTION",
+      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt",
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (sourceInfo, externalRefs) were extracted by syft."
+        },
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (primaryPackagePurpose) were extracted by trivy."
+        }
+      ],
+      "primaryPackagePurpose": "LIBRARY"
+    },
+    {
+      "name": "python-template-project",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "458e4428128b17f4c015c7822dd8f58abf9939a4"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "latest",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/python-template-project@latest?tag_id=7758853e-3a22-4a24-baa3-9232181e4c69"
+        }
+      ],
+      "supplier": "Organization: MoriwakiYusuke",
+      "hasFiles": [
+        "SPDXRef-File--README.md-3ECCBBF94A10338DA15F5AA31985308B429212CD",
+        "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3",
+        "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134"
+      ]
+    },
+    {
+      "name": "./",
+      "SPDXID": "SPDXRef-DocumentRoot-Directory-.-",
+      "supplier": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "primaryPackagePurpose": "FILE",
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from syft."
+        }
+      ]
+    },
+    {
+      "name": "requirements.txt",
+      "SPDXID": "SPDXRef-Application-243836e57ed785a5",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "APPLICATION",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "comment": "Class: lang-pkgs"
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "comment": "Type: pip"
+        },
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from trivy."
+        }
+      ]
+    },
+    {
+      "name": ".",
+      "SPDXID": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "downloadLocation": "NONE",
+      "filesAnalyzed": false,
+      "primaryPackagePurpose": "SOURCE",
+      "annotations": [
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "comment": "SchemaVersion: 2"
+        },
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from trivy."
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-3ECCBBF94A10338DA15F5AA31985308B429212CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81e04c080e2c88e63923d6f1846c27a0d6fb5df5a298601d4c4dda9207f2e423"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3eccbbf94a10338da15f5aa31985308b429212cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "DOCUMENTATION"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./requirements.txt",
+      "SPDXID": "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f215f3857a615b6f7025cf0bb696b28e303c7c8706287f0eb77d3ae81ade96ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9646f0494d479d18f1300e0b7a4652337f43b2a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "TEXT"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./src/main.py",
+      "SPDXID": "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5444926fa0a06f83c79ec550125aff9675a74e6a1102d14f91c74a4f02d29191"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5deff20a435a3b7f20020cab12e32504c3138134"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SOURCE"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "spdxElementId": "SPDXRef-RootPackage",
+      "relatedSpdxElement": "SPDXRef-DocumentRoot-Directory-.-",
+      "relationshipType": "DESCRIBES",
+      "comment": "Relationship added from syft."
+    },
+    {
+      "spdxElementId": "SPDXRef-RootPackage",
+      "relatedSpdxElement": "SPDXRef-Application-243836e57ed785a5",
+      "relationshipType": "CONTAINS",
+      "comment": "Relationship added from trivy."
+    },
+    {
+      "spdxElementId": "SPDXRef-RootPackage",
+      "relatedSpdxElement": "SPDXRef-Filesystem-1465386cfbe4e9c7",
+      "relationshipType": "DESCRIBES",
+      "comment": "Relationship added from trivy."
+    }
+  ]
+}
