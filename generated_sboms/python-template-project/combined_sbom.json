@@ -2,10 +2,12 @@
   "SPDXID": "SPDXRef-DOCUMENT",
   "spdxVersion": "SPDX-2.2",
   "creationInfo": {
-    "created": "2025-10-30T16:03:02Z",
+    "created": "2025-10-30T16:11:09Z",
     "creators": [
       "Organization: MoriwakiYusuke",
       "Tool: Microsoft.SBOMTool-4.1.1",
+      "Tool: protobom-v0.0.0-20251027182954-3ba3ac9f035e+dirty",
+      "Tool: GitHub.com-Dependency-Graph",
       "Organization: Anchore, Inc",
       "Tool: syft-1.33.0",
       "Organization: aquasecurity",
@@ -15,7 +17,7 @@
   },
   "name": "python-template-project latest",
   "dataLicense": "CC0-1.0",
-  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-5932da03-8b5b-4aff-bf7b-b9ea4c42afd9/python-template-project/latest/fCEflxU7Q0iZT_42guGGbg",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-b736f696-6ebe-433d-8a01-4d2e07c9a638/python-template-project/latest/aqA6WQozSkqc_aXvWtoVgA",
   "documentDescribes": [
     "SPDXRef-RootPackage"
   ],
@@ -26,9 +28,9 @@
       "SPDXID": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010 Jonathan Hartley, Copyright Jonathan Hartley & Arnon Yaari, 2013-2020, Copyright Jonathan Hartley 2013",
       "versionInfo": "0.4.6",
       "externalRefs": [
         {
@@ -98,21 +100,27 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt",
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (licenseConcluded, copyrightText) were extracted by dependency-graph."
+        },
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (sourceInfo, externalRefs) were extracted by syft."
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (primaryPackagePurpose) were extracted by trivy."
         }
       ],
+      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt",
       "primaryPackagePurpose": "LIBRARY"
     },
     {
@@ -120,9 +128,9 @@
       "SPDXID": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "LicenseRef-scancode-public-domain AND MIT",
       "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION",
+      "copyrightText": "(c) 1994 by Victor Parada (vparada@inf.utfsm.cl), (c) Copyright Bigelow & Holmes 1986, 1985, (c) COPYRIGHTS MMIV, (c) Michel Eftimakis 1995, Copyright (c) 1984, 1987 Adobe Systems Incorporated, Copyright (c) 1984,1987 Adobe Systems, Inc., Copyright (c) 1988, 1991 Digital Equipment Corporation, Copyright (c) 1989 X Consortium, Copyright (c) 1989, 1991 Adobe Systems Incorporated, Copyright (c) 1991 X Consortium, Copyright (c) 1991, 1993, 1994 Glenn Chappell and Ian Chai, Copyright (c) 1996, 1997, 1998, 1999, 2000, 2001 John Cowan, Copyright (c) 2000 Michael Hamm, Copyright (c) 2002 Christiaan Keet, Copyright (c) 2007-2018 Christopher Jones <cjones@insub.org> Stefano Rivera <stefano@rivera.za.net>, Copyright (c) 2007-2023 Christopher Jones <cjones@insub.org>, Copyright (c) 2008 Francesco Poli, Copyright (c) 2011 Claudio Matsuoka, Copyright 1984-1989, 1994 Adobe Systems Incorporated, Copyright 1987 by Bitstream Inc. Charter Registered, Copyright 1988 Bitstream, Inc., Cambridge, Massachusetts, USA COMMENT Bitstream and Charter, Copyright 1988, 1994 Digital Equipment Corporation, Copyright 1989 by Cognition Corp, Copyright 1989 Cognition Corp., Copyright 1989 Dale Schumacher, Copyright 1989 Dale Schumacher, dal@syntel.mn.org, Copyright 1989 X Consortium, Copyright 1991 X Consortium, copyright 1993, RSA Laboratories Specifically, Copyright 1996, 1997 by John Cowan and Paul Burton, Copyright Bigelow & Holmes 1986, 1985, Portions Copyright 1988 Digital Equipment Corp, Portions Copyright 1991, 1993, 1994 by Glenn Chappell and Ian Chai",
       "versionInfo": "1.0.4",
       "externalRefs": [
         {
@@ -192,21 +200,27 @@
         }
       ],
       "supplier": "NOASSERTION",
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt",
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (licenseConcluded, copyrightText) were extracted by dependency-graph."
+        },
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (sourceInfo, externalRefs) were extracted by syft."
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (primaryPackagePurpose) were extracted by trivy."
         }
       ],
+      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt",
       "primaryPackagePurpose": "LIBRARY"
     },
     {
@@ -228,14 +242,36 @@
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/python-template-project@latest?tag_id=7758853e-3a22-4a24-baa3-9232181e4c69"
+          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/python-template-project@latest?tag_id=97398357-da41-465f-b294-06cd8df35cc7"
         }
       ],
       "supplier": "Organization: MoriwakiYusuke",
       "hasFiles": [
         "SPDXRef-File--README.md-3ECCBBF94A10338DA15F5AA31985308B429212CD",
-        "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3",
-        "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134"
+        "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
+        "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3"
+      ]
+    },
+    {
+      "name": "com.github.MoriwakiYusuke/python-template-project",
+      "SPDXID": "SPDXRef-github-MoriwakiYusuke-python-template-project-main-e1dd13",
+      "versionInfo": "main",
+      "downloadLocation": "git+https://github.com/MoriwakiYusuke/python-template-project",
+      "filesAnalyzed": false,
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/MoriwakiYusuke/python-template-project@main"
+        }
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Package added from dependency-graph."
+        }
       ]
     },
     {
@@ -250,7 +286,7 @@
       "primaryPackagePurpose": "FILE",
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from syft."
@@ -266,18 +302,18 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "comment": "Class: lang-pkgs"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "comment": "Type: pip"
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from trivy."
@@ -293,12 +329,12 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "comment": "SchemaVersion: 2"
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from trivy."
@@ -307,36 +343,6 @@
     }
   ],
   "files": [
-    {
-      "fileName": "./README.md",
-      "SPDXID": "SPDXRef-File--README.md-3ECCBBF94A10338DA15F5AA31985308B429212CD",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "81e04c080e2c88e63923d6f1846c27a0d6fb5df5a298601d4c4dda9207f2e423"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "3eccbbf94a10338da15f5aa31985308b429212cd"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "DOCUMENTATION"
-      ],
-      "annotations": [
-        {
-          "annotationDate": "2025-10-30T16:03:07Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Field (fileTypes) was added/updated based on file extension."
-        }
-      ]
-    },
     {
       "fileName": "./requirements.txt",
       "SPDXID": "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3",
@@ -360,7 +366,37 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-3ECCBBF94A10338DA15F5AA31985308B429212CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81e04c080e2c88e63923d6f1846c27a0d6fb5df5a298601d4c4dda9207f2e423"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3eccbbf94a10338da15f5aa31985308b429212cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "DOCUMENTATION"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -390,7 +426,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -400,11 +436,6 @@
   ],
   "relationships": [
     {
-      "relationshipType": "DESCRIBES",
-      "relatedSpdxElement": "SPDXRef-RootPackage",
-      "spdxElementId": "SPDXRef-DOCUMENT"
-    },
-    {
       "relationshipType": "DEPENDS_ON",
       "relatedSpdxElement": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
       "spdxElementId": "SPDXRef-RootPackage"
@@ -413,6 +444,17 @@
       "relationshipType": "DEPENDS_ON",
       "relatedSpdxElement": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
       "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "spdxElementId": "SPDXRef-RootPackage",
+      "relatedSpdxElement": "SPDXRef-github-MoriwakiYusuke-python-template-project-main-e1dd13",
+      "relationshipType": "DESCRIBES",
+      "comment": "Relationship added from dependency-graph."
     },
     {
       "spdxElementId": "SPDXRef-RootPackage",

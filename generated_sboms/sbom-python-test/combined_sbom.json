@@ -2,7 +2,7 @@
   "SPDXID": "SPDXRef-DOCUMENT",
   "spdxVersion": "SPDX-2.2",
   "creationInfo": {
-    "created": "2025-10-30T16:02:59Z",
+    "created": "2025-10-30T16:11:06Z",
     "creators": [
       "Organization: MoriwakiYusuke",
       "Tool: Microsoft.SBOMTool-4.1.1",
@@ -17,7 +17,7 @@
   },
   "name": "sbom-python-test latest",
   "dataLicense": "CC0-1.0",
-  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-6e123dd4-5b99-4587-aff0-ce6eab654b8a/sbom-python-test/latest/Medn89YgU0uj5ppTpamswg",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-75fc1c0d-b1fc-49e0-92eb-680bcb7177dc/sbom-python-test/latest/bDpacCU8Lk2Bzkud624QjA",
   "documentDescribes": [
     "SPDXRef-RootPackage"
   ],
@@ -111,19 +111,19 @@
       "supplier": "NOASSERTION",
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (licenseConcluded, copyrightText) were extracted by dependency-graph."
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (sourceInfo, externalRefs) were extracted by syft."
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (primaryPackagePurpose) were extracted by trivy."
@@ -211,19 +211,19 @@
       "supplier": "NOASSERTION",
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (licenseConcluded, copyrightText) were extracted by dependency-graph."
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (sourceInfo, externalRefs) were extracted by syft."
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (primaryPackagePurpose) were extracted by trivy."
@@ -251,21 +251,21 @@
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/sbom-python-test@latest?tag_id=4712d55a-dd28-40fa-bbbf-2181725a39b8"
+          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/sbom-python-test@latest?tag_id=21d3e6b7-15d2-4752-9d58-b78b76fc1f07"
         }
       ],
       "supplier": "Organization: MoriwakiYusuke",
       "hasFiles": [
-        "SPDXRef-File--sbom-output-trivy-spdx-json-by-trivy.json-E5D980377D81FB466FE2936589529A4B98393B29",
-        "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json.sha256-4D46AC9075488560526A940A8DED7AEDA8AC897B",
         "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
-        "SPDXRef-File--sbom-output-dependency-graph-MoriwakiYusuke-sbom-python-test-299ecb.json-63E336888BD0B63EBA65E828118126861CA60373",
-        "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
+        "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json.sha256-62BB7DC9A9FFE546DC32CC40ACC0C2C6D9CB9D6C",
+        "SPDXRef-File--sbom-output-trivy-spdx-json-by-trivy.json-E5D980377D81FB466FE2936589529A4B98393B29",
+        "SPDXRef-File--README.md-291309F1E649BC1180F3F5D4303BCBCE7C20031D",
+        "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528",
         "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3",
         "SPDXRef-File--sbom-output-syft-sbom.json-EBD4E34A2D7DEBDE30B1E9ABE09198A9A457BAA5",
-        "SPDXRef-File--README.md-291309F1E649BC1180F3F5D4303BCBCE7C20031D",
-        "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json.sha256-62BB7DC9A9FFE546DC32CC40ACC0C2C6D9CB9D6C",
-        "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528",
+        "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json.sha256-4D46AC9075488560526A940A8DED7AEDA8AC897B",
+        "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
+        "SPDXRef-File--sbom-output-dependency-graph-MoriwakiYusuke-sbom-python-test-299ecb.json-63E336888BD0B63EBA65E828118126861CA60373",
         "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json-BA68537F1CC4656956AD38DE5DA24736AE140E80"
       ]
     },
@@ -284,7 +284,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from dependency-graph."
@@ -303,7 +303,7 @@
       "primaryPackagePurpose": "FILE",
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from syft."
@@ -319,18 +319,18 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "comment": "Class: lang-pkgs"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "comment": "Type: pip"
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from trivy."
@@ -346,12 +346,12 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "comment": "SchemaVersion: 2"
         },
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from trivy."
@@ -383,58 +383,6 @@
       ]
     },
     {
-      "fileName": "./sbom-output/sbom-tool/spdx3.0/_manifest/spdx_3.0/manifest.spdx.json",
-      "SPDXID": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "38ea494f5a5a89b7e0576a75a4f3eb86ae9f8a36a45761c00c56eae245cd35ea"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "2b1dcef041a2f2939d933300884beea1e5e41528"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "SPDX"
-      ]
-    },
-    {
-      "fileName": "./sbom-output/sbom-tool/spdx2.2/_manifest/spdx_2.2/manifest.spdx.json.sha256",
-      "SPDXID": "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json.sha256-62BB7DC9A9FFE546DC32CC40ACC0C2C6D9CB9D6C",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "bb511bcef370a57382b8d3403330f57ee59ef935228969f2a3ef09371392c46e"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "62bb7dc9a9ffe546dc32cc40acc0c2c6d9cb9d6c"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "OTHER"
-      ],
-      "annotations": [
-        {
-          "annotationDate": "2025-10-30T16:03:07Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Field (fileTypes) was added/updated based on file extension."
-        }
-      ]
-    },
-    {
       "fileName": "./.gitignore",
       "SPDXID": "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
       "checksums": [
@@ -457,157 +405,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Field (fileTypes) was added/updated based on file extension."
-        }
-      ]
-    },
-    {
-      "fileName": "./README.md",
-      "SPDXID": "SPDXRef-File--README.md-291309F1E649BC1180F3F5D4303BCBCE7C20031D",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "a46940890876c78bb2991caba60c7d8fe0bb85e6211e9a75805b2b1004bc0ef7"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "291309f1e649bc1180f3f5d4303bcbce7c20031d"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "DOCUMENTATION"
-      ],
-      "annotations": [
-        {
-          "annotationDate": "2025-10-30T16:03:07Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Field (fileTypes) was added/updated based on file extension."
-        }
-      ]
-    },
-    {
-      "fileName": "./src/main.py",
-      "SPDXID": "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "5444926fa0a06f83c79ec550125aff9675a74e6a1102d14f91c74a4f02d29191"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "5deff20a435a3b7f20020cab12e32504c3138134"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "SOURCE"
-      ],
-      "annotations": [
-        {
-          "annotationDate": "2025-10-30T16:03:07Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Field (fileTypes) was added/updated based on file extension."
-        }
-      ]
-    },
-    {
-      "fileName": "./sbom-output/dependency-graph/MoriwakiYusuke_sbom-python-test_299ecb.json",
-      "SPDXID": "SPDXRef-File--sbom-output-dependency-graph-MoriwakiYusuke-sbom-python-test-299ecb.json-63E336888BD0B63EBA65E828118126861CA60373",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "fbecca376f230f4bff40617b43016e8abd0a16833160c28b42ad6b8697a45b98"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "63e336888bd0b63eba65e828118126861ca60373"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "OTHER"
-      ],
-      "annotations": [
-        {
-          "annotationDate": "2025-10-30T16:03:07Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Field (fileTypes) was added/updated based on file extension."
-        }
-      ]
-    },
-    {
-      "fileName": "./sbom-output/sbom-tool/spdx3.0/_manifest/spdx_3.0/manifest.spdx.json.sha256",
-      "SPDXID": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json.sha256-4D46AC9075488560526A940A8DED7AEDA8AC897B",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "548df41c9a8ad084596a2102b22d127f1efd607761c9b2b33d8c6e4d56c0a142"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "4d46ac9075488560526a940a8ded7aeda8ac897b"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "OTHER"
-      ],
-      "annotations": [
-        {
-          "annotationDate": "2025-10-30T16:03:07Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Field (fileTypes) was added/updated based on file extension."
-        }
-      ]
-    },
-    {
-      "fileName": "./sbom-output/syft/sbom.json",
-      "SPDXID": "SPDXRef-File--sbom-output-syft-sbom.json-EBD4E34A2D7DEBDE30B1E9ABE09198A9A457BAA5",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "45e502c73d099f778ea8f04f0f805b52e139b0b1a46223fe8684bdaabb1d2410"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "ebd4e34a2d7debde30b1e9abe09198a9a457baa5"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION",
-      "fileTypes": [
-        "OTHER"
-      ],
-      "annotations": [
-        {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -637,7 +435,179 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./README.md",
+      "SPDXID": "SPDXRef-File--README.md-291309F1E649BC1180F3F5D4303BCBCE7C20031D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a46940890876c78bb2991caba60c7d8fe0bb85e6211e9a75805b2b1004bc0ef7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "291309f1e649bc1180f3f5d4303bcbce7c20031d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "DOCUMENTATION"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./sbom-output/sbom-tool/spdx2.2/_manifest/spdx_2.2/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json.sha256-62BB7DC9A9FFE546DC32CC40ACC0C2C6D9CB9D6C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb511bcef370a57382b8d3403330f57ee59ef935228969f2a3ef09371392c46e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "62bb7dc9a9ffe546dc32cc40acc0c2c6d9cb9d6c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./sbom-output/sbom-tool/spdx3.0/_manifest/spdx_3.0/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json.sha256-4D46AC9075488560526A940A8DED7AEDA8AC897B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "548df41c9a8ad084596a2102b22d127f1efd607761c9b2b33d8c6e4d56c0a142"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4d46ac9075488560526a940a8ded7aeda8ac897b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./sbom-output/sbom-tool/spdx3.0/_manifest/spdx_3.0/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "38ea494f5a5a89b7e0576a75a4f3eb86ae9f8a36a45761c00c56eae245cd35ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b1dcef041a2f2939d933300884beea1e5e41528"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./sbom-output/syft/sbom.json",
+      "SPDXID": "SPDXRef-File--sbom-output-syft-sbom.json-EBD4E34A2D7DEBDE30B1E9ABE09198A9A457BAA5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "45e502c73d099f778ea8f04f0f805b52e139b0b1a46223fe8684bdaabb1d2410"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ebd4e34a2d7debde30b1e9abe09198a9a457baa5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./src/main.py",
+      "SPDXID": "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5444926fa0a06f83c79ec550125aff9675a74e6a1102d14f91c74a4f02d29191"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5deff20a435a3b7f20020cab12e32504c3138134"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SOURCE"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -667,7 +637,37 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-10-30T16:03:07Z",
+          "annotationDate": "2025-10-30T16:11:14Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Field (fileTypes) was added/updated based on file extension."
+        }
+      ]
+    },
+    {
+      "fileName": "./sbom-output/dependency-graph/MoriwakiYusuke_sbom-python-test_299ecb.json",
+      "SPDXID": "SPDXRef-File--sbom-output-dependency-graph-MoriwakiYusuke-sbom-python-test-299ecb.json-63E336888BD0B63EBA65E828118126861CA60373",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fbecca376f230f4bff40617b43016e8abd0a16833160c28b42ad6b8697a45b98"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "63e336888bd0b63eba65e828118126861ca60373"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "OTHER"
+      ],
+      "annotations": [
+        {
+          "annotationDate": "2025-10-30T16:11:14Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -687,24 +687,24 @@
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
-      "relationshipType": "DESCRIBED_BY",
-      "relatedSpdxElement": "SPDXRef-DOCUMENT",
-      "spdxElementId": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528"
-    },
-    {
       "relationshipType": "DEPENDS_ON",
       "relatedSpdxElement": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
-      "relationshipType": "DESCRIBED_BY",
-      "relatedSpdxElement": "SPDXRef-DOCUMENT",
-      "spdxElementId": "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json-BA68537F1CC4656956AD38DE5DA24736AE140E80"
-    },
-    {
       "relationshipType": "PREREQUISITE_FOR",
       "relatedSpdxElement": "DocumentRef-sbom-python-test-1.0.0-ba68537f1cc4656956ad38de5da24736ae140e80:SPDXRef-RootPackage",
       "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--sbom-output-sbom-tool-spdx3.0--manifest-spdx-3.0-manifest.spdx.json-2B1DCEF041A2F2939D933300884BEEA1E5E41528"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--sbom-output-sbom-tool-spdx2.2--manifest-spdx-2.2-manifest.spdx.json-BA68537F1CC4656956AD38DE5DA24736AE140E80"
     },
     {
       "spdxElementId": "SPDXRef-RootPackage",
