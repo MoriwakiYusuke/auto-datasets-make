@@ -1,25 +1,6 @@
 {
   "files": [
     {
-      "fileName": "./src/main.py",
-      "SPDXID": "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
-      "checksums": [
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "5444926fa0a06f83c79ec550125aff9675a74e6a1102d14f91c74a4f02d29191"
-        },
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "5deff20a435a3b7f20020cab12e32504c3138134"
-        }
-      ],
-      "licenseConcluded": "NOASSERTION",
-      "licenseInfoInFiles": [
-        "NOASSERTION"
-      ],
-      "copyrightText": "NOASSERTION"
-    },
-    {
       "fileName": "./README.md",
       "SPDXID": "SPDXRef-File--README.md-3ECCBBF94A10338DA15F5AA31985308B429212CD",
       "checksums": [
@@ -30,6 +11,44 @@
         {
           "algorithm": "SHA1",
           "checksumValue": "3eccbbf94a10338da15f5aa31985308b429212cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./.gitignore",
+      "SPDXID": "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48b33f9f89ef24f8a66f461ea9278e7ecf21b4660c26088989d231e53c578724"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b24ae32103d320a5effb06ba5efed637fcf86000"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./src/main.py",
+      "SPDXID": "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5444926fa0a06f83c79ec550125aff9675a74e6a1102d14f91c74a4f02d29191"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5deff20a435a3b7f20020cab12e32504c3138134"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -100,7 +119,7 @@
       "SPDXID": "SPDXRef-RootPackage",
       "downloadLocation": "NOASSERTION",
       "packageVerificationCode": {
-        "packageVerificationCodeValue": "458e4428128b17f4c015c7822dd8f58abf9939a4"
+        "packageVerificationCodeValue": "59c00a7035a3f1774e87cc5200b6c3fbc0d64410"
       },
       "filesAnalyzed": true,
       "licenseConcluded": "NOASSERTION",
@@ -114,24 +133,20 @@
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/python-template-project@latest?tag_id=a83ba6a2-313d-4514-b556-34467bccbf0c"
+          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/python-template-project@latest?tag_id=a9ebcdef-fda8-439c-8bd5-e2ce950a2af2"
         }
       ],
       "supplier": "Organization: MoriwakiYusuke",
       "hasFiles": [
         "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
         "SPDXRef-File--README.md-3ECCBBF94A10338DA15F5AA31985308B429212CD",
+        "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
         "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3"
       ]
     }
   ],
   "externalDocumentRefs": [],
   "relationships": [
-    {
-      "relationshipType": "DESCRIBES",
-      "relatedSpdxElement": "SPDXRef-RootPackage",
-      "spdxElementId": "SPDXRef-DOCUMENT"
-    },
     {
       "relationshipType": "DEPENDS_ON",
       "relatedSpdxElement": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
@@ -141,15 +156,20 @@
       "relationshipType": "DEPENDS_ON",
       "relatedSpdxElement": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
       "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
     }
   ],
   "spdxVersion": "SPDX-2.2",
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "python-template-project latest",
-  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-89694bde-c8f7-4c55-aa54-5f34ebf5a536/python-template-project/latest/MhdaKrNW0kWVM658Tny29A",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-e84e17d5-d59f-4a2e-8776-e64e985016b1/python-template-project/latest/nm8OlJFBaEi9TjjsMOWH_Q",
   "creationInfo": {
-    "created": "2025-10-30T16:20:07Z",
+    "created": "2025-11-03T17:09:44Z",
     "creators": [
       "Organization: MoriwakiYusuke",
       "Tool: Microsoft.SBOMTool-4.1.1"
