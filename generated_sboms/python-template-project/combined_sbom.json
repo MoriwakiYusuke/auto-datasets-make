@@ -2,11 +2,11 @@
   "SPDXID": "SPDXRef-DOCUMENT",
   "spdxVersion": "SPDX-2.2",
   "creationInfo": {
-    "created": "2025-11-03T17:09:44Z",
+    "created": "2025-11-03T20:19:08Z",
     "creators": [
       "Organization: MoriwakiYusuke",
       "Tool: Microsoft.SBOMTool-4.1.1",
-      "Tool: protobom-v0.0.0-20251030162530-9942db649966+dirty",
+      "Tool: protobom-v0.0.0-20251103170019-ef0b43e84701+dirty",
       "Tool: GitHub.com-Dependency-Graph",
       "Organization: Anchore, Inc",
       "Tool: syft-1.33.0",
@@ -17,118 +17,12 @@
   },
   "name": "python-template-project latest",
   "dataLicense": "CC0-1.0",
-  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-e84e17d5-d59f-4a2e-8776-e64e985016b1/python-template-project/latest/nm8OlJFBaEi9TjjsMOWH_Q",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-4.1.1-c5551d73-72e5-4403-abc8-2bb0c1ffe068/python-template-project/latest/TUHbWS8iVkKIhVr1xiTmYQ",
   "documentDescribes": [
     "SPDXRef-RootPackage"
   ],
   "externalDocumentRefs": [],
   "packages": [
-    {
-      "name": "colorama",
-      "SPDXID": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "Copyright (c) 2010 Jonathan Hartley, Copyright Jonathan Hartley & Arnon Yaari, 2013-2020, Copyright Jonathan Hartley 2013",
-      "versionInfo": "0.4.6",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/colorama@0.4.6"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python-colorama:colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python_colorama:colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python-colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:python_colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:colorama:colorama:0.4.6:*:*:*:*:*:*:*"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:python:colorama:0.4.6:*:*:*:*:*:*:*"
-        }
-      ],
-      "supplier": "NOASSERTION",
-      "annotations": [
-        {
-          "annotationDate": "2025-11-03T17:09:42Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Fields (licenseConcluded, copyrightText) were supplemented by dependency-graph."
-        },
-        {
-          "annotationDate": "2025-11-03T17:09:42Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
-        },
-        {
-          "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-11-03T17:09:42Z",
-          "annotationType": "OTHER",
-          "comment": "PkgType: pip"
-        },
-        {
-          "annotationDate": "2025-11-03T17:09:43Z",
-          "annotationType": "OTHER",
-          "annotator": "Tool: sbom-merge-script",
-          "comment": "Fields (primaryPackagePurpose, annotations) were supplemented by trivy."
-        }
-      ],
-      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt",
-      "primaryPackagePurpose": "LIBRARY"
-    },
     {
       "name": "pyfiglet",
       "SPDXID": "SPDXRef-Package-D4A1AC07C438229E2AF005F1545B067AD2A823263A8DAB7F04F325B39A2926C2",
@@ -208,25 +102,131 @@
       "supplier": "NOASSERTION",
       "annotations": [
         {
-          "annotationDate": "2025-11-03T17:09:42Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (licenseConcluded, copyrightText) were supplemented by dependency-graph."
         },
         {
-          "annotationDate": "2025-11-03T17:09:42Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-11-03T17:09:42Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "comment": "PkgType: pip"
         },
         {
-          "annotationDate": "2025-11-03T17:09:43Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (primaryPackagePurpose, annotations) were supplemented by trivy."
+        }
+      ],
+      "sourceInfo": "acquired package info from installed python package manifest file: /requirements.txt",
+      "primaryPackagePurpose": "LIBRARY"
+    },
+    {
+      "name": "colorama",
+      "SPDXID": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "Copyright (c) 2010 Jonathan Hartley, Copyright Jonathan Hartley & Arnon Yaari, 2013-2020, Copyright Jonathan Hartley 2013",
+      "versionInfo": "0.4.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/colorama@0.4.6"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python-colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python_colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python-colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:python_colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:colorama:colorama:0.4.6:*:*:*:*:*:*:*"
+        },
+        {
+          "referenceCategory": "SECURITY",
+          "referenceType": "cpe23Type",
+          "referenceLocator": "cpe:2.3:a:python:colorama:0.4.6:*:*:*:*:*:*:*"
+        }
+      ],
+      "supplier": "NOASSERTION",
+      "annotations": [
+        {
+          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (licenseConcluded, copyrightText) were supplemented by dependency-graph."
+        },
+        {
+          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationType": "OTHER",
+          "annotator": "Tool: sbom-merge-script",
+          "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
+        },
+        {
+          "annotator": "Tool: trivy-0.67.2",
+          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationType": "OTHER",
+          "comment": "PkgType: pip"
+        },
+        {
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (primaryPackagePurpose, annotations) were supplemented by trivy."
@@ -254,15 +254,15 @@
         {
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
-          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/python-template-project@latest?tag_id=a9ebcdef-fda8-439c-8bd5-e2ce950a2af2"
+          "referenceLocator": "pkg:swid/MoriwakiYusuke/spdx.org/python-template-project@latest?tag_id=aafe2723-1d99-4459-a3a1-85dd8fa45d0e"
         }
       ],
       "supplier": "Organization: MoriwakiYusuke",
       "hasFiles": [
         "SPDXRef-File--src-main.py-5DEFF20A435A3B7F20020CAB12E32504C3138134",
         "SPDXRef-File--README.md-3ECCBBF94A10338DA15F5AA31985308B429212CD",
-        "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000",
-        "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3"
+        "SPDXRef-File--requirements.txt-9646F0494D479D18F1300E0B7A4652337F43B2A3",
+        "SPDXRef-File--.gitignore-B24AE32103D320A5EFFB06BA5EFED637FCF86000"
       ]
     },
     {
@@ -280,7 +280,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T17:09:42Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from dependency-graph."
@@ -302,7 +302,7 @@
       "primaryPackagePurpose": "FILE",
       "annotations": [
         {
-          "annotationDate": "2025-11-03T17:09:42Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from syft."
@@ -318,18 +318,18 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-11-03T17:09:42Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "comment": "Class: lang-pkgs"
         },
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-11-03T17:09:42Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "comment": "Type: pip"
         },
         {
-          "annotationDate": "2025-11-03T17:09:43Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from trivy."
@@ -348,12 +348,12 @@
       "annotations": [
         {
           "annotator": "Tool: trivy-0.67.2",
-          "annotationDate": "2025-11-03T17:09:42Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "comment": "SchemaVersion: 2"
         },
         {
-          "annotationDate": "2025-11-03T17:09:43Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from trivy."
@@ -388,7 +388,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T17:09:43Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -418,7 +418,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T17:09:43Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -448,7 +448,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T17:09:43Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -478,7 +478,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T17:09:43Z",
+          "annotationDate": "2025-11-03T20:19:12Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -488,9 +488,9 @@
   ],
   "relationships": [
     {
-      "relationshipType": "DEPENDS_ON",
-      "relatedSpdxElement": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
-      "spdxElementId": "SPDXRef-RootPackage"
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
     },
     {
       "relationshipType": "DEPENDS_ON",
@@ -498,9 +498,9 @@
       "spdxElementId": "SPDXRef-RootPackage"
     },
     {
-      "relationshipType": "DESCRIBES",
-      "relatedSpdxElement": "SPDXRef-RootPackage",
-      "spdxElementId": "SPDXRef-DOCUMENT"
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1C965D0DC1AC3A7595E8794C73336CB9E8E3EAD3BF00214FE42EB1306EE5F3D3",
+      "spdxElementId": "SPDXRef-RootPackage"
     },
     {
       "spdxElementId": "SPDXRef-RootPackage",

@@ -3,13 +3,13 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "com.github.MoriwakiYusuke/python-template-project",
-  "documentNamespace": "https://spdx.org/spdxdocs/protobom/b0cf6024-de06-449b-a2e0-45d0762efb3c",
+  "documentNamespace": "https://spdx.org/spdxdocs/protobom/f3ecd955-64e4-47a0-90c6-f8ca08ea9c29",
   "creationInfo": {
     "creators": [
-      "Tool: protobom-v0.0.0-20251030162530-9942db649966+dirty",
+      "Tool: protobom-v0.0.0-20251103170019-ef0b43e84701+dirty",
       "Tool: GitHub.com-Dependency-Graph"
     ],
-    "created": "2025-11-03T17:09:41Z"
+    "created": "2025-11-03T20:19:11Z"
   },
   "packages": [
     {
