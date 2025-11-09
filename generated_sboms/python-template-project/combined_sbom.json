@@ -102,13 +102,13 @@
       "supplier": "NOASSERTION",
       "annotations": [
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (licenseConcluded, copyrightText) were supplemented by dependency-graph."
         },
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
@@ -120,7 +120,7 @@
           "comment": "PkgType: pip"
         },
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (primaryPackagePurpose, annotations) were supplemented by trivy."
@@ -208,13 +208,13 @@
       "supplier": "NOASSERTION",
       "annotations": [
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (licenseConcluded, copyrightText) were supplemented by dependency-graph."
         },
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (sourceInfo, externalRefs) were supplemented by syft."
@@ -226,7 +226,7 @@
           "comment": "PkgType: pip"
         },
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Fields (primaryPackagePurpose, annotations) were supplemented by trivy."
@@ -280,7 +280,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from dependency-graph."
@@ -302,7 +302,7 @@
       "primaryPackagePurpose": "FILE",
       "annotations": [
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from syft."
@@ -329,7 +329,7 @@
           "comment": "Type: pip"
         },
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from trivy."
@@ -353,7 +353,7 @@
           "comment": "SchemaVersion: 2"
         },
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Package added from trivy."
@@ -388,7 +388,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -418,7 +418,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -448,7 +448,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
@@ -478,7 +478,7 @@
       ],
       "annotations": [
         {
-          "annotationDate": "2025-11-03T20:19:12Z",
+          "annotationDate": "2025-11-09T18:36:34Z",
           "annotationType": "OTHER",
           "annotator": "Tool: sbom-merge-script",
           "comment": "Field (fileTypes) was added/updated based on file extension."
