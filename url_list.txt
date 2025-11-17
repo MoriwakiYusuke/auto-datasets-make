@@ -1,1 +1,1 @@
-https://github.com/MoriwakiYusuke/python-template-project.git
+https://github.com/MoriwakiYusuke/python-template-project

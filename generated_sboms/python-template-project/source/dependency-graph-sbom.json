@@ -3,31 +3,15 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "com.github.MoriwakiYusuke/python-template-project",
-  "documentNamespace": "https://spdx.org/spdxdocs/protobom/f3ecd955-64e4-47a0-90c6-f8ca08ea9c29",
+  "documentNamespace": "https://spdx.org/spdxdocs/protobom/77acdabe-3f86-41bb-8d34-4c02bc3da25d",
   "creationInfo": {
     "creators": [
-      "Tool: protobom-v0.0.0-20251103170019-ef0b43e84701+dirty",
+      "Tool: protobom-v0.0.0-20251117145948-e91053e1d129+dirty",
       "Tool: GitHub.com-Dependency-Graph"
     ],
-    "created": "2025-11-03T20:19:11Z"
+    "created": "2025-11-17T18:24:14Z"
   },
   "packages": [
-    {
-      "name": "colorama",
-      "SPDXID": "SPDXRef-pypi-colorama-0.4.6-75c946",
-      "versionInfo": "0.4.6",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
-      "copyrightText": "Copyright (c) 2010 Jonathan Hartley, Copyright Jonathan Hartley & Arnon Yaari, 2013-2020, Copyright Jonathan Hartley 2013",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/colorama@0.4.6"
-        }
-      ]
-    },
     {
       "name": "pyfiglet",
       "SPDXID": "SPDXRef-pypi-pyfiglet-1.0.4-75c946",
@@ -41,6 +25,22 @@
           "referenceCategory": "PACKAGE-MANAGER",
           "referenceType": "purl",
           "referenceLocator": "pkg:pypi/pyfiglet@1.0.4"
+        }
+      ]
+    },
+    {
+      "name": "colorama",
+      "SPDXID": "SPDXRef-pypi-colorama-0.4.6-75c946",
+      "versionInfo": "0.4.6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "copyrightText": "Copyright (c) 2010 Jonathan Hartley, Copyright Jonathan Hartley & Arnon Yaari, 2013-2020, Copyright Jonathan Hartley 2013",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:pypi/colorama@0.4.6"
         }
       ]
     },
@@ -62,12 +62,12 @@
   "relationships": [
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-python-template-project-main-e1dd13",
-      "relatedSpdxElement": "SPDXRef-pypi-colorama-0.4.6-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-pyfiglet-1.0.4-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {
       "spdxElementId": "SPDXRef-github-MoriwakiYusuke-python-template-project-main-e1dd13",
-      "relatedSpdxElement": "SPDXRef-pypi-pyfiglet-1.0.4-75c946",
+      "relatedSpdxElement": "SPDXRef-pypi-colorama-0.4.6-75c946",
       "relationshipType": "DEPENDS_ON"
     },
     {

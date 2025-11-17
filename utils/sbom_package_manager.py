@@ -1,6 +1,8 @@
 import os
 import json
 from datetime import datetime, timezone
+# ★★★ 1. `get_purl_from_package` をインポート ★★★
+from .sbom_utils import get_purl_from_package
 
 def _get_main_package_spdx_id(sbom_data):
     """
@@ -17,6 +19,7 @@ def _get_main_package_spdx_id(sbom_data):
 def add_missing_packages_and_relationships(base_data, source_data, source_tool_name):
     """
     ベースSBOMに存在しないパッケージと関連するRelationshipをソースSBOMから追加する.
+    (PURLベースで重複チェックを行う)
     """
     
     new_packages_added = 0
@@ -25,25 +28,31 @@ def add_missing_packages_and_relationships(base_data, source_data, source_tool_n
     if 'packages' not in source_data:
         return 0, 0
 
-    # 親となるトップレベルパッケージのSPDXIDを特定する (内部関数を呼び出す)
     main_package_spdx_id = _get_main_package_spdx_id(base_data)
     
     if not main_package_spdx_id:
         print("⚠️ Warning: Could not find the main package ID. Cannot add new relationships.")
     
-    base_pkg_names = {pkg.get('name') for pkg in base_data.get('packages', []) if pkg.get('name')}
+    # ★★★ 2. `base_pkg_names` の代わりに `base_pkg_purls` を作成 ★★★
+    base_pkg_purls = set()
+    for pkg in base_data.get('packages', []):
+        purl = get_purl_from_package(pkg)
+        if purl:
+            base_pkg_purls.add(purl)
     
     for source_pkg in source_data.get('packages', []):
-        pkg_name = source_pkg.get('name')
+        # ★★★ 3. `name` ではなく `purl` で判定する ★★★
+        source_purl = get_purl_from_package(source_pkg)
         
-        if pkg_name and pkg_name not in base_pkg_names:
+        # PURLが存在し、かつそれがベースSBOMに存在しない場合のみ追加処理を行う.
+        if source_purl and source_purl not in base_pkg_purls:
             
             # 1. パッケージに出典情報を注釈として記録する.
             annotation = {
                 "annotationDate": datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
                 "annotationType": "OTHER",
                 "annotator": "Tool: sbom-merge-script",
-                "comment": f"Package added from {source_tool_name}."
+                "comment": f"Package (purl: {source_purl}) added from {source_tool_name}."
             }
             source_pkg.setdefault('annotations', []).append(annotation)
 
@@ -54,9 +63,9 @@ def add_missing_packages_and_relationships(base_data, source_data, source_tool_n
             
             # 3. packagesリストに新しいパッケージを追加する.
             base_data.setdefault('packages', []).append(source_pkg)
-            base_pkg_names.add(pkg_name)
+            base_pkg_purls.add(source_purl) # 追加したpurlをセットにも追加
             new_packages_added += 1
-            print(f"   Added new package from {source_tool_name}: {pkg_name}")
+            print(f"   Added new package from {source_tool_name}: {source_pkg.get('name')} ({source_purl})")
             
             # 4. 新しく追加したパッケージの親子関係をrelationshipsリストに追加する.
             new_pkg_spdx_id = source_pkg.get('SPDXID')
