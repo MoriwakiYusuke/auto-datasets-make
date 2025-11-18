@@ -1,5 +1,9 @@
-repository,source_tool,licenses_updated,copyrights_updated,comments_updated,suppliers_updated,originators_updated,source_infos_added,external_refs_added,purposes_updated,annotations_added,file_types_added,merge_annotations_added,new_packages_added,new_relationships_added,creators_added,total_changes
-python-template-project,dependency-graph,2,2,0,0,0,0,0,0,0,0,3,1,1,2,11
-python-template-project,syft,0,0,0,0,0,2,24,0,0,0,2,0,0,2,30
-python-template-project,trivy,0,0,0,0,0,0,0,2,2,0,2,0,0,2,8
-python-template-project,sbom-merge-script,0,0,0,0,0,0,0,0,0,4,4,0,0,1,9
+repository,source_tool,licenses_updated,copyrights_updated,comments_updated,suppliers_updated,originators_updated,source_infos_added,external_refs_added,purposes_updated,annotations_added,file_types_added,merge_annotations_added,conflicts_detected,new_packages_added,new_relationships_added,creators_added,total_changes
+python-template-project,dependency-graph,2,2,0,0,0,0,0,0,0,0,5,0,1,1,2,13
+python-template-project,syft,0,0,0,0,0,2,24,0,0,0,2,0,0,0,2,30
+python-template-project,trivy,0,0,0,0,0,0,0,2,2,0,2,0,0,0,2,8
+python-template-project,sbom-merge-script,0,0,0,0,0,0,0,0,0,4,4,0,0,0,1,9
+python-template-project,dependency-graph,2,2,0,0,0,0,0,0,0,0,5,0,1,1,2,13
+python-template-project,syft,0,0,0,0,0,2,24,0,0,0,2,0,0,0,2,30
+python-template-project,trivy,0,0,0,0,0,0,0,2,2,0,4,0,0,0,2,10
+python-template-project,sbom-merge-script,0,0,0,0,0,0,0,0,0,4,4,0,0,0,1,9
