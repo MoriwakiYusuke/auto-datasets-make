@@ -1,15 +1,15 @@
 import os
 import csv
 
-# ★★★ 1. CSVヘッダーに 'merge_annotations_added' を追加 ★★★
-# これが、全スクリプトが「出典として追加した注釈の総数」を記録する共通の列となります.
+# ★★★ 1. CSVヘッダーに 'conflicts_detected' を追加 ★★★
 CSV_FIELDNAMES = [
     'repository', 'source_tool',
     'licenses_updated', 'copyrights_updated', 'comments_updated',
     'suppliers_updated', 'originators_updated', 'source_infos_added', 'external_refs_added',
-    'purposes_updated', 'annotations_added', # (Trivyが元々持つ注釈の数)
+    'purposes_updated', 'annotations_added',
     'file_types_added',
-    'merge_annotations_added', # ★★★ この行を追加 ★★★
+    'merge_annotations_added', # 通常の補完による注釈数
+    'conflicts_detected',      # ★★★ 競合による警告注釈の数 ★★★
     'new_packages_added', 'new_relationships_added', 'creators_added',
     'total_changes'
 ]
